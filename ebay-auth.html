@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>eBay API Authorization</title>
+    <link rel="stylesheet" href="water-dark.css">
+</head>
+<body>
+    <h1>eBay API Authorization</h1>
+    <h2>Params</h2>
+    <table id="params">
+        <thead>
+
+        </thead>
+        <tbody>
+
+        </tbody>
+    </table>
+    <script>
+        var tbody = document.querySelector('#params tbody');
+        var urlParams = new URLSearchParams(window.location.search);
+        for (entry of urlParams.entries()) {
+            var row = document.createElement('tr');
+            var td1 = document.createElement('td');
+            var td2 = document.createElement('td');
+            td1.innerText = entry[0];
+            td2.innerHTML = `<code>${entry[1]}</code>`;
+            row.appendChild(td1);
+            row.appendChild(td2);
+            tbody.appendChild(row);
+        }
+    </script>
+</body>
+</html>
