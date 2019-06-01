@@ -7,7 +7,7 @@
     "entries": [
       {
         "supplier": "Apple",
-        "name": "Akku",
+        "name": "iPhone XS Max",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
@@ -26,7 +26,7 @@
       },
       {
         "supplier": "Apple",
-        "name": "Akku",
+        "name": "iPhone XS",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
@@ -61,7 +61,7 @@
       },
       {
         "supplier": "Apple",
-        "name": "Akku",
+        "name": "iPhone XR",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
@@ -96,7 +96,7 @@
       },
       {
         "supplier": "Apple",
-        "name": "Akku",
+        "name": "iPhone X",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
@@ -151,7 +151,7 @@
       },
       {
         "supplier": "Apple",
-        "name": "Akku",
+        "name": "iPhone 8 Plus",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
@@ -210,7 +210,7 @@
       },
       {
         "supplier": "Apple",
-        "name": "Akku",
+        "name": "iPhone 8",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
@@ -269,7 +269,7 @@
       },
       {
         "supplier": "Apple",
-        "name": "Akku",
+        "name": "iPhone 7 Plus",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
@@ -332,7 +332,7 @@
       },
       {
         "supplier": "Apple",
-        "name": "Akku",
+        "name": "iPhone 7",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
@@ -407,7 +407,7 @@
       },
       {
         "supplier": "Apple",
-        "name": "Akku",
+        "name": "iPhone SE",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
@@ -486,7 +486,7 @@
       },
       {
         "supplier": "Apple",
-        "name": "Zur\u00fccksetzen auf Werkseinstellungen",
+        "name": "iPhone 6S Plus",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
@@ -581,7 +581,7 @@
       },
       {
         "supplier": "Apple",
-        "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+        "name": "iPhone 6S",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
@@ -676,7 +676,7 @@
       },
       {
         "supplier": "Apple",
-        "name": "Blockierte SIM Entfernen",
+        "name": "iPhone 5",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
@@ -771,7 +771,7 @@
       },
       {
         "supplier": "Samsung",
-        "name": "Akku",
+        "name": "Galaxy S10 Plus ( SM-G975 )",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr die Versicherung",
@@ -794,7 +794,7 @@
       },
       {
         "supplier": "Samsung",
-        "name": "Akku",
+        "name": "Galaxy S10e ( SM-G970 )",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr die Versicherung",
@@ -817,7 +817,7 @@
       },
       {
         "supplier": "Samsung",
-        "name": "Akku",
+        "name": "Galaxy S10 ( SM-G973 )",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr die Versicherung",
@@ -840,7 +840,7 @@
       },
       {
         "supplier": "Samsung",
-        "name": "Akku",
+        "name": "Galaxy J4 Plus ( SM-J415 )",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr die Versicherung",
@@ -859,7 +859,7 @@
       },
       {
         "supplier": "Samsung",
-        "name": "Akku",
+        "name": "Galaxy A6 Plus 2018 ( SM-A605 )",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr die Versicherung",
@@ -894,7 +894,7 @@
       },
       {
         "supplier": "Samsung",
-        "name": "Akku",
+        "name": "Galaxy A7 2018 ( SM-A750 )",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr die Versicherung",
@@ -929,7 +929,7 @@
       },
       {
         "supplier": "Samsung",
-        "name": "Akku",
+        "name": "Galaxy A6 2018 (SM-A600)",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr die Versicherung",
@@ -964,7 +964,7 @@
       },
       {
         "supplier": "Samsung",
-        "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherung*",
+        "name": "andere Samsung Modelle",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherung*",
@@ -975,7 +975,7 @@
       },
       {
         "supplier": "Samsung",
-        "name": " Backcover",
+        "name": "Note 9 ( SM-N960 )",
         "services": [
           {
             "name": " Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
@@ -994,7 +994,7 @@
       },
       {
         "supplier": "Samsung",
-        "name": "Blockierte SIM Entfernen",
+        "name": "Galaxy S9 Plus (SM-G965F)",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
@@ -1077,7 +1077,7 @@
       },
       {
         "supplier": "Samsung",
-        "name": "Blockierte SIM entfernen",
+        "name": "Galaxy S9 ( SM-G960 )",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
@@ -1148,7 +1148,7 @@
       },
       {
         "supplier": "Samsung",
-        "name": "Zur\u00fccksetzen auf Werkseinstellungen",
+        "name": "J7 2017 ( SM-J730 )",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr die Versicherung",
@@ -1175,7 +1175,7 @@
       },
       {
         "supplier": "Sony",
-        "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherung*",
+        "name": "andere Sony Modelle",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherung*",
@@ -1186,7 +1186,7 @@
       },
       {
         "supplier": "Sony",
-        "name": "Akku",
+        "name": "Xperia XA2",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherung",
@@ -1245,7 +1245,7 @@
       },
       {
         "supplier": "Sony",
-        "name": "Akku",
+        "name": "Xperia XA1",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherung",
@@ -1304,7 +1304,7 @@
       },
       {
         "supplier": "Sony",
-        "name": "Akku",
+        "name": "Xperia XZ2 compact",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherung",
@@ -1355,7 +1355,7 @@
       },
       {
         "supplier": "Sony",
-        "name": "Akku",
+        "name": "Xperia XZ2",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherung",
@@ -1402,7 +1402,7 @@
       },
       {
         "supplier": "Sony",
-        "name": "Akku",
+        "name": "Xperia XZ1 compact",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherung",
@@ -1453,7 +1453,7 @@
       },
       {
         "supplier": "Sony",
-        "name": "Akku",
+        "name": "Xperia XZ1",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherung",
@@ -1504,7 +1504,7 @@
       },
       {
         "supplier": "Sony",
-        "name": "Akku",
+        "name": "Xperia XZ Premium",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherung",
@@ -1555,7 +1555,7 @@
       },
       {
         "supplier": "Sony",
-        "name": " Zur\u00fccksetzen auf Werkseinstellungen",
+        "name": "Xperia XZ",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
@@ -1614,7 +1614,7 @@
       },
       {
         "supplier": "Sony",
-        "name": " Zur\u00fccksetzen auf Werkseinstellungen",
+        "name": "Xperia X compact",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
@@ -1681,7 +1681,7 @@
       },
       {
         "supplier": "Sony",
-        "name": " Zur\u00fccksetzen auf Werkseinstellungen",
+        "name": "Xperia X",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
@@ -1752,7 +1752,7 @@
       },
       {
         "supplier": "Sony",
-        "name": " Zur\u00fccksetzen auf Werkseinstellungen",
+        "name": "Xperia XA",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
@@ -1807,7 +1807,7 @@
       },
       {
         "supplier": "Huawei",
-        "name": "Akku",
+        "name": "P30 Pro",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherung",
@@ -1830,7 +1830,7 @@
       },
       {
         "supplier": "Huawei",
-        "name": "Akku",
+        "name": "P30",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherung",
@@ -1853,7 +1853,7 @@
       },
       {
         "supplier": "Huawei",
-        "name": "Akku",
+        "name": "Mate 10",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherung",
@@ -1872,7 +1872,7 @@
       },
       {
         "supplier": "Huawei",
-        "name": "Akku",
+        "name": "Mate 20 lite",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherung",
@@ -1895,7 +1895,7 @@
       },
       {
         "supplier": "Huawei",
-        "name": "Akku",
+        "name": "Mate 20",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
@@ -1914,7 +1914,7 @@
       },
       {
         "supplier": "Huawei",
-        "name": "Akku",
+        "name": "Mate 10 Pro",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherung",
@@ -1933,7 +1933,7 @@
       },
       {
         "supplier": "Huawei",
-        "name": "Touchscreen+LCD+Frame",
+        "name": "Mate 20 Pro",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherung",
@@ -1948,7 +1948,7 @@
       },
       {
         "supplier": "Huawei",
-        "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherung*",
+        "name": "andere Huawei Modelle",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherung*",
@@ -1959,7 +1959,7 @@
       },
       {
         "supplier": "Huawei",
-        "name": "Akku",
+        "name": "P Smart",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherung",
@@ -2006,7 +2006,7 @@
       },
       {
         "supplier": "Huawei",
-        "name": "Akku",
+        "name": "Nova 2",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherung",
@@ -2053,7 +2053,7 @@
       },
       {
         "supplier": "Huawei",
-        "name": "Akku",
+        "name": "P20 Pro",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
@@ -2080,7 +2080,7 @@
       },
       {
         "supplier": "Huawei",
-        "name": "Akku",
+        "name": "P20 lite",
         "services": [
           {
             "name": " Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
@@ -2103,7 +2103,7 @@
       },
       {
         "supplier": "Google",
-        "name": " Touchscreen + LCD wei\u00df",
+        "name": "Pixel XL",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherung",
@@ -2122,7 +2122,7 @@
       },
       {
         "supplier": "Google",
-        "name": " Touchscreen + LCD wei\u00df",
+        "name": "Pixel",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherung",
@@ -2141,7 +2141,7 @@
       },
       {
         "supplier": "LG",
-        "name": " Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+        "name": "andere LG Modelle",
         "services": [
           {
             "name": " Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
@@ -2152,7 +2152,7 @@
       },
       {
         "supplier": "LG",
-        "name": "Ladeanschluss",
+        "name": "G7",
         "services": [
           {
             "name": " Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
@@ -2183,7 +2183,7 @@
       },
       {
         "supplier": "LG",
-        "name": "Akku",
+        "name": "V30 ( H930 )",
         "services": [
           {
             "name": " Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
@@ -2206,7 +2206,7 @@
       },
       {
         "supplier": "LG",
-        "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+        "name": "G6 ( H870 )",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
@@ -2245,7 +2245,7 @@
       },
       {
         "supplier": "LG",
-        "name": "Akku",
+        "name": "G5 ( H850 )",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
@@ -2300,7 +2300,7 @@
       },
       {
         "supplier": "LG",
-        "name": "Akku",
+        "name": "G4",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
@@ -2359,7 +2359,7 @@
       },
       {
         "supplier": "LG",
-        "name": "Fl\u00fcssigkeitsschaden",
+        "name": "Nexus 5",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
@@ -2470,7 +2470,7 @@
       },
       {
         "supplier": "Nokia",
-        "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen*",
+        "name": "andere Nokia Modelle",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen*",
@@ -2481,7 +2481,7 @@
       },
       {
         "supplier": "Nokia",
-        "name": "Akku",
+        "name": "8 Sirocco",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
@@ -2512,7 +2512,7 @@
       },
       {
         "supplier": "Nokia",
-        "name": "Akku",
+        "name": "7 Plus DS",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
@@ -2535,7 +2535,7 @@
       },
       {
         "supplier": "Nokia",
-        "name": "Akku",
+        "name": "6.1",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
@@ -2554,7 +2554,7 @@
       },
       {
         "supplier": "Nokia",
-        "name": "Akku",
+        "name": "6",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
@@ -2573,7 +2573,7 @@
       },
       {
         "supplier": "Nokia",
-        "name": "Akku",
+        "name": "5 Dual-SIM",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
@@ -2596,7 +2596,7 @@
       },
       {
         "supplier": "Nokia",
-        "name": "Akku",
+        "name": "Lumia 950 XL",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
@@ -2659,7 +2659,7 @@
       },
       {
         "supplier": "Nokia",
-        "name": "Akku",
+        "name": "Lumia 950",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
@@ -2702,7 +2702,7 @@
       },
       {
         "supplier": "Nokia",
-        "name": "Blockierte SIM Entfernen",
+        "name": "Lumia 1020",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
@@ -2793,7 +2793,7 @@
       },
       {
         "supplier": "Samsung-Tablets",
-        "name": " Diagnose / Kostenvoranschlag f\u00fcr Versicherungen*",
+        "name": "andere Samsung Tablets",
         "services": [
           {
             "name": " Diagnose / Kostenvoranschlag f\u00fcr Versicherungen*",
@@ -2804,7 +2804,7 @@
       },
       {
         "supplier": "Samsung-Tablets",
-        "name": "Akku",
+        "name": "Tab A ( SM-T 580 )",
         "services": [
           {
             "name": " Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
@@ -2823,7 +2823,7 @@
       },
       {
         "supplier": "Samsung-Tablets",
-        "name": "Zur\u00fccksetzen auf Werkseinstellungen",
+        "name": "Tab S2 8.0 (SM-T710/SM-T715)",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
@@ -2854,7 +2854,7 @@
       },
       {
         "supplier": "Samsung-Tablets",
-        "name": "Zur\u00fccksetzen auf Werkseinstellungen",
+        "name": "Tab S 8.4 (SM-T700/SM-T705)",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
@@ -2889,7 +2889,7 @@
       },
       {
         "supplier": "Samsung-Tablets",
-        "name": "Akkutausch",
+        "name": "Galaxy Tab 4 ( SM-T 530 )",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
@@ -2912,7 +2912,7 @@
       },
       {
         "supplier": "Samsung-Tablets",
-        "name": "Akkutausch",
+        "name": "Galaxy Tab 3 ( SM-P5210 )",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
@@ -2935,7 +2935,7 @@
       },
       {
         "supplier": "Samsung-Tablets",
-        "name": "Akkutausch",
+        "name": "Galaxy Tab 2 ( SM-P5110 )",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
@@ -2958,7 +2958,7 @@
       },
       {
         "supplier": "andere Hersteller",
-        "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherung*",
+        "name": "",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherung*",
@@ -2969,7 +2969,7 @@
       },
       {
         "supplier": "Apple",
-        "name": "Zur\u00fccksetzen auf Werkseinstellungen",
+        "name": "iPhone 6",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
@@ -3068,7 +3068,7 @@
       },
       {
         "supplier": "Apple",
-        "name": "Zur\u00fccksetzen auf Werkseinstellungen",
+        "name": "iPhone 6 Plus",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
@@ -3167,7 +3167,7 @@
       },
       {
         "supplier": "Samsung",
-        "name": "Blockierte SIM Entfernen",
+        "name": "Galaxy Note 4",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
@@ -3266,7 +3266,7 @@
       },
       {
         "supplier": "Samsung",
-        "name": "Blockierte SIM Entfernen",
+        "name": "Galaxy Note Edge",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
@@ -3301,7 +3301,7 @@
       },
       {
         "supplier": "Samsung",
-        "name": "Blockierte SIM Entfernen",
+        "name": "Galaxy S5",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
@@ -3420,7 +3420,7 @@
       },
       {
         "supplier": "Samsung",
-        "name": "Blockierte SIM Entfernen",
+        "name": "Galaxy S6",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
@@ -3523,7 +3523,7 @@
       },
       {
         "supplier": "Samsung",
-        "name": "Blockierte SIM Entfernen",
+        "name": "Galaxy S6 Edge",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
@@ -3606,7 +3606,7 @@
       },
       {
         "supplier": "Samsung",
-        "name": "Blockierte SIM Entfernen",
+        "name": "Galaxy A7",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherung",
@@ -3653,7 +3653,7 @@
       },
       {
         "supplier": "Samsung",
-        "name": "Blockierte SIM Entfernen",
+        "name": "Galaxy A3 / Galaxy A3 ( 16 )",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherung",
@@ -3756,7 +3756,7 @@
       },
       {
         "supplier": "Samsung",
-        "name": "Blockierte SIM Entfernen",
+        "name": "Galaxy A5 / Galaxy A5 ( 16 )",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherung",
@@ -3855,7 +3855,7 @@
       },
       {
         "supplier": "Samsung",
-        "name": "Blockierte SIM Entfernen",
+        "name": "Galaxy Note 3",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherung",
@@ -3954,7 +3954,7 @@
       },
       {
         "supplier": "Apple",
-        "name": "Akkutausch",
+        "name": "iPhone 5S",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
@@ -4041,7 +4041,7 @@
       },
       {
         "supplier": "Apple",
-        "name": "Zur\u00fccksetzen auf Werkseinstellungen",
+        "name": "iPhone 5C",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
@@ -4128,7 +4128,7 @@
       },
       {
         "supplier": "Samsung",
-        "name": "Blockierte SIM Entfernen",
+        "name": "Galaxy S5 Mini",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
@@ -4235,7 +4235,7 @@
       },
       {
         "supplier": "Sony",
-        "name": "Blockierte SIM Entfernen",
+        "name": "Xperia Z3",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherung",
@@ -4342,7 +4342,7 @@
       },
       {
         "supplier": "Sony",
-        "name": "Fl\u00fcssigkeitsschaden",
+        "name": "Xperia Z3 Compact",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherung",
@@ -4457,7 +4457,7 @@
       },
       {
         "supplier": "Sony",
-        "name": "Fl\u00fcssigkeitsschaden",
+        "name": "Xperia Z Ultra",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherung",
@@ -4560,7 +4560,7 @@
       },
       {
         "supplier": "Huawei",
-        "name": "Akkutausch",
+        "name": "P8 Lite",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
@@ -4619,7 +4619,7 @@
       },
       {
         "supplier": "Sony",
-        "name": "Fl\u00fcssigkeitsschaden",
+        "name": "Xperia Z3 Plus",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherung",
@@ -4734,7 +4734,7 @@
       },
       {
         "supplier": "Sony",
-        "name": "Blockierte SIM Entfernen",
+        "name": "Xperia Z5",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherung",
@@ -4837,7 +4837,7 @@
       },
       {
         "supplier": "Sony",
-        "name": "Fl\u00fcssigkeitsschaden",
+        "name": "Xperia Z5 Premium",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherung",
@@ -4952,7 +4952,7 @@
       },
       {
         "supplier": "Sony",
-        "name": "Blockierte SIM Entfernen",
+        "name": "Xperia Z5 Compact",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherung",
@@ -5059,7 +5059,7 @@
       },
       {
         "supplier": "Samsung",
-        "name": "Blockierte SIM Entfernen",
+        "name": "Galaxy S7",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
@@ -5174,7 +5174,7 @@
       },
       {
         "supplier": "Samsung",
-        "name": "Blockierte SIM Entfernen",
+        "name": "Galaxy S7 Edge",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
@@ -5265,7 +5265,7 @@
       },
       {
         "supplier": "Samsung",
-        "name": "Blockierte SIM Entfernen",
+        "name": "Galaxy J3 / J3 ( 16 )",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherung",
@@ -5312,7 +5312,7 @@
       },
       {
         "supplier": "Samsung",
-        "name": "Akkutausch",
+        "name": "J5 / J5 ( 16 )",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr die Versicherung",
@@ -5343,7 +5343,7 @@
       },
       {
         "supplier": "Huawei",
-        "name": "Akku",
+        "name": "P9",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
@@ -5402,7 +5402,7 @@
       },
       {
         "supplier": "Huawei",
-        "name": "Akku",
+        "name": "G7",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
@@ -5469,7 +5469,7 @@
       },
       {
         "supplier": "Huawei",
-        "name": "Akku",
+        "name": "P9 lite",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
@@ -5532,7 +5532,7 @@
       },
       {
         "supplier": "Samsung",
-        "name": "Blockierte SIM Entfernen",
+        "name": "Galaxy S5 Neo",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
@@ -5611,7 +5611,7 @@
       },
       {
         "supplier": "Samsung",
-        "name": "Blockierte SIM Entfernen",
+        "name": "Galaxy S6 Edge Plus",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
@@ -5690,7 +5690,7 @@
       },
       {
         "supplier": "Samsung",
-        "name": "Blockierte SIM Entfernen",
+        "name": "Galaxy A5 2017 ( SM-A520 )",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
@@ -5769,7 +5769,7 @@
       },
       {
         "supplier": "Huawei",
-        "name": "Akku",
+        "name": "Nova",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
@@ -5828,7 +5828,7 @@
       },
       {
         "supplier": "Huawei",
-        "name": "Akku",
+        "name": "Mate 9",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
@@ -5871,7 +5871,7 @@
       },
       {
         "supplier": "Samsung",
-        "name": "Blockierte SIM Entfernen",
+        "name": "S8 ( SM-G 950 )",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
@@ -5970,7 +5970,7 @@
       },
       {
         "supplier": "Samsung",
-        "name": "Blockierte SIM Entfernen",
+        "name": "S8 Plus ( SM-G 955 )",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
@@ -6069,7 +6069,7 @@
       },
       {
         "supplier": "Samsung",
-        "name": "Zur\u00fccksetzen auf Werkseinstellungen",
+        "name": "J5 2017 ( SM-J530 )",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr die Versicherung",
@@ -6096,7 +6096,7 @@
       },
       {
         "supplier": "Huawei",
-        "name": "Akku",
+        "name": "P10",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
@@ -6131,7 +6131,7 @@
       },
       {
         "supplier": "Huawei",
-        "name": "Akku",
+        "name": "P10 lite",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
@@ -6166,7 +6166,7 @@
       },
       {
         "supplier": "Samsung",
-        "name": "Blockierte SIM Entfernen",
+        "name": "Galaxy A3 2017 ( SM-A320 )",
         "services": [
           {
             "name": " Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
@@ -6233,7 +6233,7 @@
       },
       {
         "supplier": "Huawei",
-        "name": "Zur\u00fccksetzen auf Werkseinstellung",
+        "name": "P8 lite 2017",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
@@ -6264,7 +6264,7 @@
       },
       {
         "supplier": "Samsung",
-        "name": "Blockierte SIM Entfernen",
+        "name": "Xcover 4",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
@@ -6299,7 +6299,7 @@
       },
       {
         "supplier": "Samsung",
-        "name": "Zur\u00fccksetzen auf Werkseinstellungen",
+        "name": "J3 2017 ( SM-J330 )",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr die Versicherung",
@@ -6326,7 +6326,7 @@
       },
       {
         "supplier": "Samsung",
-        "name": "Akku",
+        "name": "Note 8 ( SM-N950 )",
         "services": [
           {
             "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
@@ -6385,7 +6385,7 @@
       },
       {
         "supplier": "Huawei",
-        "name": "Akku",
+        "name": "Mate 10 lite",
         "services": [
           {
             "name": " Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
@@ -6408,7 +6408,7 @@
       },
       {
         "supplier": "Huawei",
-        "name": "Akku",
+        "name": "P20",
         "services": [
           {
             "name": " Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
