@@ -1,0 +1,5529 @@
+[
+  {
+    "name": "My Phone Repair GmbH",
+    "address": "Voltmerstr. 73, 30165 Hannover",
+    "mapsUrl": "https://www.google.com/maps/place/My+Phone+Repair+GmbH/@52.406989,9.713507,16z/data=!4m5!3m4!1s0x0:0x53837d74a2d9f2b6!8m2!3d52.406989!4d9.713507?hl=en-US",
+    "logo": "/img/logos/logo-myphonerepair-hannover.jpg",
+    "entries": [
+      {
+        "supplier": "Apple",
+        "name": "iPad 2",
+        "services": [
+          {
+            "name": "Display",
+            "price": 169.9
+          },
+          {
+            "name": "Glas Austausch",
+            "price": 89.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/apple-ipad-2.html"
+      },
+      {
+        "supplier": "Apple",
+        "name": "iPad 3",
+        "services": [
+          {
+            "name": "Display",
+            "price": 159.9
+          },
+          {
+            "name": "Glas Austausch",
+            "price": 89.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Akku Austausch",
+            "price": 89.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/apple-ipad-3.html"
+      },
+      {
+        "supplier": "Apple",
+        "name": "iPad 4",
+        "services": [
+          {
+            "name": "Display",
+            "price": 139.9
+          },
+          {
+            "name": "Glas Austausch",
+            "price": 89.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/apple-ipad-4.html"
+      },
+      {
+        "supplier": "Apple",
+        "name": "iPad Air 2",
+        "services": [
+          {
+            "name": "Display",
+            "price": 289.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Akku",
+            "price": 99.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/apple-ipad-air-2.html"
+      },
+      {
+        "supplier": "Apple",
+        "name": "iPad mini",
+        "services": [
+          {
+            "name": "Display",
+            "price": 159.9
+          },
+          {
+            "name": "Glas Austausch",
+            "price": 99.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/apple-ipad-mini.html"
+      },
+      {
+        "supplier": "Apple",
+        "name": "iPad mini 2",
+        "services": [
+          {
+            "name": "Display",
+            "price": 159.9
+          },
+          {
+            "name": "Glas Austausch",
+            "price": 99.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/apple-ipad-mini-2.html"
+      },
+      {
+        "supplier": "Apple",
+        "name": "iPad mini 4",
+        "services": [
+          {
+            "name": "Display",
+            "price": 219.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/apple-ipad-mini-4.html"
+      },
+      {
+        "supplier": "Apple",
+        "name": "iPad Pro 12,9",
+        "services": [
+          {
+            "name": "Display",
+            "price": 229.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/apple-ipad-pro-12-9.html"
+      },
+      {
+        "supplier": "Apple",
+        "name": "iPad Pro 12,9 2017",
+        "services": [
+          {
+            "name": "Display",
+            "price": 379.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/apple-ipad-pro-12-9-2017.html"
+      },
+      {
+        "supplier": "Apple",
+        "name": "iPhone 4",
+        "services": [
+          {
+            "name": "Display",
+            "price": 59.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Akku",
+            "price": 49.9
+          },
+          {
+            "name": "Kopfh\u00f6rerbuchse",
+            "price": 49.9
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 49.9
+          },
+          {
+            "name": "Powerbutton",
+            "price": 49.9
+          },
+          {
+            "name": "Stummschalter",
+            "price": 49.9
+          },
+          {
+            "name": "Ladebuchse",
+            "price": 49.9
+          },
+          {
+            "name": "Hauptkamera",
+            "price": 49.9
+          },
+          {
+            "name": "Frontkamera",
+            "price": 49.9
+          },
+          {
+            "name": "Mikrofon",
+            "price": 49.9
+          },
+          {
+            "name": "Vibration",
+            "price": 49.9
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 49.9
+          },
+          {
+            "name": "Homebutton",
+            "price": 49.9
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 49.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/iphone-4.html"
+      },
+      {
+        "supplier": "Apple",
+        "name": "iPhone 4S",
+        "services": [
+          {
+            "name": "Display",
+            "price": 59.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Akku",
+            "price": 49.9
+          },
+          {
+            "name": "Kopfh\u00f6rerbuchse",
+            "price": 49.9
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 49.9
+          },
+          {
+            "name": "Powerbutton",
+            "price": 49.9
+          },
+          {
+            "name": "Stummschalter",
+            "price": 49.9
+          },
+          {
+            "name": "Ladebuchse",
+            "price": 49.9
+          },
+          {
+            "name": "Hauptkamera",
+            "price": 49.9
+          },
+          {
+            "name": "Frontkamera",
+            "price": 49.9
+          },
+          {
+            "name": "Mikrofon",
+            "price": 49.9
+          },
+          {
+            "name": "Vibration",
+            "price": 49.9
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 49.9
+          },
+          {
+            "name": "Homebutton",
+            "price": 49.9
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 49.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/iphone-4s.html"
+      },
+      {
+        "supplier": "Apple",
+        "name": "iPhone 5",
+        "services": [
+          {
+            "name": "Display",
+            "price": 79.0
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": null
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Akku",
+            "price": 50.0
+          },
+          {
+            "name": "Kopfh\u00f6rerbuchse",
+            "price": 59.9
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 59.9
+          },
+          {
+            "name": "Powerbutton",
+            "price": 59.9
+          },
+          {
+            "name": "Stummschalter",
+            "price": 59.9
+          },
+          {
+            "name": "Ladebuchse",
+            "price": 59.9
+          },
+          {
+            "name": "Hauptkamera",
+            "price": 59.9
+          },
+          {
+            "name": "Frontkamera",
+            "price": 40.0
+          },
+          {
+            "name": "Mikrofon",
+            "price": 59.9
+          },
+          {
+            "name": "Vibration",
+            "price": 59.9
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 59.9
+          },
+          {
+            "name": "Homebutton",
+            "price": 59.9
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 59.9
+          },
+          {
+            "name": "Geh\u00e4use",
+            "price": 139.0
+          }
+        ],
+        "url": "https://www.myphonerepair.de/iphone-5.html"
+      },
+      {
+        "supplier": "Apple",
+        "name": "iPhone 5C",
+        "services": [
+          {
+            "name": "Display",
+            "price": 79.0
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 25.0
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Akku",
+            "price": 59.9
+          },
+          {
+            "name": "Kopfh\u00f6rerbuchse",
+            "price": 59.9
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 59.9
+          },
+          {
+            "name": "Powerbutton",
+            "price": 59.9
+          },
+          {
+            "name": "Stummschalter",
+            "price": 59.9
+          },
+          {
+            "name": "Ladebuchse",
+            "price": 59.9
+          },
+          {
+            "name": "Hauptkamera",
+            "price": 59.9
+          },
+          {
+            "name": "Frontkamera",
+            "price": 59.9
+          },
+          {
+            "name": "Mikrofon",
+            "price": 59.9
+          },
+          {
+            "name": "Vibration",
+            "price": 59.9
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 59.9
+          },
+          {
+            "name": "Homebutton",
+            "price": 59.9
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 59.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/iphone-5c.html"
+      },
+      {
+        "supplier": "Apple",
+        "name": "iPhone 5S",
+        "services": [
+          {
+            "name": "Display",
+            "price": 79.0
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 25.0
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Akku",
+            "price": 59.9
+          },
+          {
+            "name": "Kopfh\u00f6rerbuchse",
+            "price": 59.9
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 59.9
+          },
+          {
+            "name": "Powerbutton",
+            "price": 59.9
+          },
+          {
+            "name": "Stummschalter",
+            "price": 59.9
+          },
+          {
+            "name": "Ladebuchse",
+            "price": 59.9
+          },
+          {
+            "name": "Hauptkamera",
+            "price": 59.9
+          },
+          {
+            "name": "Frontkamera",
+            "price": 59.9
+          },
+          {
+            "name": "Mikrofon",
+            "price": 59.9
+          },
+          {
+            "name": "Vibration",
+            "price": 59.9
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 59.9
+          },
+          {
+            "name": "Homebutton",
+            "price": 59.9
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 59.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/iphone-5s.html"
+      },
+      {
+        "supplier": "Apple",
+        "name": "iPhone 6",
+        "services": [
+          {
+            "name": "Display",
+            "price": 84.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 30.0
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Akku",
+            "price": 59.9
+          },
+          {
+            "name": "Kopfh\u00f6rerbuchse",
+            "price": 69.9
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 69.9
+          },
+          {
+            "name": "Powerbutton",
+            "price": 69.9
+          },
+          {
+            "name": "Stummschalter",
+            "price": 69.9
+          },
+          {
+            "name": "Ladebuchse",
+            "price": 69.9
+          },
+          {
+            "name": "Hauptkamera",
+            "price": 69.9
+          },
+          {
+            "name": "Frontkamera",
+            "price": 69.9
+          },
+          {
+            "name": "Mikrofon",
+            "price": 69.9
+          },
+          {
+            "name": "Vibration",
+            "price": 69.9
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 69.9
+          },
+          {
+            "name": "Homebutton",
+            "price": 69.9
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 69.9
+          },
+          {
+            "name": "Kameraglas",
+            "price": 69.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/iphone-6.html"
+      },
+      {
+        "supplier": "Apple",
+        "name": "iPhone 6 Plus",
+        "services": [
+          {
+            "name": "Display",
+            "price": 99.0
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 30.0
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Akku",
+            "price": 59.9
+          },
+          {
+            "name": "Kopfh\u00f6rerbuchse",
+            "price": 69.9
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 69.9
+          },
+          {
+            "name": "Powerbutton",
+            "price": 69.9
+          },
+          {
+            "name": "Stummschalter",
+            "price": 69.9
+          },
+          {
+            "name": "Ladebuchse",
+            "price": 69.9
+          },
+          {
+            "name": "Hauptkamera",
+            "price": 69.9
+          },
+          {
+            "name": "Frontkamera",
+            "price": 69.9
+          },
+          {
+            "name": "Mikrofon",
+            "price": 69.9
+          },
+          {
+            "name": "Vibration",
+            "price": 69.9
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 69.9
+          },
+          {
+            "name": "Homebutton",
+            "price": 69.9
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 69.9
+          },
+          {
+            "name": "Kameraglas",
+            "price": 69.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/iphone-6-plus.html"
+      },
+      {
+        "supplier": "Apple",
+        "name": "iPhone 6S",
+        "services": [
+          {
+            "name": "Display",
+            "price": 104.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 30.0
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Akku",
+            "price": 59.9
+          },
+          {
+            "name": "Kopfh\u00f6rerbuchse",
+            "price": 69.9
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 69.9
+          },
+          {
+            "name": "Powerbutton",
+            "price": 69.9
+          },
+          {
+            "name": "Stummschalter",
+            "price": 69.9
+          },
+          {
+            "name": "Ladebuchse",
+            "price": 69.9
+          },
+          {
+            "name": "Hauptkamera",
+            "price": 69.9
+          },
+          {
+            "name": "Frontkamera",
+            "price": 69.9
+          },
+          {
+            "name": "Mikrofon",
+            "price": 69.9
+          },
+          {
+            "name": "Vibration",
+            "price": 69.9
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 69.9
+          },
+          {
+            "name": "Homebutton",
+            "price": 69.9
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 69.9
+          },
+          {
+            "name": "Kameraglas",
+            "price": 69.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/iphone-6s.html"
+      },
+      {
+        "supplier": "Apple",
+        "name": "iPhone 6S Plus",
+        "services": [
+          {
+            "name": "Display",
+            "price": 119.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 30.0
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Akku",
+            "price": 59.9
+          },
+          {
+            "name": "Kopfh\u00f6rerbuchse",
+            "price": 69.9
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 69.9
+          },
+          {
+            "name": "Powerbutton",
+            "price": 69.9
+          },
+          {
+            "name": "Stummschalter",
+            "price": 69.9
+          },
+          {
+            "name": "Ladebuchse",
+            "price": 69.9
+          },
+          {
+            "name": "Hauptkamera",
+            "price": 89.9
+          },
+          {
+            "name": "Frontkamera",
+            "price": 69.9
+          },
+          {
+            "name": "Mikrofon",
+            "price": 69.9
+          },
+          {
+            "name": "Vibration",
+            "price": 69.9
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 69.9
+          },
+          {
+            "name": "Homebutton",
+            "price": 69.9
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 69.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/iphone-6s-plus.html"
+      },
+      {
+        "supplier": "Apple",
+        "name": "iPhone 7",
+        "services": [
+          {
+            "name": "Display",
+            "price": 119.9
+          },
+          {
+            "name": "Geh\u00e4use Austausch",
+            "price": 119.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 30.0
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Akku",
+            "price": 59.9
+          },
+          {
+            "name": "Kopfh\u00f6rerbuchse",
+            "price": 69.9
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 69.9
+          },
+          {
+            "name": "Powerbutton",
+            "price": 69.9
+          },
+          {
+            "name": "Stummschalter",
+            "price": 69.9
+          },
+          {
+            "name": "Ladebuchse",
+            "price": 69.9
+          },
+          {
+            "name": "Hauptkamera",
+            "price": 89.9
+          },
+          {
+            "name": "Frontkamera",
+            "price": 69.9
+          },
+          {
+            "name": "Mikrofon",
+            "price": 69.9
+          },
+          {
+            "name": "Vibration",
+            "price": 69.9
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 69.9
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 69.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/iphone-7.html"
+      },
+      {
+        "supplier": "Apple",
+        "name": "iPhone 7 Plus",
+        "services": [
+          {
+            "name": "Display",
+            "price": 139.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 30.0
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Akku",
+            "price": 59.9
+          },
+          {
+            "name": "Kopfh\u00f6rerbuchse",
+            "price": 69.9
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 69.9
+          },
+          {
+            "name": "Powerbutton",
+            "price": 69.9
+          },
+          {
+            "name": "Stummschalter",
+            "price": 69.9
+          },
+          {
+            "name": "Ladebuchse",
+            "price": 69.9
+          },
+          {
+            "name": "Hauptkamera",
+            "price": 139.9
+          },
+          {
+            "name": "Frontkamera",
+            "price": 69.9
+          },
+          {
+            "name": "Mikrofon",
+            "price": 69.9
+          },
+          {
+            "name": "Vibration",
+            "price": 69.9
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 69.9
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 69.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/iphone-7-plus.html"
+      },
+      {
+        "supplier": "Apple",
+        "name": "iPhone 8",
+        "services": [
+          {
+            "name": "Display",
+            "price": 164.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 35.0
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Akku",
+            "price": 79.9
+          },
+          {
+            "name": "Kopfh\u00f6rerbuchse",
+            "price": 89.9
+          },
+          {
+            "name": "Ladebuchse",
+            "price": 89.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/iphone-8.html"
+      },
+      {
+        "supplier": "Apple",
+        "name": "iPhone 8 Plus",
+        "services": [
+          {
+            "name": "Display",
+            "price": 174.9
+          },
+          {
+            "name": "Backcover Austausch",
+            "price": 159.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 35.0
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Akku",
+            "price": 79.9
+          },
+          {
+            "name": "Kopfh\u00f6rerbuchse",
+            "price": 99.9
+          },
+          {
+            "name": "Ladebuchse",
+            "price": 99.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/iphone-8-plus.html"
+      },
+      {
+        "supplier": "Apple",
+        "name": "iPhone SE",
+        "services": [
+          {
+            "name": "Display",
+            "price": 79.0
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 25.0
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Akku",
+            "price": 59.9
+          },
+          {
+            "name": "Kopfh\u00f6rerbuchse",
+            "price": 59.9
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 59.9
+          },
+          {
+            "name": "Powerbutton",
+            "price": 59.9
+          },
+          {
+            "name": "Stummschalter",
+            "price": 59.9
+          },
+          {
+            "name": "Ladebuchse",
+            "price": 59.9
+          },
+          {
+            "name": "Hauptkamera",
+            "price": 59.9
+          },
+          {
+            "name": "Frontkamera",
+            "price": 59.9
+          },
+          {
+            "name": "Mikrofon",
+            "price": 59.9
+          },
+          {
+            "name": "Vibration",
+            "price": 59.9
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 59.9
+          },
+          {
+            "name": "Homebutton",
+            "price": 59.9
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 59.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/iphone-se.html"
+      },
+      {
+        "supplier": "Apple",
+        "name": "iPhone X",
+        "services": [
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 35.0
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Akku",
+            "price": 109.9
+          },
+          {
+            "name": "Kopfh\u00f6rerbuchse",
+            "price": 109.9
+          },
+          {
+            "name": "Ladebuchse",
+            "price": 109.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/iphone-x.html"
+      },
+      {
+        "supplier": "Apple",
+        "name": "iPhone Xs",
+        "services": [
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 35.0
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/iphone-xs.html"
+      },
+      {
+        "supplier": "Samsung",
+        "name": "Galaxy A3 2016",
+        "services": [
+          {
+            "name": "Display",
+            "price": 129.99
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Akku",
+            "price": 59.9
+          },
+          {
+            "name": "Kopfh\u00f6rerbuchse",
+            "price": 74.9
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 74.9
+          },
+          {
+            "name": "Powerbutton",
+            "price": 74.9
+          },
+          {
+            "name": "Ladebuchse",
+            "price": 74.9
+          },
+          {
+            "name": "Hauptkamera",
+            "price": 79.9
+          },
+          {
+            "name": "Frontkamera",
+            "price": 74.9
+          },
+          {
+            "name": "Mikrofon",
+            "price": 74.9
+          },
+          {
+            "name": "Vibration",
+            "price": 74.9
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 74.9
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 74.9
+          },
+          {
+            "name": "Kameraglas",
+            "price": 59.9
+          },
+          {
+            "name": "Akkudeckel",
+            "price": 64.9
+          },
+          {
+            "name": "Mittelrahmen",
+            "price": 99.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/samsung-galaxy-a3-2016.html"
+      },
+      {
+        "supplier": "Samsung",
+        "name": "Galaxy A3 2017",
+        "services": [
+          {
+            "name": "Display",
+            "price": 145.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Akku",
+            "price": 69.9
+          },
+          {
+            "name": "Kopfh\u00f6rerbuchse",
+            "price": 74.9
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 79.9
+          },
+          {
+            "name": "Powerbutton",
+            "price": 69.9
+          },
+          {
+            "name": "Ladebuchse",
+            "price": 69.9
+          },
+          {
+            "name": "Hauptkamera",
+            "price": 79.9
+          },
+          {
+            "name": "Frontkamera",
+            "price": 69.9
+          },
+          {
+            "name": "Mikrofon",
+            "price": 69.9
+          },
+          {
+            "name": "Vibration",
+            "price": 69.9
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 69.9
+          },
+          {
+            "name": "Homebutton",
+            "price": 79.9
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 69.9
+          },
+          {
+            "name": "Kameraglas",
+            "price": 59.9
+          },
+          {
+            "name": "Akkudeckel",
+            "price": 79.9
+          },
+          {
+            "name": "Mittelrahmen",
+            "price": 124.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/samsung-galaxy-a3-2017.html"
+      },
+      {
+        "supplier": "Samsung",
+        "name": "Galaxy A5 2015",
+        "services": [
+          {
+            "name": "Display",
+            "price": 124.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Akku",
+            "price": 69.9
+          },
+          {
+            "name": "Kopfh\u00f6rerbuchse",
+            "price": 79.9
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 74.9
+          },
+          {
+            "name": "Powerbutton",
+            "price": 74.9
+          },
+          {
+            "name": "Ladebuchse",
+            "price": 74.9
+          },
+          {
+            "name": "Hauptkamera",
+            "price": 89.9
+          },
+          {
+            "name": "Frontkamera",
+            "price": 69.9
+          },
+          {
+            "name": "Mikrofon",
+            "price": 74.9
+          },
+          {
+            "name": "Vibration",
+            "price": 74.9
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 74.9
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 74.9
+          },
+          {
+            "name": "Kameraglas",
+            "price": 49.9
+          },
+          {
+            "name": "Akkudeckel",
+            "price": 99.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/samsung-galaxy-a5-2015.html"
+      },
+      {
+        "supplier": "Samsung",
+        "name": "Galaxy A5 2016",
+        "services": [
+          {
+            "name": "Display",
+            "price": 139.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Akku",
+            "price": 84.9
+          },
+          {
+            "name": "Kopfh\u00f6rerbuchse",
+            "price": 79.9
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 74.9
+          },
+          {
+            "name": "Powerbutton",
+            "price": 69.9
+          },
+          {
+            "name": "Ladebuchse",
+            "price": 79.9
+          },
+          {
+            "name": "Hauptkamera",
+            "price": 74.9
+          },
+          {
+            "name": "Frontkamera",
+            "price": 69.9
+          },
+          {
+            "name": "Mikrofon",
+            "price": 69.9
+          },
+          {
+            "name": "Vibration",
+            "price": 69.9
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 69.9
+          },
+          {
+            "name": "Homebutton",
+            "price": 79.9
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 69.9
+          },
+          {
+            "name": "Kameraglas",
+            "price": 69.9
+          },
+          {
+            "name": "Akkudeckel",
+            "price": 84.9
+          },
+          {
+            "name": "Mittelrahmen",
+            "price": 109.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/samsung-galaxy-a5-2016.html"
+      },
+      {
+        "supplier": "Samsung",
+        "name": "Galaxy A5 2017",
+        "services": [
+          {
+            "name": "Display",
+            "price": 169.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Akku",
+            "price": 69.9
+          },
+          {
+            "name": "Kopfh\u00f6rerbuchse",
+            "price": 74.9
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 74.9
+          },
+          {
+            "name": "Powerbutton",
+            "price": 69.9
+          },
+          {
+            "name": "Hauptkamera",
+            "price": 94.9
+          },
+          {
+            "name": "Frontkamera",
+            "price": 94.9
+          },
+          {
+            "name": "Mikrofon",
+            "price": 69.9
+          },
+          {
+            "name": "Vibration",
+            "price": 69.9
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 69.9
+          },
+          {
+            "name": "Homebutton",
+            "price": 89.9
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 74.9
+          },
+          {
+            "name": "Kameraglas",
+            "price": 59.9
+          },
+          {
+            "name": "Akkudeckel",
+            "price": 79.9
+          },
+          {
+            "name": "Mittelrahmen",
+            "price": 119.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/samsung-galaxy-a5-2017.html"
+      },
+      {
+        "supplier": "Samsung",
+        "name": "Galaxy A6 2018",
+        "services": [
+          {
+            "name": "Display",
+            "price": 119.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 74.9
+          },
+          {
+            "name": "Powerbutton",
+            "price": 74.9
+          },
+          {
+            "name": "Hauptkamera",
+            "price": 94.9
+          },
+          {
+            "name": "Frontkamera",
+            "price": 89.9
+          },
+          {
+            "name": "Mikrofon",
+            "price": 74.9
+          },
+          {
+            "name": "Vibration",
+            "price": 74.9
+          },
+          {
+            "name": "Kameraglas",
+            "price": 59.9
+          },
+          {
+            "name": "Akkudeckel",
+            "price": 94.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/samsung-galaxy-a6-2018.html"
+      },
+      {
+        "supplier": "Samsung",
+        "name": "Galaxy A6 Plus 2018",
+        "services": [
+          {
+            "name": "Display",
+            "price": 129.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Hauptkamera",
+            "price": 109.9
+          },
+          {
+            "name": "Akkudeckel",
+            "price": 89.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/samsung-galaxy-a6-plus-2018.html"
+      },
+      {
+        "supplier": "Samsung",
+        "name": "Galaxy A8 2018",
+        "services": [
+          {
+            "name": "Display",
+            "price": 139.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Kopfh\u00f6rerbuchse",
+            "price": 79.9
+          },
+          {
+            "name": "Powerbutton",
+            "price": 69.9
+          },
+          {
+            "name": "Hauptkamera",
+            "price": 89.9
+          },
+          {
+            "name": "Frontkamera",
+            "price": 89.9
+          },
+          {
+            "name": "Vibration",
+            "price": 69.9
+          },
+          {
+            "name": "Akkudeckel",
+            "price": 79.9
+          },
+          {
+            "name": "Mittelrahmen",
+            "price": 89.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/samsung-galaxy-a8-2018.html"
+      },
+      {
+        "supplier": "Samsung",
+        "name": "Galaxy J1 2016",
+        "services": [
+          {
+            "name": "Display",
+            "price": 99.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/samsung-galaxy-j1-2016.html"
+      },
+      {
+        "supplier": "Samsung",
+        "name": "Galaxy J3 2016",
+        "services": [
+          {
+            "name": "Display",
+            "price": 119.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/samsung-galaxy-j3-2016.html"
+      },
+      {
+        "supplier": "Samsung",
+        "name": "Galaxy J3 2017",
+        "services": [
+          {
+            "name": "Display",
+            "price": 109.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Powerbutton",
+            "price": 69.9
+          },
+          {
+            "name": "Hauptkamera",
+            "price": 89.9
+          },
+          {
+            "name": "Frontkamera",
+            "price": 74.9
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 79.9
+          },
+          {
+            "name": "Kameraglas",
+            "price": 59.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/samsung-galaxy-j3-2017.html"
+      },
+      {
+        "supplier": "Samsung",
+        "name": "Galaxy J4 Plus",
+        "services": [
+          {
+            "name": "Display",
+            "price": 139.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Kameraglas",
+            "price": 59.9
+          },
+          {
+            "name": "Akkudeckel",
+            "price": 89.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/samsung-galaxy-j4-plus.html"
+      },
+      {
+        "supplier": "Samsung",
+        "name": "Galaxy J5 2016",
+        "services": [
+          {
+            "name": "Display",
+            "price": 119.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Powerbutton",
+            "price": 69.9
+          },
+          {
+            "name": "Hauptkamera",
+            "price": 79.9
+          },
+          {
+            "name": "Frontkamera",
+            "price": 69.9
+          },
+          {
+            "name": "Vibration",
+            "price": 74.9
+          },
+          {
+            "name": "Kameraglas",
+            "price": 59.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/samsung-galaxy-j5-2016.html"
+      },
+      {
+        "supplier": "Samsung",
+        "name": "Galaxy J5 2017",
+        "services": [
+          {
+            "name": "Display",
+            "price": 149.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Powerbutton",
+            "price": 69.9
+          },
+          {
+            "name": "Hauptkamera",
+            "price": 79.9
+          },
+          {
+            "name": "Frontkamera",
+            "price": 74.9
+          },
+          {
+            "name": "Vibration",
+            "price": 69.9
+          },
+          {
+            "name": "Kameraglas",
+            "price": 59.9
+          },
+          {
+            "name": "Akkudeckel",
+            "price": 89.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/samsung-galaxy-j5-2017.html"
+      },
+      {
+        "supplier": "Samsung",
+        "name": "Galaxy J6 2018",
+        "services": [
+          {
+            "name": "Display",
+            "price": 119.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Akkudeckel",
+            "price": 89.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/samsung-galaxy-j6-2018.html"
+      },
+      {
+        "supplier": "Samsung",
+        "name": "Galaxy J7 2017",
+        "services": [
+          {
+            "name": "Display",
+            "price": 159.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Akkudeckel",
+            "price": 99.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/samsung-galaxy-j7-2017.html"
+      },
+      {
+        "supplier": "Samsung",
+        "name": "Galaxy Note 3",
+        "services": [
+          {
+            "name": "Display",
+            "price": 179.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Akku",
+            "price": 24.9
+          },
+          {
+            "name": "Kameraglas",
+            "price": 59.9
+          },
+          {
+            "name": "Akkudeckel",
+            "price": 29.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/samsung-galaxy-note-3.html"
+      },
+      {
+        "supplier": "Samsung",
+        "name": "Galaxy Note 4",
+        "services": [
+          {
+            "name": "Display",
+            "price": 159.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Akku",
+            "price": 29.9
+          },
+          {
+            "name": "Akkudeckel",
+            "price": 29.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/samsung-galaxy-note-4.html"
+      },
+      {
+        "supplier": "Samsung",
+        "name": "Galaxy Note 8",
+        "services": [
+          {
+            "name": "Display",
+            "price": 254.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 30.0
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Kopfh\u00f6rerbuchse",
+            "price": 89.9
+          },
+          {
+            "name": "Powerbutton",
+            "price": 74.9
+          },
+          {
+            "name": "Ladebuchse",
+            "price": 89.9
+          },
+          {
+            "name": "Hauptkamera",
+            "price": 119.9
+          },
+          {
+            "name": "Frontkamera",
+            "price": 94.9
+          },
+          {
+            "name": "Vibration",
+            "price": 74.9
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 74.9
+          },
+          {
+            "name": "Kameraglas",
+            "price": 54.9
+          },
+          {
+            "name": "Akkudeckel",
+            "price": 74.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/samsung-galaxy-note-8.html"
+      },
+      {
+        "supplier": "Samsung",
+        "name": "Galaxy Note 9",
+        "services": [
+          {
+            "name": "Display",
+            "price": 279.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Akku",
+            "price": 74.9
+          },
+          {
+            "name": "Kopfh\u00f6rerbuchse",
+            "price": 74.9
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 74.9
+          },
+          {
+            "name": "Powerbutton",
+            "price": 74.9
+          },
+          {
+            "name": "Ladebuchse",
+            "price": 84.9
+          },
+          {
+            "name": "Hauptkamera",
+            "price": 169.9
+          },
+          {
+            "name": "Frontkamera",
+            "price": 89.9
+          },
+          {
+            "name": "Vibration",
+            "price": 74.9
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 84.9
+          },
+          {
+            "name": "Homebutton",
+            "price": 84.9
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 74.9
+          },
+          {
+            "name": "Kameraglas",
+            "price": 59.9
+          },
+          {
+            "name": "Akkudeckel",
+            "price": 84.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/samsung-galaxy-note-9.html"
+      },
+      {
+        "supplier": "Samsung",
+        "name": "Galaxy S5",
+        "services": [
+          {
+            "name": "Display",
+            "price": 149.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Akku",
+            "price": 29.9
+          },
+          {
+            "name": "Kopfh\u00f6rerbuchse",
+            "price": 59.9
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 59.9
+          },
+          {
+            "name": "Powerbutton",
+            "price": 59.9
+          },
+          {
+            "name": "Ladebuchse",
+            "price": 59.9
+          },
+          {
+            "name": "Hauptkamera",
+            "price": 59.9
+          },
+          {
+            "name": "Frontkamera",
+            "price": 59.9
+          },
+          {
+            "name": "Kameraglas",
+            "price": 59.9
+          },
+          {
+            "name": "Mikrofon",
+            "price": 59.9
+          },
+          {
+            "name": "Vibration",
+            "price": 59.9
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 59.9
+          },
+          {
+            "name": "Homebutton",
+            "price": 59.9
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 50.0
+          },
+          {
+            "name": "Akkudeckel",
+            "price": 29.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/samsung-galaxy-s5.html"
+      },
+      {
+        "supplier": "Samsung",
+        "name": "Galaxy S5 Neo",
+        "services": [
+          {
+            "name": "Display",
+            "price": 149.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Akku",
+            "price": 29.9
+          },
+          {
+            "name": "Kopfh\u00f6rerbuchse",
+            "price": 59.9
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 59.9
+          },
+          {
+            "name": "Powerbutton",
+            "price": 59.9
+          },
+          {
+            "name": "Ladebuchse",
+            "price": 59.9
+          },
+          {
+            "name": "Hauptkamera",
+            "price": 59.9
+          },
+          {
+            "name": "Frontkamera",
+            "price": 59.9
+          },
+          {
+            "name": "Kameraglas",
+            "price": 59.9
+          },
+          {
+            "name": "Mikrofon",
+            "price": 59.9
+          },
+          {
+            "name": "Vibration",
+            "price": 59.9
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 59.9
+          },
+          {
+            "name": "Homebutton",
+            "price": 59.9
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 50.0
+          },
+          {
+            "name": "Akkudeckel",
+            "price": 29.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/samsung-galaxy-s5-neo.html"
+      },
+      {
+        "supplier": "Samsung",
+        "name": "Galaxy S6",
+        "services": [
+          {
+            "name": "Display",
+            "price": 169.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Akku",
+            "price": 64.9
+          },
+          {
+            "name": "Kopfh\u00f6rerbuchse",
+            "price": 79.9
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 69.9
+          },
+          {
+            "name": "Powerbutton",
+            "price": 69.9
+          },
+          {
+            "name": "Ladebuchse",
+            "price": 69.9
+          },
+          {
+            "name": "Hauptkamera",
+            "price": 69.9
+          },
+          {
+            "name": "Frontkamera",
+            "price": 69.9
+          },
+          {
+            "name": "Kameraglas",
+            "price": 39.9
+          },
+          {
+            "name": "Mikrofon",
+            "price": 69.9
+          },
+          {
+            "name": "Vibration",
+            "price": 69.9
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 69.9
+          },
+          {
+            "name": "Homebutton",
+            "price": 69.9
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 69.9
+          },
+          {
+            "name": "Akkudeckel",
+            "price": 69.9
+          },
+          {
+            "name": "Mittelrahmen",
+            "price": 119.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/samsung-galaxy-s6.html"
+      },
+      {
+        "supplier": "Samsung",
+        "name": "Galaxy S6 Edge",
+        "services": [
+          {
+            "name": "Display",
+            "price": 199.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Akku",
+            "price": 69.9
+          },
+          {
+            "name": "Kopfh\u00f6rerbuchse",
+            "price": 79.9
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 69.9
+          },
+          {
+            "name": "Powerbutton",
+            "price": 69.9
+          },
+          {
+            "name": "Ladebuchse",
+            "price": 79.9
+          },
+          {
+            "name": "Hauptkamera",
+            "price": 89.9
+          },
+          {
+            "name": "Frontkamera",
+            "price": 69.9
+          },
+          {
+            "name": "Kameraglas",
+            "price": 39.9
+          },
+          {
+            "name": "Mikrofon",
+            "price": 69.9
+          },
+          {
+            "name": "Vibration",
+            "price": 69.9
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 69.9
+          },
+          {
+            "name": "Homebutton",
+            "price": 69.9
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 69.9
+          },
+          {
+            "name": "Akkudeckel",
+            "price": 69.9
+          },
+          {
+            "name": "Mittelrahmen",
+            "price": 129.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/samsung-galaxy-s6-edge.html"
+      },
+      {
+        "supplier": "Samsung",
+        "name": "Galaxy S6 Edge Plus",
+        "services": [
+          {
+            "name": "Display",
+            "price": 199.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Akku",
+            "price": 69.9
+          },
+          {
+            "name": "Kopfh\u00f6rerbuchse",
+            "price": 79.9
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 69.9
+          },
+          {
+            "name": "Powerbutton",
+            "price": 69.9
+          },
+          {
+            "name": "Ladebuchse",
+            "price": 79.9
+          },
+          {
+            "name": "Hauptkamera",
+            "price": 89.9
+          },
+          {
+            "name": "Frontkamera",
+            "price": 69.9
+          },
+          {
+            "name": "Kameraglas",
+            "price": 39.9
+          },
+          {
+            "name": "Mikrofon",
+            "price": 69.9
+          },
+          {
+            "name": "Vibration",
+            "price": 69.9
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 69.9
+          },
+          {
+            "name": "Homebutton",
+            "price": 69.9
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 69.9
+          },
+          {
+            "name": "Akkudeckel",
+            "price": 69.9
+          },
+          {
+            "name": "Mittelrahmen",
+            "price": 129.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/samsung-galaxy-s6-edge-plus.html"
+      },
+      {
+        "supplier": "Samsung",
+        "name": "Galaxy S7",
+        "services": [
+          {
+            "name": "Display",
+            "price": 169.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Akku",
+            "price": 79.9
+          },
+          {
+            "name": "Kopfh\u00f6rerbuchse",
+            "price": 79.9
+          },
+          {
+            "name": "Powerbutton",
+            "price": 69.9
+          },
+          {
+            "name": "Ladebuchse",
+            "price": 79.9
+          },
+          {
+            "name": "Hauptkamera",
+            "price": 99.9
+          },
+          {
+            "name": "Frontkamera",
+            "price": 79.9
+          },
+          {
+            "name": "Kameraglas",
+            "price": 69.9
+          },
+          {
+            "name": "Vibration",
+            "price": 69.9
+          },
+          {
+            "name": "Homebutton",
+            "price": 79.9
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 69.9
+          },
+          {
+            "name": "Akkudeckel",
+            "price": 89.9
+          },
+          {
+            "name": "Mittelrahmen",
+            "price": 139.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/samsung-galaxy-s7.html"
+      },
+      {
+        "supplier": "Samsung",
+        "name": "Galaxy S7 Edge",
+        "services": [
+          {
+            "name": "Display",
+            "price": 254.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Akku",
+            "price": 69.9
+          },
+          {
+            "name": "Kopfh\u00f6rerbuchse",
+            "price": 79.9
+          },
+          {
+            "name": "Powerbutton",
+            "price": 69.9
+          },
+          {
+            "name": "Ladebuchse",
+            "price": 79.9
+          },
+          {
+            "name": "Hauptkamera",
+            "price": 129.9
+          },
+          {
+            "name": "Frontkamera",
+            "price": 69.9
+          },
+          {
+            "name": "Kameraglas",
+            "price": 69.9
+          },
+          {
+            "name": "Vibration",
+            "price": 69.9
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 69.9
+          },
+          {
+            "name": "Mikrofon",
+            "price": 69.9
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 69.9
+          },
+          {
+            "name": "Akkudeckel",
+            "price": 89.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/samsung-galaxy-s7-edge.html"
+      },
+      {
+        "supplier": "Samsung",
+        "name": "Galaxy S8",
+        "services": [
+          {
+            "name": "Display",
+            "price": 239.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 35.0
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Akku",
+            "price": 69.9
+          },
+          {
+            "name": "Kopfh\u00f6rerbuchse",
+            "price": 84.9
+          },
+          {
+            "name": "Powerbutton",
+            "price": 69.9
+          },
+          {
+            "name": "Ladebuchse",
+            "price": 84.9
+          },
+          {
+            "name": "Hauptkamera",
+            "price": 99.9
+          },
+          {
+            "name": "Frontkamera",
+            "price": 89.9
+          },
+          {
+            "name": "Kameraglas",
+            "price": 69.9
+          },
+          {
+            "name": "Vibration",
+            "price": 69.9
+          },
+          {
+            "name": "Homebutton",
+            "price": 79.9
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 69.9
+          },
+          {
+            "name": "Akkudeckel",
+            "price": 79.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/samsung-galaxy-s8.html"
+      },
+      {
+        "supplier": "Samsung",
+        "name": "Galaxy S8 Plus",
+        "services": [
+          {
+            "name": "Display",
+            "price": 254.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 35.0
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Akku",
+            "price": 69.9
+          },
+          {
+            "name": "Kopfh\u00f6rerbuchse",
+            "price": 84.9
+          },
+          {
+            "name": "Powerbutton",
+            "price": 69.9
+          },
+          {
+            "name": "Ladebuchse",
+            "price": 84.9
+          },
+          {
+            "name": "Hauptkamera",
+            "price": 119.9
+          },
+          {
+            "name": "Frontkamera",
+            "price": 79.9
+          },
+          {
+            "name": "Kameraglas",
+            "price": 69.9
+          },
+          {
+            "name": "Vibration",
+            "price": 69.9
+          },
+          {
+            "name": "Homebutton",
+            "price": 79.9
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 69.9
+          },
+          {
+            "name": "Akkudeckel",
+            "price": 79.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/samsung-galaxy-s8-plus.html"
+      },
+      {
+        "supplier": "Samsung",
+        "name": "Galaxy S9",
+        "services": [
+          {
+            "name": "Display",
+            "price": 254.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 35.0
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Akku",
+            "price": 69.9
+          },
+          {
+            "name": "Kopfh\u00f6rerbuchse",
+            "price": 79.9
+          },
+          {
+            "name": "Powerbutton",
+            "price": 69.9
+          },
+          {
+            "name": "Ladebuchse",
+            "price": 79.9
+          },
+          {
+            "name": "Hauptkamera",
+            "price": 119.9
+          },
+          {
+            "name": "Frontkamera",
+            "price": 89.9
+          },
+          {
+            "name": "Kameraglas",
+            "price": 69.9
+          },
+          {
+            "name": "Vibration",
+            "price": 69.9
+          },
+          {
+            "name": "Homebutton",
+            "price": 69.9
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 69.9
+          },
+          {
+            "name": "Akkudeckel",
+            "price": 89.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/samsung-galaxy-s9.html"
+      },
+      {
+        "supplier": "Samsung",
+        "name": "Galaxy S9 Plus",
+        "services": [
+          {
+            "name": "Display",
+            "price": 269.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 35.0
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Akku",
+            "price": 69.9
+          },
+          {
+            "name": "Kopfh\u00f6rerbuchse",
+            "price": 89.9
+          },
+          {
+            "name": "Powerbutton",
+            "price": 69.9
+          },
+          {
+            "name": "Ladebuchse",
+            "price": 89.9
+          },
+          {
+            "name": "Hauptkamera",
+            "price": 119.9
+          },
+          {
+            "name": "Frontkamera",
+            "price": 89.9
+          },
+          {
+            "name": "Kameraglas",
+            "price": 69.9
+          },
+          {
+            "name": "Vibration",
+            "price": 69.9
+          },
+          {
+            "name": "Homebutton",
+            "price": 89.9
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 69.9
+          },
+          {
+            "name": "Akkudeckel",
+            "price": 89.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/samsung-galaxy-s9-plus.html"
+      },
+      {
+        "supplier": "Samsung",
+        "name": "Galaxy Tab 3 10.1",
+        "services": [
+          {
+            "name": "Display",
+            "price": 219.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Akku",
+            "price": 99.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/samsung-galaxy-tab-3-10.1.html"
+      },
+      {
+        "supplier": "Samsung",
+        "name": "Galaxy Tab 4 10.1",
+        "services": [
+          {
+            "name": "Display",
+            "price": 179.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Ladebuchse",
+            "price": 79.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/samsung-galaxy-tab-4-10.1.html"
+      },
+      {
+        "supplier": "Samsung",
+        "name": "Galaxy Tab A 9.7",
+        "services": [
+          {
+            "name": "Display",
+            "price": 149.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Ladebuchse",
+            "price": 79.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/samsung-galaxy-tab-a-9.7.html"
+      },
+      {
+        "supplier": "Samsung",
+        "name": "Galaxy Tab Pro 10.1",
+        "services": [
+          {
+            "name": "Display",
+            "price": 229.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/samsung-galaxy-tab-pro-10.1.html"
+      },
+      {
+        "supplier": "Samsung",
+        "name": "Galaxy Tab S2 9.7 (T810/T815)",
+        "services": [
+          {
+            "name": "Display",
+            "price": 229.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/samsung-galaxy-tab-s2-9.7-t810/t815.html"
+      },
+      {
+        "supplier": "Samsung",
+        "name": "Galaxy Tab S2 9.7 (T813/T819)",
+        "services": [
+          {
+            "name": "Display",
+            "price": 239.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/samsung-galaxy-tab-s2-9.7-t813/t819.html"
+      },
+      {
+        "supplier": "Samsung",
+        "name": "Galaxy Tab S3",
+        "services": [
+          {
+            "name": "Display",
+            "price": 369.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Akkudeckel",
+            "price": 109.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/samsung-galaxy-tab-s3.html"
+      },
+      {
+        "supplier": "Samsung",
+        "name": "Galaxy XCOVER 4",
+        "services": [
+          {
+            "name": "Display",
+            "price": 139.9
+          },
+          {
+            "name": "Glas Austausch",
+            "price": 89.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Mittelrahmen",
+            "price": 89.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/samsung-galaxy-xcover-4.html"
+      },
+      {
+        "supplier": "Huawei",
+        "name": "Honor 10",
+        "services": [
+          {
+            "name": "Display+Akku",
+            "price": 175.0
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Akkudeckel",
+            "price": 79.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/huawei-honor-10.html"
+      },
+      {
+        "supplier": "Huawei",
+        "name": "Honor 8",
+        "services": [
+          {
+            "name": "Display",
+            "price": 119.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/huawei-honor-8.html"
+      },
+      {
+        "supplier": "Huawei",
+        "name": "Honor Play 5X",
+        "services": [
+          {
+            "name": "Display",
+            "price": 99.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Powerbutton",
+            "price": 74.9
+          },
+          {
+            "name": "Ladebuchse",
+            "price": 74.9
+          },
+          {
+            "name": "Hauptkamera",
+            "price": 89.9
+          },
+          {
+            "name": "Frontkamera",
+            "price": 79.9
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 69.9
+          },
+          {
+            "name": "Kameraglas",
+            "price": 49.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/huawei-honor-play-5x.html"
+      },
+      {
+        "supplier": "Huawei",
+        "name": "Mate 10 lite",
+        "services": [
+          {
+            "name": "Display",
+            "price": 109.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Akku",
+            "price": 69.9
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 69.9
+          },
+          {
+            "name": "Ladebuchse",
+            "price": 69.9
+          },
+          {
+            "name": "Hauptkamera",
+            "price": 99.9
+          },
+          {
+            "name": "Frontkamera",
+            "price": 79.9
+          },
+          {
+            "name": "Mikrofon",
+            "price": 69.9
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 69.9
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 69.9
+          },
+          {
+            "name": "Kameraglas",
+            "price": 59.9
+          },
+          {
+            "name": "Akkudeckel",
+            "price": 89.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/huawei-mate-10-lite.html"
+      },
+      {
+        "supplier": "Huawei",
+        "name": "Mate 10 Pro",
+        "services": [
+          {
+            "name": "Display",
+            "price": 259.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Akkudeckel",
+            "price": 124.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/huawei-mate-10-pro.html"
+      },
+      {
+        "supplier": "Huawei",
+        "name": "Mate 20",
+        "services": [
+          {
+            "name": "Display, Rahmen und Akku",
+            "price": 239.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Akku",
+            "price": 69.9
+          },
+          {
+            "name": "Ladebuchse",
+            "price": 89.9
+          },
+          {
+            "name": "Hauptkamera",
+            "price": 169.9
+          },
+          {
+            "name": "Frontkamera",
+            "price": 79.9
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 79.9
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 79.9
+          },
+          {
+            "name": "Akkudeckel",
+            "price": 129.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/huawei-mate-20.html"
+      },
+      {
+        "supplier": "Huawei",
+        "name": "Mate 20 lite",
+        "services": [
+          {
+            "name": "Display, Rahmen und Akku",
+            "price": 159.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 30.0
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Akku",
+            "price": 69.9
+          },
+          {
+            "name": "Ladebuchse",
+            "price": 89.9
+          },
+          {
+            "name": "Hauptkamera",
+            "price": 109.9
+          },
+          {
+            "name": "Frontkamera",
+            "price": 109.9
+          },
+          {
+            "name": "Vibration",
+            "price": 89.9
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 79.9
+          },
+          {
+            "name": "Powerbutton",
+            "price": 89.9
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 79.9
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 79.9
+          },
+          {
+            "name": "Akkudeckel",
+            "price": 79.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/huawei-mate-20-lite.html"
+      },
+      {
+        "supplier": "Huawei",
+        "name": "Mate 9",
+        "services": [
+          {
+            "name": "Display",
+            "price": 119.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Akku",
+            "price": 59.9
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 74.9
+          },
+          {
+            "name": "Powerbutton",
+            "price": 69.9
+          },
+          {
+            "name": "Ladebuchse",
+            "price": 74.9
+          },
+          {
+            "name": "Hauptkamera",
+            "price": 79.9
+          },
+          {
+            "name": "Frontkamera",
+            "price": 69.9
+          },
+          {
+            "name": "Mikrofon",
+            "price": 69.9
+          },
+          {
+            "name": "Vibration",
+            "price": 69.9
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 69.9
+          },
+          {
+            "name": "Kameraglas",
+            "price": 59.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/huawei-mate-9.html"
+      },
+      {
+        "supplier": "Huawei",
+        "name": "Nova",
+        "services": [
+          {
+            "name": "Display",
+            "price": 129.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Kopfh\u00f6rerbuchse",
+            "price": 69.9
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 69.9
+          },
+          {
+            "name": "Powerbutton",
+            "price": 69.9
+          },
+          {
+            "name": "Ladebuchse",
+            "price": 74.9
+          },
+          {
+            "name": "Hauptkamera",
+            "price": 79.9
+          },
+          {
+            "name": "Frontkamera",
+            "price": 69.9
+          },
+          {
+            "name": "Vibration",
+            "price": 69.9
+          },
+          {
+            "name": "Kameraglas",
+            "price": 59.9
+          },
+          {
+            "name": "Akkudeckel",
+            "price": 99.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/huawei-nova.html"
+      },
+      {
+        "supplier": "Huawei",
+        "name": "Nova 2",
+        "services": [
+          {
+            "name": "Display",
+            "price": 134.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/huawei-nova-2.html"
+      },
+      {
+        "supplier": "Huawei",
+        "name": "P Smart",
+        "services": [
+          {
+            "name": "Display",
+            "price": 139.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/huawei-p-smart.html"
+      },
+      {
+        "supplier": "Huawei",
+        "name": "P10",
+        "services": [
+          {
+            "name": "Display",
+            "price": 134.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Akku",
+            "price": 79.9
+          },
+          {
+            "name": "Kopfh\u00f6rerbuchse",
+            "price": 74.9
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 74.9
+          },
+          {
+            "name": "Hauptkamera",
+            "price": 79.9
+          },
+          {
+            "name": "Frontkamera",
+            "price": 79.9
+          },
+          {
+            "name": "Vibration",
+            "price": 69.9
+          },
+          {
+            "name": "Kameraglas",
+            "price": 59.9
+          },
+          {
+            "name": "Akkudeckel",
+            "price": 109.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/huawei-p10.html"
+      },
+      {
+        "supplier": "Huawei",
+        "name": "P10 lite",
+        "services": [
+          {
+            "name": "Display",
+            "price": 119.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Akku",
+            "price": 59.9
+          },
+          {
+            "name": "Kopfh\u00f6rerbuchse",
+            "price": 69.9
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 69.9
+          },
+          {
+            "name": "Ladebuchse",
+            "price": 69.9
+          },
+          {
+            "name": "Hauptkamera",
+            "price": 79.9
+          },
+          {
+            "name": "Frontkamera",
+            "price": 69.9
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 69.9
+          },
+          {
+            "name": "Homebutton",
+            "price": 69.9
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 69.9
+          },
+          {
+            "name": "Akkudeckel",
+            "price": 69.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/huawei-p10-lite.html"
+      },
+      {
+        "supplier": "Huawei",
+        "name": "P20",
+        "services": [
+          {
+            "name": "Display",
+            "price": 179.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Akkudeckel",
+            "price": 95.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/huawei-p20.html"
+      },
+      {
+        "supplier": "Huawei",
+        "name": "P20 Lite",
+        "services": [
+          {
+            "name": "Display",
+            "price": 124.9
+          },
+          {
+            "name": "Backcover",
+            "price": 79.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Akku",
+            "price": 69.9
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 69.9
+          },
+          {
+            "name": "Ladebuchse",
+            "price": 69.9
+          },
+          {
+            "name": "Hauptkamera",
+            "price": 79.9
+          },
+          {
+            "name": "Frontkamera",
+            "price": 79.9
+          },
+          {
+            "name": "Mikrofon",
+            "price": 69.9
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 69.9
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 69.9
+          },
+          {
+            "name": "Kameraglas",
+            "price": 59.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/huawei-p20-lite.html"
+      },
+      {
+        "supplier": "Huawei",
+        "name": "P20 Pro",
+        "services": [
+          {
+            "name": "Display",
+            "price": 289.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Datensicherung",
+            "price": 69.9
+          },
+          {
+            "name": "Akkudeckel",
+            "price": 109.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/huawei-p20-pro.html"
+      },
+      {
+        "supplier": "Huawei",
+        "name": "P8",
+        "services": [
+          {
+            "name": "Display",
+            "price": 109.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Akku",
+            "price": 59.9
+          },
+          {
+            "name": "Kopfh\u00f6rerbuchse",
+            "price": 69.9
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 69.9
+          },
+          {
+            "name": "Powerbutton",
+            "price": 69.9
+          },
+          {
+            "name": "Ladebuchse",
+            "price": 69.9
+          },
+          {
+            "name": "Hauptkamera",
+            "price": 99.9
+          },
+          {
+            "name": "Frontkamera",
+            "price": 79.9
+          },
+          {
+            "name": "Vibration",
+            "price": 69.9
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 69.9
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 69.9
+          },
+          {
+            "name": "Akkudeckel",
+            "price": 89.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/huawei-p8.html"
+      },
+      {
+        "supplier": "Huawei",
+        "name": "P8 lite",
+        "services": [
+          {
+            "name": "Display",
+            "price": 124.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Akku",
+            "price": 59.9
+          },
+          {
+            "name": "Powerbutton",
+            "price": 74.9
+          },
+          {
+            "name": "Hauptkamera",
+            "price": 79.9
+          },
+          {
+            "name": "Frontkamera",
+            "price": 79.9
+          },
+          {
+            "name": "Vibration",
+            "price": 74.9
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 69.9
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 74.9
+          },
+          {
+            "name": "Akkudeckel",
+            "price": 69.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/huawei-p8-lite.html"
+      },
+      {
+        "supplier": "Huawei",
+        "name": "P8 lite 2017",
+        "services": [
+          {
+            "name": "Display",
+            "price": 119.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Akku",
+            "price": 49.9
+          },
+          {
+            "name": "Kopfh\u00f6rerbuchse",
+            "price": 74.9
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 74.9
+          },
+          {
+            "name": "Powerbutton",
+            "price": 74.9
+          },
+          {
+            "name": "Ladebuchse",
+            "price": 74.9
+          },
+          {
+            "name": "Hauptkamera",
+            "price": 79.9
+          },
+          {
+            "name": "Frontkamera",
+            "price": 74.9
+          },
+          {
+            "name": "Vibration",
+            "price": 74.9
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 74.9
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 74.9
+          },
+          {
+            "name": "Kameraglas",
+            "price": 59.9
+          },
+          {
+            "name": "Akkudeckel",
+            "price": 59.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/huawei-p8-lite-2017.html"
+      },
+      {
+        "supplier": "Huawei",
+        "name": "P9",
+        "services": [
+          {
+            "name": "Display",
+            "price": 119.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Akku",
+            "price": 49.9
+          },
+          {
+            "name": "Kopfh\u00f6rerbuchse",
+            "price": 69.9
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 69.9
+          },
+          {
+            "name": "Powerbutton",
+            "price": 69.9
+          },
+          {
+            "name": "Ladebuchse",
+            "price": 69.9
+          },
+          {
+            "name": "Hauptkamera",
+            "price": 79.9
+          },
+          {
+            "name": "Frontkamera",
+            "price": 69.9
+          },
+          {
+            "name": "Mikrofon",
+            "price": 69.9
+          },
+          {
+            "name": "Vibration",
+            "price": 69.9
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 69.9
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 69.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/huawei-p9.html"
+      },
+      {
+        "supplier": "Huawei",
+        "name": "P9 Lite",
+        "services": [
+          {
+            "name": "Display",
+            "price": 149.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Akku",
+            "price": 49.9
+          },
+          {
+            "name": "Kopfh\u00f6rerbuchse",
+            "price": 69.9
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 69.9
+          },
+          {
+            "name": "Ladebuchse",
+            "price": 69.9
+          },
+          {
+            "name": "Hauptkamera",
+            "price": 74.9
+          },
+          {
+            "name": "Frontkamera",
+            "price": 69.9
+          },
+          {
+            "name": "Vibration",
+            "price": 69.9
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 69.9
+          },
+          {
+            "name": "Powerbutton",
+            "price": 69.9
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 69.9
+          },
+          {
+            "name": "Akkudeckel",
+            "price": 59.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/huawei-p9-lite.html"
+      },
+      {
+        "supplier": "Sony",
+        "name": "Xperia L1",
+        "services": [
+          {
+            "name": "Display",
+            "price": 99.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Akku",
+            "price": 69.9
+          },
+          {
+            "name": "Hauptkamera",
+            "price": 79.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/xperia-l1.html"
+      },
+      {
+        "supplier": "Sony",
+        "name": "Xperia X",
+        "services": [
+          {
+            "name": "Display",
+            "price": 171.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Akku",
+            "price": 69.9
+          },
+          {
+            "name": "Kopfh\u00f6rerbuchse",
+            "price": 69.9
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 69.9
+          },
+          {
+            "name": "Powerbutton",
+            "price": 69.9
+          },
+          {
+            "name": "Ladebuchse",
+            "price": 69.9
+          },
+          {
+            "name": "Hauptkamera",
+            "price": 89.9
+          },
+          {
+            "name": "Frontkamera",
+            "price": 79.9
+          },
+          {
+            "name": "Vibration",
+            "price": 69.9
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 69.9
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 69.9
+          },
+          {
+            "name": "Akkudeckel",
+            "price": 79.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/xperia-x.html"
+      },
+      {
+        "supplier": "Sony",
+        "name": "Xperia X Compact",
+        "services": [
+          {
+            "name": "Display",
+            "price": 137.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Akku",
+            "price": 69.9
+          },
+          {
+            "name": "Kopfh\u00f6rerbuchse",
+            "price": 69.9
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 69.9
+          },
+          {
+            "name": "Powerbutton",
+            "price": 69.9
+          },
+          {
+            "name": "Ladebuchse",
+            "price": 69.9
+          },
+          {
+            "name": "Hauptkamera",
+            "price": 89.9
+          },
+          {
+            "name": "Frontkamera",
+            "price": 74.9
+          },
+          {
+            "name": "Vibration",
+            "price": 69.9
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 69.9
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 69.9
+          },
+          {
+            "name": "Kameraglas",
+            "price": 69.9
+          },
+          {
+            "name": "Akkudeckel",
+            "price": 74.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/xperia-x-compact.html"
+      },
+      {
+        "supplier": "Sony",
+        "name": "Xperia XA",
+        "services": [
+          {
+            "name": "Display",
+            "price": 109.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Akku",
+            "price": 69.9
+          },
+          {
+            "name": "Kopfh\u00f6rerbuchse",
+            "price": 69.9
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 69.9
+          },
+          {
+            "name": "Powerbutton",
+            "price": 69.9
+          },
+          {
+            "name": "Ladebuchse",
+            "price": 69.9
+          },
+          {
+            "name": "Hauptkamera",
+            "price": 84.9
+          },
+          {
+            "name": "Frontkamera",
+            "price": 74.9
+          },
+          {
+            "name": "Mikrofon",
+            "price": 69.9
+          },
+          {
+            "name": "Vibration",
+            "price": 69.9
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 69.9
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 69.9
+          },
+          {
+            "name": "Akkudeckel",
+            "price": 74.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/xperia-xa.html"
+      },
+      {
+        "supplier": "Sony",
+        "name": "Xperia XA1",
+        "services": [
+          {
+            "name": "Display",
+            "price": 119.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Akku",
+            "price": 79.9
+          },
+          {
+            "name": "Kopfh\u00f6rerbuchse",
+            "price": 69.9
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 69.9
+          },
+          {
+            "name": "Powerbutton",
+            "price": 69.9
+          },
+          {
+            "name": "Ladebuchse",
+            "price": 69.9
+          },
+          {
+            "name": "Hauptkamera",
+            "price": 89.9
+          },
+          {
+            "name": "Frontkamera",
+            "price": 79.9
+          },
+          {
+            "name": "Mikrofon",
+            "price": 69.9
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 69.9
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 69.9
+          },
+          {
+            "name": "Kameraglas",
+            "price": 69.9
+          },
+          {
+            "name": "Akkudeckel",
+            "price": 59.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/xperia-xa1.html"
+      },
+      {
+        "supplier": "Sony",
+        "name": "Xperia XA2",
+        "services": [
+          {
+            "name": "Display",
+            "price": 124.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Akku",
+            "price": 79.9
+          },
+          {
+            "name": "Kopfh\u00f6rerbuchse",
+            "price": 69.9
+          },
+          {
+            "name": "Powerbutton",
+            "price": 69.9
+          },
+          {
+            "name": "Ladebuchse",
+            "price": 69.9
+          },
+          {
+            "name": "Frontkamera",
+            "price": 85.9
+          },
+          {
+            "name": "Mikrofon",
+            "price": 69.9
+          },
+          {
+            "name": "Vibration",
+            "price": 69.9
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 69.9
+          },
+          {
+            "name": "Akkudeckel",
+            "price": 89.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/xperia-xa2.html"
+      },
+      {
+        "supplier": "Sony",
+        "name": "Xperia XA2 Ultra",
+        "services": [
+          {
+            "name": "Display",
+            "price": 169.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Akku",
+            "price": 69.9
+          },
+          {
+            "name": "Kopfh\u00f6rerbuchse",
+            "price": 69.9
+          },
+          {
+            "name": "Powerbutton",
+            "price": 69.9
+          },
+          {
+            "name": "Ladebuchse",
+            "price": 69.9
+          },
+          {
+            "name": "Hauptkamera",
+            "price": 94.9
+          },
+          {
+            "name": "Frontkamera",
+            "price": 84.9
+          },
+          {
+            "name": "Mikrofon",
+            "price": 69.9
+          },
+          {
+            "name": "Vibration",
+            "price": 69.9
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 69.9
+          },
+          {
+            "name": "Akkudeckel",
+            "price": 79.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/xperia-xa2-ultra.html"
+      },
+      {
+        "supplier": "Sony",
+        "name": "Xperia XZ Premium",
+        "services": [
+          {
+            "name": "Display",
+            "price": 204.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Akku",
+            "price": 69.9
+          },
+          {
+            "name": "Kopfh\u00f6rerbuchse",
+            "price": 69.9
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 69.9
+          },
+          {
+            "name": "Powerbutton",
+            "price": 69.9
+          },
+          {
+            "name": "Ladebuchse",
+            "price": 69.9
+          },
+          {
+            "name": "Frontkamera",
+            "price": 74.9
+          },
+          {
+            "name": "Vibration",
+            "price": 69.9
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 69.9
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 69.9
+          },
+          {
+            "name": "Akkudeckel",
+            "price": 72.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/xperia-xz-premium.html"
+      },
+      {
+        "supplier": "Sony",
+        "name": "Xperia XZ1",
+        "services": [
+          {
+            "name": "Display",
+            "price": 118.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Akku",
+            "price": 79.9
+          },
+          {
+            "name": "Kopfh\u00f6rerbuchse",
+            "price": 79.9
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 79.9
+          },
+          {
+            "name": "Akkudeckel",
+            "price": 139.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/xperia-xz1.html"
+      },
+      {
+        "supplier": "Sony",
+        "name": "Xperia XZ1 Compact",
+        "services": [
+          {
+            "name": "Display",
+            "price": 114.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Akku",
+            "price": 69.9
+          },
+          {
+            "name": "Hauptkamera",
+            "price": 94.9
+          },
+          {
+            "name": "Frontkamera",
+            "price": 79.9
+          },
+          {
+            "name": "Akkudeckel",
+            "price": 129.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/xperia-xz1-compact.html"
+      },
+      {
+        "supplier": "Sony",
+        "name": "Xperia Z1 Compact",
+        "services": [
+          {
+            "name": "Display",
+            "price": 130.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Akku",
+            "price": 49.9
+          },
+          {
+            "name": "Kopfh\u00f6rerbuchse",
+            "price": 69.9
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 69.9
+          },
+          {
+            "name": "Powerbutton",
+            "price": 69.9
+          },
+          {
+            "name": "Hauptkamera",
+            "price": 79.9
+          },
+          {
+            "name": "Frontkamera",
+            "price": 69.9
+          },
+          {
+            "name": "Vibration",
+            "price": 69.9
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 69.9
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 69.9
+          },
+          {
+            "name": "Akkudeckel",
+            "price": 69.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/xperia-z1-compact.html"
+      },
+      {
+        "supplier": "Sony",
+        "name": "Xperia Z2",
+        "services": [
+          {
+            "name": "Display",
+            "price": 189.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Akku",
+            "price": 69.9
+          },
+          {
+            "name": "Kopfh\u00f6rerbuchse",
+            "price": 69.9
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 69.9
+          },
+          {
+            "name": "Powerbutton",
+            "price": 69.9
+          },
+          {
+            "name": "Ladebuchse",
+            "price": 69.9
+          },
+          {
+            "name": "Hauptkamera",
+            "price": 89.9
+          },
+          {
+            "name": "Frontkamera",
+            "price": 79.9
+          },
+          {
+            "name": "Mikrofon",
+            "price": 69.9
+          },
+          {
+            "name": "Vibration",
+            "price": 69.9
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 69.9
+          },
+          {
+            "name": "Akkudeckel in wei\u00df!",
+            "price": 39.9
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 69.9
+          },
+          {
+            "name": "Akkudeckel",
+            "price": 97.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/xperia-z2.html"
+      },
+      {
+        "supplier": "Sony",
+        "name": "Xperia Z3",
+        "services": [
+          {
+            "name": "Display",
+            "price": 179.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Akku",
+            "price": 79.9
+          },
+          {
+            "name": "Kopfh\u00f6rerbuchse",
+            "price": 69.9
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 69.9
+          },
+          {
+            "name": "Powerbutton",
+            "price": 69.9
+          },
+          {
+            "name": "Ladebuchse",
+            "price": 69.9
+          },
+          {
+            "name": "Hauptkamera",
+            "price": 79.9
+          },
+          {
+            "name": "Frontkamera",
+            "price": 69.9
+          },
+          {
+            "name": "Mikrofon",
+            "price": 69.9
+          },
+          {
+            "name": "Vibration",
+            "price": 69.9
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 69.9
+          },
+          {
+            "name": "Homebutton",
+            "price": 69.9
+          },
+          {
+            "name": "Akkudeckel",
+            "price": 79.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/xperia-z3.html"
+      },
+      {
+        "supplier": "Sony",
+        "name": "Xperia Z3 Compact",
+        "services": [
+          {
+            "name": "Display",
+            "price": 139.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Akku",
+            "price": 59.9
+          },
+          {
+            "name": "Kopfh\u00f6rerbuchse",
+            "price": 69.9
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 69.9
+          },
+          {
+            "name": "Powerbutton",
+            "price": 69.9
+          },
+          {
+            "name": "Hauptkamera",
+            "price": 89.9
+          },
+          {
+            "name": "Frontkamera",
+            "price": 79.9
+          },
+          {
+            "name": "Vibration",
+            "price": 69.9
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 69.9
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 69.9
+          },
+          {
+            "name": "Kameraglas",
+            "price": 79.9
+          },
+          {
+            "name": "Akkudeckel",
+            "price": 74.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/xperia-z3-compact.html"
+      },
+      {
+        "supplier": "Sony",
+        "name": "Xperia Z5",
+        "services": [
+          {
+            "name": "Display",
+            "price": 139.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Akku",
+            "price": 69.9
+          },
+          {
+            "name": "Kopfh\u00f6rerbuchse",
+            "price": 69.9
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 69.9
+          },
+          {
+            "name": "Powerbutton",
+            "price": 69.9
+          },
+          {
+            "name": "Ladebuchse",
+            "price": 69.9
+          },
+          {
+            "name": "Hauptkamera",
+            "price": 89.9
+          },
+          {
+            "name": "Frontkamera",
+            "price": 79.9
+          },
+          {
+            "name": "Mikrofon",
+            "price": 69.9
+          },
+          {
+            "name": "Vibration",
+            "price": 69.9
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 69.9
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 69.9
+          },
+          {
+            "name": "Akkudeckel",
+            "price": 74.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/xperia-z5.html"
+      },
+      {
+        "supplier": "Sony",
+        "name": "Xperia Z5 Compact",
+        "services": [
+          {
+            "name": "Display",
+            "price": 134.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Akku",
+            "price": 58.9
+          },
+          {
+            "name": "Kopfh\u00f6rerbuchse",
+            "price": 69.9
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 69.9
+          },
+          {
+            "name": "Powerbutton",
+            "price": 69.9
+          },
+          {
+            "name": "Ladebuchse",
+            "price": 69.9
+          },
+          {
+            "name": "Hauptkamera",
+            "price": 89.9
+          },
+          {
+            "name": "Frontkamera",
+            "price": 74.9
+          },
+          {
+            "name": "Mikrofon",
+            "price": 69.9
+          },
+          {
+            "name": "Vibration",
+            "price": 69.9
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 69.9
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 69.9
+          },
+          {
+            "name": "Kameraglas",
+            "price": 89.9
+          },
+          {
+            "name": "Akkudeckel",
+            "price": 74.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/xperia-z5-compact.html"
+      },
+      {
+        "supplier": "LG",
+        "name": "G4",
+        "services": [
+          {
+            "name": "Display",
+            "price": 124.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Akku",
+            "price": 69.9
+          },
+          {
+            "name": "Kopfh\u00f6rerbuchse",
+            "price": 69.9
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 69.9
+          },
+          {
+            "name": "Powerbutton",
+            "price": 69.9
+          },
+          {
+            "name": "Hauptkamera",
+            "price": 89.9
+          },
+          {
+            "name": "Frontkamera",
+            "price": 79.9
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 69.9
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 69.9
+          },
+          {
+            "name": "Kameraglas",
+            "price": 69.9
+          },
+          {
+            "name": "Akkudeckel",
+            "price": 79.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/lg-g4.html"
+      },
+      {
+        "supplier": "LG",
+        "name": "G6",
+        "services": [
+          {
+            "name": "Display",
+            "price": 179.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Akku",
+            "price": 79.9
+          },
+          {
+            "name": "Ladebuchse",
+            "price": 69.9
+          },
+          {
+            "name": "Vibration",
+            "price": 69.9
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 69.9
+          },
+          {
+            "name": "Kameraglas",
+            "price": 69.9
+          },
+          {
+            "name": "Akkudeckel",
+            "price": 119.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/lg-g6.html"
+      },
+      {
+        "supplier": "LG",
+        "name": "Google Nexus 5",
+        "services": [
+          {
+            "name": "Display",
+            "price": 114.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Akku",
+            "price": 59.9
+          },
+          {
+            "name": "Ladebuchse",
+            "price": 69.9
+          },
+          {
+            "name": "Akkudeckel",
+            "price": 89.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/lg-google-nexus-5.html"
+      },
+      {
+        "supplier": "Huawei",
+        "name": "Honor Play 5X",
+        "services": [
+          {
+            "name": "Display",
+            "price": 99.9
+          },
+          {
+            "name": "Kostenvoranschlag",
+            "price": 35.0
+          },
+          {
+            "name": "Fehlerdiagnose",
+            "price": 29.9
+          },
+          {
+            "name": "Fl\u00fcssigkeitsdiagnose",
+            "price": 69.9
+          },
+          {
+            "name": "Powerbutton",
+            "price": 74.9
+          },
+          {
+            "name": "Ladebuchse",
+            "price": 74.9
+          },
+          {
+            "name": "Hauptkamera",
+            "price": 89.9
+          },
+          {
+            "name": "Frontkamera",
+            "price": 79.9
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 69.9
+          },
+          {
+            "name": "Kameraglas",
+            "price": 49.9
+          }
+        ],
+        "url": "https://www.myphonerepair.de/honor-play-5x"
+      }
+    ]
+  }
+]
