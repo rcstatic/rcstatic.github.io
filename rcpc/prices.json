@@ -1,9 +1,6441 @@
 [
   {
+    "name": "Smartphone Repair GmbH",
+    "address": "Schiffgraben 47, 30175 Hannover",
+    "mapsUrl": "https://www.google.com/maps/place/Smartphone+Repair+GmbH/@52.37542,9.75002,15z/data=!4m2!3m1!1s0x0:0x4ec5b327b1f2340e?sa=X&ved=2ahUKEwj67YigscfiAhWIyqQKHS4KA_EQ_BIwDXoECAsQCA",
+    "logo": "https://rcstatic.github.io/img/logos/logo-handy24-repair.png",
+    "entries": [
+      {
+        "supplier": "Apple",
+        "name": "Akku",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+            "price": 25.0
+          },
+          {
+            "name": "LCD + Touchscreen",
+            "price": 489.0
+          },
+          {
+            "name": "Akku",
+            "price": 119.0
+          }
+        ],
+        "url": "https://www.handy24.repair/apple-apple-iphone-xs-max-reparatur-hannover"
+      },
+      {
+        "supplier": "Apple",
+        "name": "Akku",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+            "price": 25.0
+          },
+          {
+            "name": "LCD + Touchscreen",
+            "price": 419.0
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 99.0
+          },
+          {
+            "name": " Mikrofon",
+            "price": 99.0
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 99.0
+          },
+          {
+            "name": "Vibration",
+            "price": 99.0
+          },
+          {
+            "name": "Akku",
+            "price": 109.0
+          }
+        ],
+        "url": "https://www.handy24.repair/apple-iphone-xs-reparatur-hannover"
+      },
+      {
+        "supplier": "Apple",
+        "name": "Akku",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+            "price": 25.0
+          },
+          {
+            "name": "LCD + Touchscreen",
+            "price": 279.0
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 99.0
+          },
+          {
+            "name": " Mikrofon",
+            "price": 99.0
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 99.0
+          },
+          {
+            "name": "Vibration",
+            "price": 99.0
+          },
+          {
+            "name": "Akku",
+            "price": 99.0
+          }
+        ],
+        "url": "https://www.handy24.repair/apple-iphone-xr-reparatur-hannover"
+      },
+      {
+        "supplier": "Apple",
+        "name": "Akku",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+            "price": 25.0
+          },
+          {
+            "name": "LCD + Touchscreen",
+            "price": 349.0
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 109.0
+          },
+          {
+            "name": " Standby ( Ein-/ Ausschalter )",
+            "price": 109.0
+          },
+          {
+            "name": " Stummschalter",
+            "price": 109.0
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 99.0
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 99.0
+          },
+          {
+            "name": " Mikrofon",
+            "price": 99.0
+          },
+          {
+            "name": "Vibration",
+            "price": 99.0
+          },
+          {
+            "name": "Backkamera",
+            "price": 189.0
+          },
+          {
+            "name": "Ladeanschluss / Kopfh\u00f6rer Anschluss",
+            "price": 109.0
+          },
+          {
+            "name": "Akku",
+            "price": 99.0
+          }
+        ],
+        "url": "https://www.handy24.repair/apple-iphone-x-reparatur-hannover"
+      },
+      {
+        "supplier": "Apple",
+        "name": "Akku",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD schwarz",
+            "price": 209.0
+          },
+          {
+            "name": " Touchscreen + LCD wei\u00df",
+            "price": 209.0
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 99.0
+          },
+          {
+            "name": " Standby ( Ein-/ Ausschalter )",
+            "price": 99.0
+          },
+          {
+            "name": " Stummschalter",
+            "price": 99.0
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 109.0
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 109.0
+          },
+          {
+            "name": " Mikrofon",
+            "price": 109.0
+          },
+          {
+            "name": "Vibration",
+            "price": 109.0
+          },
+          {
+            "name": "Backkamera",
+            "price": 149.0
+          },
+          {
+            "name": "Ladeanschluss / Kopfh\u00f6rer Anschluss",
+            "price": 109.0
+          },
+          {
+            "name": "Akku",
+            "price": 89.0
+          }
+        ],
+        "url": "https://www.handy24.repair/apple-iphone-8-plus-reparatur-hannover"
+      },
+      {
+        "supplier": "Apple",
+        "name": "Akku",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD schwarz",
+            "price": 189.0
+          },
+          {
+            "name": " Touchscreen + LCD wei\u00df",
+            "price": 189.0
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 99.0
+          },
+          {
+            "name": " Standby ( Ein-/ Ausschalter )",
+            "price": 99.0
+          },
+          {
+            "name": " Stummschalter",
+            "price": 99.0
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 99.0
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 99.0
+          },
+          {
+            "name": " Mikrofon",
+            "price": 99.0
+          },
+          {
+            "name": "Vibration",
+            "price": 99.0
+          },
+          {
+            "name": "Backkamera",
+            "price": 109.0
+          },
+          {
+            "name": "Ladeanschluss / Kopfh\u00f6rer Anschluss",
+            "price": 99.0
+          },
+          {
+            "name": "Akku",
+            "price": 89.0
+          }
+        ],
+        "url": "https://www.handy24.repair/apple-iphone-8-reparatur-hannover"
+      },
+      {
+        "supplier": "Apple",
+        "name": "Akku",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD schwarz",
+            "price": 199.0
+          },
+          {
+            "name": " Touchscreen + LCD wei\u00df",
+            "price": 199.0
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 89.0
+          },
+          {
+            "name": " Standby ( Ein-/ Ausschalter )",
+            "price": 89.0
+          },
+          {
+            "name": " Stummschalter",
+            "price": 89.0
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 89.0
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 89.0
+          },
+          {
+            "name": " Mikrofon",
+            "price": 89.0
+          },
+          {
+            "name": "Vibration",
+            "price": 89.0
+          },
+          {
+            "name": "Frontkamera",
+            "price": 99.0
+          },
+          {
+            "name": " Backkamera",
+            "price": 139.0
+          },
+          {
+            "name": "Ladeanschluss / Kopfh\u00f6rer Anschluss",
+            "price": 99.0
+          },
+          {
+            "name": "Akku",
+            "price": 59.0
+          }
+        ],
+        "url": "https://www.handy24.repair/apple-iphone-7-plus-reparatur-hannover"
+      },
+      {
+        "supplier": "Apple",
+        "name": "Akku",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD schwarz",
+            "price": 169.0
+          },
+          {
+            "name": "Touchscreen + LCD wei\u00df",
+            "price": 169.0
+          },
+          {
+            "name": " Kombipreis LCD + Backcover",
+            "price": 289.0
+          },
+          {
+            "name": "  Backcover",
+            "price": 149.0
+          },
+          {
+            "name": "Backcover Piano Lack",
+            "price": 179.0
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 84.0
+          },
+          {
+            "name": " Standby ( Ein-/ Ausschalter )",
+            "price": 84.0
+          },
+          {
+            "name": " Stummschalter",
+            "price": 84.0
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 79.0
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 79.0
+          },
+          {
+            "name": " Mikrofon",
+            "price": 79.0
+          },
+          {
+            "name": "Vibration",
+            "price": 79.0
+          },
+          {
+            "name": "Frontkamera",
+            "price": 89.0
+          },
+          {
+            "name": " Backkamera",
+            "price": 109.0
+          },
+          {
+            "name": "Ladeanschluss / Kopfh\u00f6rer Anschluss",
+            "price": 89.0
+          },
+          {
+            "name": "Akku",
+            "price": 59.0
+          }
+        ],
+        "url": "https://www.handy24.repair/apple-iphone-7-reparatur-hannover"
+      },
+      {
+        "supplier": "Apple",
+        "name": "Akku",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD schwarz",
+            "price": 99.0
+          },
+          {
+            "name": "Touchscreen + LCD wei\u00df",
+            "price": 99.0
+          },
+          {
+            "name": "Geh\u00e4use",
+            "price": 109.0
+          },
+          {
+            "name": "Display und Geh\u00e4use Kombipreis",
+            "price": 179.0
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 52.0
+          },
+          {
+            "name": "Standby ( Ein-/Auschalter)",
+            "price": 62.0
+          },
+          {
+            "name": "Stummschalter",
+            "price": 62.0
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 49.0
+          },
+          {
+            "name": " Lautsprecher",
+            "price": 49.0
+          },
+          {
+            "name": " Mikrofon",
+            "price": 49.0
+          },
+          {
+            "name": " Mikrofon  (Umgebung)",
+            "price": 49.0
+          },
+          {
+            "name": "Vibration ",
+            "price": 49.0
+          },
+          {
+            "name": "Frontkamera",
+            "price": 49.0
+          },
+          {
+            "name": " Backkamera",
+            "price": 59.0
+          },
+          {
+            "name": "Kopfh\u00f6rer-Anschluss",
+            "price": 59.0
+          },
+          {
+            "name": "Ladenschluss",
+            "price": 59.0
+          },
+          {
+            "name": "Akku",
+            "price": 29.0
+          }
+        ],
+        "url": "https://www.handy24.repair/apple-iphone-se-reparatur-hannover"
+      },
+      {
+        "supplier": "Apple",
+        "name": "Zur\u00fccksetzen auf Werkseinstellungen",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD schwarz",
+            "price": 179.0
+          },
+          {
+            "name": "Touchscreen + LCD wei\u00df",
+            "price": 179.0
+          },
+          {
+            "name": "Backcover",
+            "price": 139.0
+          },
+          {
+            "name": "Display und Geh\u00e4use Kombipreis",
+            "price": 279.0
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 89.0
+          },
+          {
+            "name": "Standby (Ein Ausschalter)",
+            "price": 89.0
+          },
+          {
+            "name": "Stummschalter",
+            "price": 89.0
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 89.0
+          },
+          {
+            "name": "Mikrofon",
+            "price": 89.0
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 89.0
+          },
+          {
+            "name": "Vibration ",
+            "price": 89.0
+          },
+          {
+            "name": "Dual-LED Blitz",
+            "price": 99.0
+          },
+          {
+            "name": "Kamera R\u00fcckseite",
+            "price": 109.0
+          },
+          {
+            "name": "Kamera Vorderseite",
+            "price": 99.0
+          },
+          {
+            "name": "Ann\u00e4herungssensor",
+            "price": 89.0
+          },
+          {
+            "name": "Bewegungssensor (Gyroskop)",
+            "price": 89.0
+          },
+          {
+            "name": "Lichtsensor",
+            "price": 89.0
+          },
+          {
+            "name": "Kopfh\u00f6rer Anschluss",
+            "price": 99.0
+          },
+          {
+            "name": "Ladeanschluss",
+            "price": 99.0
+          },
+          {
+            "name": "Akku",
+            "price": 49.0
+          },
+          {
+            "name": "Zur\u00fccksetzen auf Werkseinstellungen",
+            "price": 30.0
+          }
+        ],
+        "url": "https://www.handy24.repair/apple-iphone-6s-plus-reparatur-hannover"
+      },
+      {
+        "supplier": "Apple",
+        "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD wei\u00df",
+            "price": 139.0
+          },
+          {
+            "name": "Touchscreen + LCD schwarz",
+            "price": 139.0
+          },
+          {
+            "name": " Backcover",
+            "price": 119.0
+          },
+          {
+            "name": " Kombipreis LCD + Backcover",
+            "price": 209.0
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 79.0
+          },
+          {
+            "name": "Standby (Ein Ausschalter)",
+            "price": 79.0
+          },
+          {
+            "name": "Stummschalter",
+            "price": 79.0
+          },
+          {
+            "name": "Mikrofon",
+            "price": 79.0
+          },
+          {
+            "name": " Lautsprecher",
+            "price": 79.0
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 79.0
+          },
+          {
+            "name": "Vibration",
+            "price": 79.0
+          },
+          {
+            "name": "Dual-LED Blitz",
+            "price": 89.0
+          },
+          {
+            "name": "Kamera R\u00fcckseite",
+            "price": 99.0
+          },
+          {
+            "name": "Kamera Vorderseite",
+            "price": 89.0
+          },
+          {
+            "name": "Ann\u00e4herungssensor",
+            "price": 79.0
+          },
+          {
+            "name": "Bewegungssensor (Gyroskop)",
+            "price": 79.0
+          },
+          {
+            "name": "Lichtsensor",
+            "price": 79.0
+          },
+          {
+            "name": "Kopfh\u00f6rer Anschluss",
+            "price": 89.0
+          },
+          {
+            "name": "Ladeanschluss",
+            "price": 89.0
+          },
+          {
+            "name": "Akkutausch",
+            "price": 49.0
+          },
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+            "price": 25.0
+          }
+        ],
+        "url": "https://www.handy24.repair/apple-iphone-6s-reparatur-hannover"
+      },
+      {
+        "supplier": "Apple",
+        "name": "Blockierte SIM Entfernen",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD schwarz",
+            "price": 79.0
+          },
+          {
+            "name": "Touchscreen + LCD wei\u00df",
+            "price": 79.0
+          },
+          {
+            "name": "Homebutton",
+            "price": 49.0
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 59.0
+          },
+          {
+            "name": "Standby (Ein Ausschalter)",
+            "price": 59.0
+          },
+          {
+            "name": "Stummschalter",
+            "price": 59.0
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 49.0
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 49.0
+          },
+          {
+            "name": "Mikrofon",
+            "price": 49.0
+          },
+          {
+            "name": "Mikrofon (Umgebung)",
+            "price": 49.0
+          },
+          {
+            "name": "Vibration",
+            "price": 44.0
+          },
+          {
+            "name": "Dual-LED Blitz",
+            "price": 53.0
+          },
+          {
+            "name": "Kamera R\u00fcckseite",
+            "price": 59.0
+          },
+          {
+            "name": "Kamera Vorderseite",
+            "price": 53.0
+          },
+          {
+            "name": "Ann\u00e4herungssensor",
+            "price": 55.0
+          },
+          {
+            "name": "Bewegungssensor (Gyroskop)",
+            "price": 55.0
+          },
+          {
+            "name": "Lichtsensor",
+            "price": 55.0
+          },
+          {
+            "name": "Kopfh\u00f6rer Anschluss",
+            "price": 52.0
+          },
+          {
+            "name": "Ladeanschluss",
+            "price": 52.0
+          },
+          {
+            "name": "Akkutausch",
+            "price": 29.0
+          },
+          {
+            "name": "Blockierte SIM Entfernen",
+            "price": 20.0
+          }
+        ],
+        "url": "https://www.handy24.repair/apple-iphone-5-reparatur-hannover"
+      },
+      {
+        "supplier": "Samsung",
+        "name": "Akku",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr die Versicherung",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD",
+            "price": 359.0
+          },
+          {
+            "name": " Backcover",
+            "price": 99.0
+          },
+          {
+            "name": "Akku",
+            "price": 89.0
+          }
+        ],
+        "url": "https://www.handy24.repair/samsung-galaxy-s10-plus-sm-g975-reparatur-hannover"
+      },
+      {
+        "supplier": "Samsung",
+        "name": "Akku",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr die Versicherung",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD",
+            "price": 279.0
+          },
+          {
+            "name": " Backcover",
+            "price": 89.0
+          },
+          {
+            "name": "Akku",
+            "price": 89.0
+          }
+        ],
+        "url": "https://www.handy24.repair/samsung-galaxy-s10e-sm-g970-reparatur-hannover"
+      },
+      {
+        "supplier": "Samsung",
+        "name": "Akku",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr die Versicherung",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD",
+            "price": 329.0
+          },
+          {
+            "name": " Backcover",
+            "price": 99.0
+          },
+          {
+            "name": "Akku",
+            "price": 89.0
+          }
+        ],
+        "url": "https://www.handy24.repair/samsung-galaxy-s10-sm-g973-reparatur-hannover"
+      },
+      {
+        "supplier": "Samsung",
+        "name": "Akku",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr die Versicherung",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD",
+            "price": 129.0
+          },
+          {
+            "name": "Akku",
+            "price": 59.0
+          }
+        ],
+        "url": "https://www.handy24.repair/samsung-galaxy-j4-plus-sm-j415-reparatur-hannover"
+      },
+      {
+        "supplier": "Samsung",
+        "name": "Akku",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr die Versicherung",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD",
+            "price": 149.0
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 69.0
+          },
+          {
+            "name": "Vibration",
+            "price": 69.0
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 69.0
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 69.0
+          },
+          {
+            "name": "Akku",
+            "price": 79.0
+          }
+        ],
+        "url": "https://www.handy24.repair/samsung-galaxy-a6-plus-2018-sm-a605-reparatur-hannover"
+      },
+      {
+        "supplier": "Samsung",
+        "name": "Akku",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr die Versicherung",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD",
+            "price": 149.0
+          },
+          {
+            "name": "Mikrofon",
+            "price": 59.0
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 59.0
+          },
+          {
+            "name": "Vibration",
+            "price": 59.0
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 59.0
+          },
+          {
+            "name": "Akku",
+            "price": 69.0
+          }
+        ],
+        "url": "https://www.handy24.repair/samsung-galaxy-a7-2018-sm-a750-reparatur-hannover"
+      },
+      {
+        "supplier": "Samsung",
+        "name": "Akku",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr die Versicherung",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD",
+            "price": 139.0
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 69.0
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 69.0
+          },
+          {
+            "name": "Vibration",
+            "price": 69.0
+          },
+          {
+            "name": "Mikrofon",
+            "price": 69.0
+          },
+          {
+            "name": "Akku",
+            "price": 79.0
+          }
+        ],
+        "url": "https://www.handy24.repair/samsung-galaxy-a6-2018-sm-a600-reparatur-hannover"
+      },
+      {
+        "supplier": "Samsung",
+        "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherung*",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherung*",
+            "price": 25.0
+          }
+        ],
+        "url": "https://www.handy24.repair/samsung-andere-samsung-modelle-reparatur-hannover"
+      },
+      {
+        "supplier": "Samsung",
+        "name": " Backcover",
+        "services": [
+          {
+            "name": " Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD",
+            "price": 309.0
+          },
+          {
+            "name": " Backcover",
+            "price": 99.0
+          }
+        ],
+        "url": "https://www.handy24.repair/samsung-note-9-sm-n960-reparatur-hannover"
+      },
+      {
+        "supplier": "Samsung",
+        "name": "Blockierte SIM Entfernen",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD",
+            "price": 299.0
+          },
+          {
+            "name": "Backcover",
+            "price": 99.0
+          },
+          {
+            "name": "Standby (Ein-/ Ausschalter)",
+            "price": 99.0
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 99.0
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 99.0
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 99.0
+          },
+          {
+            "name": "Mikrofon",
+            "price": 99.0
+          },
+          {
+            "name": "Vibration",
+            "price": 99.0
+          },
+          {
+            "name": "Frontkamera",
+            "price": 99.0
+          },
+          {
+            "name": " Backkamera",
+            "price": 149.0
+          },
+          {
+            "name": "Backkameralinse",
+            "price": 25.0
+          },
+          {
+            "name": "Homebutton ",
+            "price": 89.0
+          },
+          {
+            "name": " Ann\u00e4herungssensor",
+            "price": 99.0
+          },
+          {
+            "name": "Kopfh\u00f6rer Anschluss",
+            "price": 129.0
+          },
+          {
+            "name": "USB - Anschluss",
+            "price": 129.0
+          },
+          {
+            "name": "Akku",
+            "price": 99.0
+          },
+          {
+            "name": "Zur\u00fccksetzen auf Werkseinstellungen",
+            "price": 40.0
+          },
+          {
+            "name": "Blockierte SIM Entfernen",
+            "price": 35.0
+          }
+        ],
+        "url": "https://www.handy24.repair/samsung-galaxy-s9-sm-g965f-reparatur-hannover"
+      },
+      {
+        "supplier": "Samsung",
+        "name": "Blockierte SIM entfernen",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD",
+            "price": 279.0
+          },
+          {
+            "name": " Backcover",
+            "price": 99.0
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 99.0
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 99.0
+          },
+          {
+            "name": "Mikrofon",
+            "price": 99.0
+          },
+          {
+            "name": "Vibration",
+            "price": 99.0
+          },
+          {
+            "name": "Frontkamera",
+            "price": 99.0
+          },
+          {
+            "name": " Backkamera",
+            "price": 139.0
+          },
+          {
+            "name": " Backkameralinse",
+            "price": 25.0
+          },
+          {
+            "name": "Ann\u00e4herungssensor",
+            "price": 89.0
+          },
+          {
+            "name": "Kopfh\u00f6rer Anschluss",
+            "price": 119.0
+          },
+          {
+            "name": "USB - Anschluss",
+            "price": 119.0
+          },
+          {
+            "name": "Akku",
+            "price": 99.0
+          },
+          {
+            "name": "Zur\u00fccksetzen auf Werkseinstellungen",
+            "price": 40.0
+          },
+          {
+            "name": "Blockierte SIM entfernen",
+            "price": 40.0
+          }
+        ],
+        "url": "https://www.handy24.repair/samsung-galaxy-s9-sm-g960-reparatur-hannover"
+      },
+      {
+        "supplier": "Samsung",
+        "name": "Zur\u00fccksetzen auf Werkseinstellungen",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr die Versicherung",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD",
+            "price": 169.0
+          },
+          {
+            "name": " Geh\u00e4use",
+            "price": 99.0
+          },
+          {
+            "name": "Akku",
+            "price": 69.0
+          },
+          {
+            "name": "Zur\u00fccksetzen auf Werkseinstellungen",
+            "price": 30.0
+          }
+        ],
+        "url": "https://www.handy24.repair/samsung-j7-2017-sm-j730-reparatur-hannover"
+      },
+      {
+        "supplier": "Sony",
+        "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherung*",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherung*",
+            "price": 25.0
+          }
+        ],
+        "url": "https://www.handy24.repair/sony-andere-sony-modelle-reparatur-hannover"
+      },
+      {
+        "supplier": "Sony",
+        "name": "Akku",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherung",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD",
+            "price": 149.0
+          },
+          {
+            "name": "Backcover",
+            "price": 59.0
+          },
+          {
+            "name": " Seitengeh\u00e4use rechts",
+            "price": 39.0
+          },
+          {
+            "name": "Seitengeh\u00e4use links",
+            "price": 39.0
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 69.0
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 69.0
+          },
+          {
+            "name": "Mikrofon",
+            "price": 69.0
+          },
+          {
+            "name": "Vibration",
+            "price": 69.0
+          },
+          {
+            "name": "Frontkamera",
+            "price": 69.0
+          },
+          {
+            "name": " Backkamera",
+            "price": 89.0
+          },
+          {
+            "name": "Ladeanschluss",
+            "price": 69.0
+          },
+          {
+            "name": "Akku",
+            "price": 69.0
+          }
+        ],
+        "url": "https://www.handy24.repair/sony-xperia-xa2-reparatur-hannover"
+      },
+      {
+        "supplier": "Sony",
+        "name": "Akku",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherung",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD",
+            "price": 139.0
+          },
+          {
+            "name": "Backcover",
+            "price": 49.0
+          },
+          {
+            "name": " Seitengeh\u00e4use rechts",
+            "price": 49.0
+          },
+          {
+            "name": "Seitengeh\u00e4use links",
+            "price": 49.0
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 59.0
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 59.0
+          },
+          {
+            "name": "Mikrofon",
+            "price": 59.0
+          },
+          {
+            "name": "Vibration",
+            "price": 59.0
+          },
+          {
+            "name": "Frontkamera",
+            "price": 59.0
+          },
+          {
+            "name": " Backkamera",
+            "price": 79.0
+          },
+          {
+            "name": "Ladeanschluss",
+            "price": 59.0
+          },
+          {
+            "name": "Akku",
+            "price": 59.0
+          }
+        ],
+        "url": "https://www.handy24.repair/sony-xperia-xa1-reparatur-hannover"
+      },
+      {
+        "supplier": "Sony",
+        "name": "Akku",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherung",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD",
+            "price": 139.0
+          },
+          {
+            "name": "Backcover",
+            "price": 129.0
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 69.0
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 69.0
+          },
+          {
+            "name": "Mikrofon",
+            "price": 69.0
+          },
+          {
+            "name": "Vibration",
+            "price": 69.0
+          },
+          {
+            "name": "Frontkamera",
+            "price": 59.0
+          },
+          {
+            "name": " Backkamera",
+            "price": 99.0
+          },
+          {
+            "name": "Ladeanschluss",
+            "price": 69.0
+          },
+          {
+            "name": "Akku",
+            "price": 69.0
+          }
+        ],
+        "url": "https://www.handy24.repair/sony-xperia-xz2-compact-reparatur-hannover"
+      },
+      {
+        "supplier": "Sony",
+        "name": "Akku",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherung",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD",
+            "price": 159.0
+          },
+          {
+            "name": "Backcover",
+            "price": 149.0
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 69.0
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 69.0
+          },
+          {
+            "name": "Mikrofon",
+            "price": 69.0
+          },
+          {
+            "name": "Vibration",
+            "price": 69.0
+          },
+          {
+            "name": "Frontkamera",
+            "price": 59.0
+          },
+          {
+            "name": "Ladeanschluss",
+            "price": 79.0
+          },
+          {
+            "name": "Akku",
+            "price": 79.0
+          }
+        ],
+        "url": "https://www.handy24.repair/sony-xperia-xz2-reparatur-hannover"
+      },
+      {
+        "supplier": "Sony",
+        "name": "Akku",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherung",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD",
+            "price": 139.0
+          },
+          {
+            "name": "Backcover",
+            "price": 129.0
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 69.0
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 69.0
+          },
+          {
+            "name": "Mikrofon",
+            "price": 69.0
+          },
+          {
+            "name": "Vibration",
+            "price": 69.0
+          },
+          {
+            "name": "Frontkamera",
+            "price": 59.0
+          },
+          {
+            "name": "Backkamera",
+            "price": 99.0
+          },
+          {
+            "name": "Ladeanschluss",
+            "price": 69.0
+          },
+          {
+            "name": "Akku",
+            "price": 69.0
+          }
+        ],
+        "url": "https://www.handy24.repair/sony-xperia-xz1-compact-reparatur-hannover"
+      },
+      {
+        "supplier": "Sony",
+        "name": "Akku",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherung",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD",
+            "price": 149.0
+          },
+          {
+            "name": "Backcover",
+            "price": 129.0
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 69.0
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 69.0
+          },
+          {
+            "name": "Mikrofon",
+            "price": 69.0
+          },
+          {
+            "name": "Vibration",
+            "price": 69.0
+          },
+          {
+            "name": "Frontkamera",
+            "price": 59.0
+          },
+          {
+            "name": "Backkamera",
+            "price": 99.0
+          },
+          {
+            "name": "Ladeanschluss",
+            "price": 69.0
+          },
+          {
+            "name": "Akku",
+            "price": 69.0
+          }
+        ],
+        "url": "https://www.handy24.repair/sony-xperia-xz1-reparatur-hannover"
+      },
+      {
+        "supplier": "Sony",
+        "name": "Akku",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherung",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD + Geh\u00e4userahmen",
+            "price": 239.0
+          },
+          {
+            "name": " Backcover",
+            "price": 79.0
+          },
+          {
+            "name": "Display + Backcover Kombipreis",
+            "price": 299.0
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 79.0
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 79.0
+          },
+          {
+            "name": "Mikrofon",
+            "price": 79.0
+          },
+          {
+            "name": "Vibration",
+            "price": 79.0
+          },
+          {
+            "name": "Kopfh\u00f6rer-Anschluss",
+            "price": 79.0
+          },
+          {
+            "name": " Ladeanschluss",
+            "price": 79.0
+          },
+          {
+            "name": "Akku",
+            "price": 69.0
+          }
+        ],
+        "url": "https://www.handy24.repair/sony-xperia-xz-premium-reparatur-hannover"
+      },
+      {
+        "supplier": "Sony",
+        "name": " Zur\u00fccksetzen auf Werkseinstellungen",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD",
+            "price": 159.0
+          },
+          {
+            "name": "Geh\u00e4use",
+            "price": 99.0
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 69.0
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 69.0
+          },
+          {
+            "name": "Mikrofon",
+            "price": 69.0
+          },
+          {
+            "name": "Vibration",
+            "price": 69.0
+          },
+          {
+            "name": "Kamera R\u00fcckseite",
+            "price": 99.0
+          },
+          {
+            "name": "Kamera Vorderseite",
+            "price": 79.0
+          },
+          {
+            "name": "Kopfh\u00f6rer Anschluss",
+            "price": 69.0
+          },
+          {
+            "name": "Ladeanschluss",
+            "price": 69.0
+          },
+          {
+            "name": "Akku",
+            "price": 69.0
+          },
+          {
+            "name": " Zur\u00fccksetzen auf Werkseinstellungen",
+            "price": 30.0
+          }
+        ],
+        "url": "https://www.handy24.repair/sony-xperia-xz-reparatur-hannover"
+      },
+      {
+        "supplier": "Sony",
+        "name": " Zur\u00fccksetzen auf Werkseinstellungen",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD + Mittelrahmen",
+            "price": 159.0
+          },
+          {
+            "name": " Backcover",
+            "price": 64.0
+          },
+          {
+            "name": " Display + Backcover Kombipreis",
+            "price": 199.0
+          },
+          {
+            "name": " SIM UND SD-Karten Halter",
+            "price": 24.0
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 69.0
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 69.0
+          },
+          {
+            "name": "Mikrofon",
+            "price": 69.0
+          },
+          {
+            "name": "Vibration",
+            "price": 69.0
+          },
+          {
+            "name": "Frontkamera",
+            "price": 69.0
+          },
+          {
+            "name": " Backkamera",
+            "price": 79.0
+          },
+          {
+            "name": "Ladeanschluss",
+            "price": 69.0
+          },
+          {
+            "name": "Kopfh\u00f6rer-Anschluss",
+            "price": 69.0
+          },
+          {
+            "name": "Akku",
+            "price": 59.0
+          },
+          {
+            "name": " Zur\u00fccksetzen auf Werkseinstellungen",
+            "price": 30.0
+          }
+        ],
+        "url": "https://www.handy24.repair/sony-xperia-x-compact-reparatur-hannover"
+      },
+      {
+        "supplier": "Sony",
+        "name": " Zur\u00fccksetzen auf Werkseinstellungen",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+            "price": 25.0
+          },
+          {
+            "name": "Front + Touchscreen + LCD",
+            "price": 189.0
+          },
+          {
+            "name": " Backcover",
+            "price": 59.0
+          },
+          {
+            "name": " Display + Backcover Kombipreis",
+            "price": 239.0
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 69.0
+          },
+          {
+            "name": "Ein - /Ausschalter",
+            "price": 69.0
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 69.0
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 69.0
+          },
+          {
+            "name": "Mikrofon",
+            "price": 69.0
+          },
+          {
+            "name": "Vibration",
+            "price": 69.0
+          },
+          {
+            "name": "Frontkamera",
+            "price": 79.0
+          },
+          {
+            "name": "Backkamera",
+            "price": 89.0
+          },
+          {
+            "name": "Ladeanschluss",
+            "price": 79.0
+          },
+          {
+            "name": "Kopfh\u00f6rer-Anschluss",
+            "price": 79.0
+          },
+          {
+            "name": "Akku",
+            "price": 69.0
+          },
+          {
+            "name": " Zur\u00fccksetzen auf Werkseinstellungen",
+            "price": 30.0
+          }
+        ],
+        "url": "https://www.handy24.repair/sony-xperia-x-reparatur-hannover"
+      },
+      {
+        "supplier": "Sony",
+        "name": " Zur\u00fccksetzen auf Werkseinstellungen",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD",
+            "price": 129.0
+          },
+          {
+            "name": " Backcover",
+            "price": 59.0
+          },
+          {
+            "name": "Touchcreen + LCD + Backcover",
+            "price": 174.0
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 59.0
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 59.0
+          },
+          {
+            "name": "Mikrofon",
+            "price": 59.0
+          },
+          {
+            "name": "Frontkamera",
+            "price": 59.0
+          },
+          {
+            "name": " Backkamera",
+            "price": 79.0
+          },
+          {
+            "name": "Ladeanschluss",
+            "price": 69.0
+          },
+          {
+            "name": "Akku",
+            "price": 59.0
+          },
+          {
+            "name": " Zur\u00fccksetzen auf Werkseinstellungen",
+            "price": 30.0
+          }
+        ],
+        "url": "https://www.handy24.repair/sony-xperia-xa-reparatur-hannover"
+      },
+      {
+        "supplier": "Huawei",
+        "name": "Akku",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherung",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen+LCD+Frame",
+            "price": 349.0
+          },
+          {
+            "name": " Backcover",
+            "price": 109.0
+          },
+          {
+            "name": "Akku",
+            "price": 89.0
+          }
+        ],
+        "url": "https://www.handy24.repair/huawei-p30-pro-reparatur-hannover"
+      },
+      {
+        "supplier": "Huawei",
+        "name": "Akku",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherung",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD + Frame",
+            "price": 249.0
+          },
+          {
+            "name": " Backcover",
+            "price": 89.0
+          },
+          {
+            "name": "Akku",
+            "price": 79.0
+          }
+        ],
+        "url": "https://www.handy24.repair/huawei-p30-reparatur-hannover"
+      },
+      {
+        "supplier": "Huawei",
+        "name": "Akku",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherung",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen+LCD+Frame",
+            "price": 249.0
+          },
+          {
+            "name": "Akku",
+            "price": 79.0
+          }
+        ],
+        "url": "https://www.handy24.repair/huawei-mate-10-reparatur-hannover"
+      },
+      {
+        "supplier": "Huawei",
+        "name": "Akku",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherung",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen+LCD+Frame",
+            "price": 189.0
+          },
+          {
+            "name": " Backcover",
+            "price": 79.0
+          },
+          {
+            "name": "Akku",
+            "price": 69.0
+          }
+        ],
+        "url": "https://www.handy24.repair/huawei-mate-20-lite-reparatur-hannover"
+      },
+      {
+        "supplier": "Huawei",
+        "name": "Akku",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD + Frame",
+            "price": 219.0
+          },
+          {
+            "name": "Akku",
+            "price": 69.0
+          }
+        ],
+        "url": "https://www.handy24.repair/huawei-mate-20-reparatur-hannover"
+      },
+      {
+        "supplier": "Huawei",
+        "name": "Akku",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherung",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen+LCD+Frame",
+            "price": 299.0
+          },
+          {
+            "name": "Akku",
+            "price": 79.0
+          }
+        ],
+        "url": "https://www.handy24.repair/huawei-mate-10-pro-reparatur-hannover"
+      },
+      {
+        "supplier": "Huawei",
+        "name": "Touchscreen+LCD+Frame",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherung",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen+LCD+Frame",
+            "price": 389.0
+          }
+        ],
+        "url": "https://www.handy24.repair/huawei-mate-20-pro-reparatur-hannover"
+      },
+      {
+        "supplier": "Huawei",
+        "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherung*",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherung*",
+            "price": 25.0
+          }
+        ],
+        "url": "https://www.handy24.repair/huawei-andere-huawei-modelle-reparatur-hannover"
+      },
+      {
+        "supplier": "Huawei",
+        "name": "Akku",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherung",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen+LCD+Frame",
+            "price": 149.0
+          },
+          {
+            "name": "Backcover",
+            "price": 89.0
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 69.0
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 69.0
+          },
+          {
+            "name": "Vibration",
+            "price": 69.0
+          },
+          {
+            "name": "Frontkamera",
+            "price": 69.0
+          },
+          {
+            "name": "Backkamera",
+            "price": 89.0
+          },
+          {
+            "name": "Ladeanschluss",
+            "price": 79.0
+          },
+          {
+            "name": "Akku",
+            "price": 59.0
+          }
+        ],
+        "url": "https://www.handy24.repair/huawei-p-smart-reparatur-hannover"
+      },
+      {
+        "supplier": "Huawei",
+        "name": "Akku",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherung",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen+LCD",
+            "price": 159.0
+          },
+          {
+            "name": "Backcover",
+            "price": 139.0
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 69.0
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 69.0
+          },
+          {
+            "name": "Vibration",
+            "price": 69.0
+          },
+          {
+            "name": "Frontkamera",
+            "price": 69.0
+          },
+          {
+            "name": " Backkamera",
+            "price": 89.0
+          },
+          {
+            "name": "Ladeanschluss",
+            "price": 69.0
+          },
+          {
+            "name": "Akku",
+            "price": 69.0
+          }
+        ],
+        "url": "https://www.handy24.repair/huawei-nova-2-reparatur-hannover"
+      },
+      {
+        "supplier": "Huawei",
+        "name": "Akku",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD + Frontrahmen",
+            "price": 299.0
+          },
+          {
+            "name": "Backcover",
+            "price": 129.0
+          },
+          {
+            "name": "Ladeanschluss",
+            "price": 89.0
+          },
+          {
+            "name": "Akku",
+            "price": 89.0
+          }
+        ],
+        "url": "https://www.handy24.repair/huawei-p20-pro-reparatur-hannover"
+      },
+      {
+        "supplier": "Huawei",
+        "name": "Akku",
+        "services": [
+          {
+            "name": " Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+            "price": 25.0
+          },
+          {
+            "name": "LCD + Touch + Frame",
+            "price": 159.0
+          },
+          {
+            "name": "Backcover",
+            "price": 89.0
+          },
+          {
+            "name": "Akku",
+            "price": 69.0
+          }
+        ],
+        "url": "https://www.handy24.repair/huawei-p20-lite-reparatur-hannover"
+      },
+      {
+        "supplier": "Google",
+        "name": " Touchscreen + LCD wei\u00df",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherung",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD schwarz",
+            "price": 279.0
+          },
+          {
+            "name": " Touchscreen + LCD wei\u00df",
+            "price": 279.0
+          }
+        ],
+        "url": "https://www.handy24.repair/google-pixel-xl-reparatur-hannover"
+      },
+      {
+        "supplier": "Google",
+        "name": " Touchscreen + LCD wei\u00df",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherung",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD schwarz",
+            "price": 259.0
+          },
+          {
+            "name": " Touchscreen + LCD wei\u00df",
+            "price": 259.0
+          }
+        ],
+        "url": "https://www.handy24.repair/google-pixel-reparatur-hannover"
+      },
+      {
+        "supplier": "LG",
+        "name": " Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+        "services": [
+          {
+            "name": " Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+            "price": 25.0
+          }
+        ],
+        "url": "https://www.handy24.repair/lg-andere-lg-modelle-reparatur-hannover"
+      },
+      {
+        "supplier": "LG",
+        "name": "Ladeanschluss",
+        "services": [
+          {
+            "name": " Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD",
+            "price": 229.0
+          },
+          {
+            "name": "Backcover",
+            "price": 129.0
+          },
+          {
+            "name": "Frontkamera",
+            "price": 69.0
+          },
+          {
+            "name": "Backkamera",
+            "price": 129.0
+          },
+          {
+            "name": "Ladeanschluss",
+            "price": 89.0
+          }
+        ],
+        "url": "https://www.handy24.repair/lg-g7-reparatur-hannover"
+      },
+      {
+        "supplier": "LG",
+        "name": "Akku",
+        "services": [
+          {
+            "name": " Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD",
+            "price": 249.0
+          },
+          {
+            "name": "Backcover",
+            "price": 119.0
+          },
+          {
+            "name": "Akku",
+            "price": 89.0
+          }
+        ],
+        "url": "https://www.handy24.repair/lg-v30-h930-reparatur-hannover"
+      },
+      {
+        "supplier": "LG",
+        "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD",
+            "price": 209.0
+          },
+          {
+            "name": "Frontkamera",
+            "price": 79.0
+          },
+          {
+            "name": "Standardwinkel-Kamera",
+            "price": 89.0
+          },
+          {
+            "name": "Weitwinkel-Kamera",
+            "price": 109.0
+          },
+          {
+            "name": "Ladeanschluss",
+            "price": 79.0
+          },
+          {
+            "name": "Akku",
+            "price": 89.0
+          },
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+            "price": 39.0
+          }
+        ],
+        "url": "https://www.handy24.repair/lg-g6-h870-reparatur-hannover"
+      },
+      {
+        "supplier": "LG",
+        "name": "Akku",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD",
+            "price": 199.0
+          },
+          {
+            "name": "Backcover",
+            "price": 129.0
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 79.0
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 79.0
+          },
+          {
+            "name": "Mikrofon",
+            "price": 79.0
+          },
+          {
+            "name": "Vibration",
+            "price": 69.0
+          },
+          {
+            "name": "Kamera R\u00fcckseite",
+            "price": 109.0
+          },
+          {
+            "name": "Kamera Vorderseite",
+            "price": 79.0
+          },
+          {
+            "name": "Kopfh\u00f6rer Anschluss",
+            "price": 89.0
+          },
+          {
+            "name": "USB-Anschluss",
+            "price": 89.0
+          },
+          {
+            "name": "Akku",
+            "price": 79.0
+          }
+        ],
+        "url": "https://www.handy24.repair/lg-g5-h850-reparatur-hannover"
+      },
+      {
+        "supplier": "LG",
+        "name": "Akku",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD",
+            "price": 199.0
+          },
+          {
+            "name": "Backcover",
+            "price": 59.0
+          },
+          {
+            "name": "Backcover Leder",
+            "price": 89.0
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 59.0
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 59.0
+          },
+          {
+            "name": "Mikrofon",
+            "price": 59.0
+          },
+          {
+            "name": "Vibration",
+            "price": 59.0
+          },
+          {
+            "name": "Kamera R\u00fcckseite",
+            "price": 89.0
+          },
+          {
+            "name": "Kamera Vorderseite",
+            "price": 69.0
+          },
+          {
+            "name": "Kopfh\u00f6rer-Anschluss",
+            "price": 69.0
+          },
+          {
+            "name": "USB-Anschluss",
+            "price": 69.0
+          },
+          {
+            "name": "Akku",
+            "price": 49.0
+          }
+        ],
+        "url": "https://www.handy24.repair/lg-g4-reparatur-hannover"
+      },
+      {
+        "supplier": "LG",
+        "name": "Fl\u00fcssigkeitsschaden",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD",
+            "price": 159.0
+          },
+          {
+            "name": "Homebutton",
+            "price": 33.0
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 52.0
+          },
+          {
+            "name": "Standby (Ein Ausschalter)",
+            "price": 52.0
+          },
+          {
+            "name": "Stummschalter",
+            "price": 52.0
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 44.0
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 44.0
+          },
+          {
+            "name": "Mikrofon",
+            "price": 43.0
+          },
+          {
+            "name": "Mikrofon (Umgebung)",
+            "price": 43.0
+          },
+          {
+            "name": "Vibration",
+            "price": 44.0
+          },
+          {
+            "name": "Dual-LED Blitz",
+            "price": 53.0
+          },
+          {
+            "name": "Kamera R\u00fcckseite",
+            "price": 43.0
+          },
+          {
+            "name": "Kamera Vorderseite",
+            "price": 43.0
+          },
+          {
+            "name": "Ann\u00e4herungssensor",
+            "price": 50.0
+          },
+          {
+            "name": "Bewegungssensor (Gyroskop)",
+            "price": 50.0
+          },
+          {
+            "name": "Lichtsensor",
+            "price": 50.0
+          },
+          {
+            "name": "Kopfh\u00f6rer Anschluss",
+            "price": 52.0
+          },
+          {
+            "name": "USB - Anschluss",
+            "price": 53.0
+          },
+          {
+            "name": "Akkutausch",
+            "price": 43.0
+          },
+          {
+            "name": "Datenrettung",
+            "price": 175.0
+          },
+          {
+            "name": "Datensicherung",
+            "price": 34.0
+          },
+          {
+            "name": "Datensicherung + USB 16GB",
+            "price": 54.0
+          },
+          {
+            "name": "Zur\u00fccksetzen auf Werkseinstellungen",
+            "price": 25.0
+          },
+          {
+            "name": "Blockierte SIM Entfernen",
+            "price": 20.0
+          },
+          {
+            "name": "Fl\u00fcssigkeitsschaden",
+            "price": 49.0
+          }
+        ],
+        "url": "https://www.handy24.repair/lg-nexus-5-reparatur-hannover"
+      },
+      {
+        "supplier": "Nokia",
+        "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen*",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen*",
+            "price": 25.0
+          }
+        ],
+        "url": "https://www.handy24.repair/nokia-andere-nokia-modelle-reparatur-hannover"
+      },
+      {
+        "supplier": "Nokia",
+        "name": "Akku",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD",
+            "price": 229.0
+          },
+          {
+            "name": "Geh\u00e4use",
+            "price": 139.0
+          },
+          {
+            "name": "Frontkamera",
+            "price": 79.0
+          },
+          {
+            "name": " Backkamera",
+            "price": 129.0
+          },
+          {
+            "name": "Akku",
+            "price": 89.0
+          }
+        ],
+        "url": "https://www.handy24.repair/nokia-nokia-8-sirocco-reparatur-hannover"
+      },
+      {
+        "supplier": "Nokia",
+        "name": "Akku",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD",
+            "price": 269.0
+          },
+          {
+            "name": " Geh\u00e4use",
+            "price": 209.0
+          },
+          {
+            "name": "Akku",
+            "price": 89.0
+          }
+        ],
+        "url": "https://www.handy24.repair/nokia-nokia-7-plus-ds-reparatur-hannover"
+      },
+      {
+        "supplier": "Nokia",
+        "name": "Akku",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD ",
+            "price": 169.0
+          },
+          {
+            "name": "Akku",
+            "price": 79.0
+          }
+        ],
+        "url": "https://www.handy24.repair/nokia-nokia-6.1-reparatur-hannover"
+      },
+      {
+        "supplier": "Nokia",
+        "name": "Akku",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD",
+            "price": 129.0
+          },
+          {
+            "name": "Akku",
+            "price": 69.0
+          }
+        ],
+        "url": "https://www.handy24.repair/nokia-nokia-6-reparatur-hannover"
+      },
+      {
+        "supplier": "Nokia",
+        "name": "Akku",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD",
+            "price": 119.0
+          },
+          {
+            "name": " Backcover",
+            "price": 69.0
+          },
+          {
+            "name": "Akku",
+            "price": 69.0
+          }
+        ],
+        "url": "https://www.handy24.repair/nokia-nokia-5-dual-sim-reparatur-hannover"
+      },
+      {
+        "supplier": "Nokia",
+        "name": "Akku",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD",
+            "price": 259.0
+          },
+          {
+            "name": "Mittelrahmen",
+            "price": 89.0
+          },
+          {
+            "name": "Backcover",
+            "price": 69.0
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 69.0
+          },
+          {
+            "name": "Mikrofon",
+            "price": 69.0
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 69.0
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 69.0
+          },
+          {
+            "name": "Vibration",
+            "price": 69.0
+          },
+          {
+            "name": "Frontkamera",
+            "price": 69.0
+          },
+          {
+            "name": "Backkamera",
+            "price": 99.0
+          },
+          {
+            "name": "Ladeanschluss",
+            "price": 79.0
+          },
+          {
+            "name": "Kopfh\u00f6rer-Anschluss",
+            "price": 79.0
+          },
+          {
+            "name": "Akku",
+            "price": 59.0
+          }
+        ],
+        "url": "https://www.handy24.repair/nokia-lumia-950-xl-reparatur-hannover"
+      },
+      {
+        "supplier": "Nokia",
+        "name": "Akku",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD + Frontcover",
+            "price": 219.0
+          },
+          {
+            "name": "Backcover",
+            "price": 59.0
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 59.0
+          },
+          {
+            "name": "Mikrofon",
+            "price": 59.0
+          },
+          {
+            "name": "Frontkamera",
+            "price": 69.0
+          },
+          {
+            "name": "Backkamera",
+            "price": 99.0
+          },
+          {
+            "name": "Kopfh\u00f6rer-Anschluss",
+            "price": 69.0
+          },
+          {
+            "name": "Akku",
+            "price": 59.0
+          }
+        ],
+        "url": "https://www.handy24.repair/nokia-lumia-950-reparatur-hannover"
+      },
+      {
+        "supplier": "Nokia",
+        "name": "Blockierte SIM Entfernen",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD + Frontcover",
+            "price": 179.0
+          },
+          {
+            "name": "Backcover",
+            "price": 49.0
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 59.0
+          },
+          {
+            "name": "Standby (Ein Ausschalter)",
+            "price": 59.0
+          },
+          {
+            "name": "Stummschalter",
+            "price": 59.0
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 49.0
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 49.0
+          },
+          {
+            "name": "Mikrofon",
+            "price": 49.0
+          },
+          {
+            "name": "Mikrofon (Umgebung)",
+            "price": 49.0
+          },
+          {
+            "name": "Vibration",
+            "price": 49.0
+          },
+          {
+            "name": "Frontkamera",
+            "price": 59.0
+          },
+          {
+            "name": "Backkamera",
+            "price": 89.0
+          },
+          {
+            "name": "Ann\u00e4herungssensor",
+            "price": 49.0
+          },
+          {
+            "name": "Bewegungssensor (Gyroskop)",
+            "price": 49.0
+          },
+          {
+            "name": "Lichtsensor",
+            "price": 49.0
+          },
+          {
+            "name": "Kopfh\u00f6rer-Anschluss",
+            "price": 59.0
+          },
+          {
+            "name": "USB - Anschluss",
+            "price": 59.0
+          },
+          {
+            "name": "Akkutausch",
+            "price": 43.0
+          },
+          {
+            "name": "Zur\u00fccksetzen auf Werkseinstellungen",
+            "price": 25.0
+          },
+          {
+            "name": "Blockierte SIM Entfernen",
+            "price": 20.0
+          }
+        ],
+        "url": "https://www.handy24.repair/nokia-lumia-1020-reparatur-hannover"
+      },
+      {
+        "supplier": "Samsung-Tablets",
+        "name": " Diagnose / Kostenvoranschlag f\u00fcr Versicherungen*",
+        "services": [
+          {
+            "name": " Diagnose / Kostenvoranschlag f\u00fcr Versicherungen*",
+            "price": 25.0
+          }
+        ],
+        "url": "https://www.handy24.repair/samsung-andere-samsung-tablets-reparatur-hannover"
+      },
+      {
+        "supplier": "Samsung-Tablets",
+        "name": "Akku",
+        "services": [
+          {
+            "name": " Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+            "price": 25.0
+          },
+          {
+            "name": "LCD + Touch Fullset",
+            "price": 219.0
+          },
+          {
+            "name": "Akku",
+            "price": 79.0
+          }
+        ],
+        "url": "https://www.handy24.repair/samsung-tab-a-sm-t-580-reparatur-hannover"
+      },
+      {
+        "supplier": "Samsung-Tablets",
+        "name": "Zur\u00fccksetzen auf Werkseinstellungen",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+            "price": 25.0
+          },
+          {
+            "name": "Touch + LCD Fullset",
+            "price": 259.0
+          },
+          {
+            "name": "Backcover",
+            "price": 69.0
+          },
+          {
+            "name": "Ladeanschluss",
+            "price": 69.0
+          },
+          {
+            "name": "Akku",
+            "price": 79.0
+          },
+          {
+            "name": "Zur\u00fccksetzen auf Werkseinstellungen",
+            "price": 30.0
+          }
+        ],
+        "url": "https://www.handy24.repair/samsung-tab-s2-8.0-sm-t710/sm-t715-reparatur-hannover"
+      },
+      {
+        "supplier": "Samsung-Tablets",
+        "name": "Zur\u00fccksetzen auf Werkseinstellungen",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+            "price": 25.0
+          },
+          {
+            "name": "LCD + Touch Fullset",
+            "price": 249.0
+          },
+          {
+            "name": "Backcover",
+            "price": 69.0
+          },
+          {
+            "name": "Ladeanschluss",
+            "price": 59.0
+          },
+          {
+            "name": "Kopfh\u00f6rer-Anschluss",
+            "price": 59.0
+          },
+          {
+            "name": "Akku",
+            "price": 69.0
+          },
+          {
+            "name": "Zur\u00fccksetzen auf Werkseinstellungen",
+            "price": 30.0
+          }
+        ],
+        "url": "https://www.handy24.repair/samsung-tab-s-8.4-sm-t700/sm-t705-reparatur-hannover"
+      },
+      {
+        "supplier": "Samsung-Tablets",
+        "name": "Akkutausch",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+            "price": 25.0
+          },
+          {
+            "name": "LCD + Touch Fullset ",
+            "price": 219.0
+          },
+          {
+            "name": "USB",
+            "price": 79.0
+          },
+          {
+            "name": "Akkutausch",
+            "price": 89.0
+          }
+        ],
+        "url": "https://www.handy24.repair/samsung-galaxy-tab-4-sm-t-530-reparatur-hannover"
+      },
+      {
+        "supplier": "Samsung-Tablets",
+        "name": "Akkutausch",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+            "price": 25.0
+          },
+          {
+            "name": "LCD + Touch Fullset",
+            "price": 239.0
+          },
+          {
+            "name": "USB Anschlu\u00df",
+            "price": 79.0
+          },
+          {
+            "name": "Akkutausch",
+            "price": 79.0
+          }
+        ],
+        "url": "https://www.handy24.repair/samsung-galaxy-tab-3-sm-p5210-reparatur-hannover"
+      },
+      {
+        "supplier": "Samsung-Tablets",
+        "name": "Akkutausch",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+            "price": 25.0
+          },
+          {
+            "name": "LCD + Touch Fullset",
+            "price": 249.0
+          },
+          {
+            "name": "USB-Anschluss",
+            "price": 79.0
+          },
+          {
+            "name": "Akkutausch",
+            "price": 79.0
+          }
+        ],
+        "url": "https://www.handy24.repair/samsung-galaxy-tab-2-sm-p5110-reparatur-hannover"
+      },
+      {
+        "supplier": "andere Hersteller",
+        "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherung*",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherung*",
+            "price": 25.0
+          }
+        ],
+        "url": "https://www.handy24.repair/andere-hersteller-andere-hersteller-reparatur-hannover"
+      },
+      {
+        "supplier": "Apple",
+        "name": "Zur\u00fccksetzen auf Werkseinstellungen",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD schwarz",
+            "price": 109.0
+          },
+          {
+            "name": " Touchscreen + LCD wei\u00df",
+            "price": 109.0
+          },
+          {
+            "name": "Geh\u00e4use**",
+            "price": 119.0
+          },
+          {
+            "name": " Display und Geh\u00e4use Kombipreis",
+            "price": 189.0
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 69.0
+          },
+          {
+            "name": "Standby (Ein Ausschalter)",
+            "price": 69.0
+          },
+          {
+            "name": "Stummschalter",
+            "price": 69.0
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 69.0
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 69.0
+          },
+          {
+            "name": "Mikrofon",
+            "price": 69.0
+          },
+          {
+            "name": "Mikrofon (Umgebung)",
+            "price": 69.0
+          },
+          {
+            "name": "Vibration",
+            "price": 69.0
+          },
+          {
+            "name": "Dual-LED Blitz",
+            "price": 79.0
+          },
+          {
+            "name": "Kamera R\u00fcckseite",
+            "price": 89.0
+          },
+          {
+            "name": "Kamera Vorderseite",
+            "price": 79.0
+          },
+          {
+            "name": "Ann\u00e4herungssensor",
+            "price": 69.0
+          },
+          {
+            "name": "Bewegungssensor (Gyroskop)",
+            "price": 69.0
+          },
+          {
+            "name": "Lichtsensor",
+            "price": 69.0
+          },
+          {
+            "name": "Kopfh\u00f6rer Anschluss",
+            "price": 79.0
+          },
+          {
+            "name": "Ladeanschluss",
+            "price": 79.0
+          },
+          {
+            "name": "Akkutausch",
+            "price": 49.0
+          },
+          {
+            "name": "Zur\u00fccksetzen auf Werkseinstellungen",
+            "price": 30.0
+          }
+        ],
+        "url": "https://www.handy24.repair/apple-iphone-6-reparatur-hannover"
+      },
+      {
+        "supplier": "Apple",
+        "name": "Zur\u00fccksetzen auf Werkseinstellungen",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD schwarz ",
+            "price": 149.0
+          },
+          {
+            "name": "Touchscreen + LCD wei\u00df",
+            "price": 149.0
+          },
+          {
+            "name": "Geh\u00e4use",
+            "price": 129.0
+          },
+          {
+            "name": " Display und Geh\u00e4use Kombipreis",
+            "price": 259.0
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 72.0
+          },
+          {
+            "name": "Standby (Ein Ausschalter)",
+            "price": 72.0
+          },
+          {
+            "name": "Stummschalter",
+            "price": 72.0
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 79.0
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 79.0
+          },
+          {
+            "name": "Mikrofon",
+            "price": 79.0
+          },
+          {
+            "name": "Mikrofon (Umgebung)",
+            "price": 79.0
+          },
+          {
+            "name": "Vibration",
+            "price": 79.0
+          },
+          {
+            "name": "Dual-LED Blitz",
+            "price": 79.0
+          },
+          {
+            "name": "Kamera R\u00fcckseite",
+            "price": 89.0
+          },
+          {
+            "name": "Kamera Vorderseite",
+            "price": 79.0
+          },
+          {
+            "name": "Ann\u00e4herungssensor",
+            "price": 79.0
+          },
+          {
+            "name": "Bewegungssensor (Gyroskop)",
+            "price": 79.0
+          },
+          {
+            "name": "Lichtsensor",
+            "price": 79.0
+          },
+          {
+            "name": "Kopfh\u00f6rer Anschluss",
+            "price": 89.0
+          },
+          {
+            "name": "Ladeanschluss",
+            "price": 89.0
+          },
+          {
+            "name": "Akkutausch",
+            "price": 49.0
+          },
+          {
+            "name": "Zur\u00fccksetzen auf Werkseinstellungen",
+            "price": 30.0
+          }
+        ],
+        "url": "https://www.handy24.repair/apple-iphone-6-plus-reparatur-hannover"
+      },
+      {
+        "supplier": "Samsung",
+        "name": "Blockierte SIM Entfernen",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD",
+            "price": 219.0
+          },
+          {
+            "name": "Backcover",
+            "price": 59.0
+          },
+          {
+            "name": " Mittelrahmen",
+            "price": 99.0
+          },
+          {
+            "name": "Homebutton",
+            "price": 59.0
+          },
+          {
+            "name": "Standby (Ein Ausschalter)",
+            "price": 59.0
+          },
+          {
+            "name": "Stummschalter",
+            "price": 59.0
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 59.0
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 59.0
+          },
+          {
+            "name": "Mikrofon",
+            "price": 59.0
+          },
+          {
+            "name": "Mikrofon (Umgebung)",
+            "price": 59.0
+          },
+          {
+            "name": "Vibration",
+            "price": 59.0
+          },
+          {
+            "name": "Dual-LED Blitz",
+            "price": 53.0
+          },
+          {
+            "name": "Kamera R\u00fcckseite",
+            "price": 109.0
+          },
+          {
+            "name": "Kamera Vorderseite",
+            "price": 89.0
+          },
+          {
+            "name": "Ann\u00e4herungssensor",
+            "price": 50.0
+          },
+          {
+            "name": "Bewegungssensor (Gyroskop)",
+            "price": 50.0
+          },
+          {
+            "name": "Lichtsensor",
+            "price": 50.0
+          },
+          {
+            "name": "Kopfh\u00f6rer Anschluss",
+            "price": 69.0
+          },
+          {
+            "name": "USB - Anschluss",
+            "price": 69.0
+          },
+          {
+            "name": "Akkutausch",
+            "price": 49.0
+          },
+          {
+            "name": "Zur\u00fccksetzen auf Werkseinstellungen",
+            "price": 30.0
+          },
+          {
+            "name": "Blockierte SIM Entfernen",
+            "price": 25.0
+          }
+        ],
+        "url": "https://www.handy24.repair/samsung-galaxy-note-4-reparatur-hannover"
+      },
+      {
+        "supplier": "Samsung",
+        "name": "Blockierte SIM Entfernen",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD",
+            "price": 299.0
+          },
+          {
+            "name": "Backcover",
+            "price": 79.0
+          },
+          {
+            "name": "USB Anschlu\u00df",
+            "price": 149.0
+          },
+          {
+            "name": "Akku",
+            "price": 59.0
+          },
+          {
+            "name": "Zur\u00fccksetzen auf Werkseinstellungen",
+            "price": 35.0
+          },
+          {
+            "name": "Blockierte SIM Entfernen",
+            "price": 30.0
+          }
+        ],
+        "url": "https://www.handy24.repair/samsung-galaxy-note-edge-reparatur-hannover"
+      },
+      {
+        "supplier": "Samsung",
+        "name": "Blockierte SIM Entfernen",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD schwarz",
+            "price": 149.0
+          },
+          {
+            "name": "Touchscreen + LCD wei\u00df",
+            "price": 149.0
+          },
+          {
+            "name": " Touchscreen + LCD gold",
+            "price": 149.0
+          },
+          {
+            "name": "Mittelrahmen",
+            "price": 69.0
+          },
+          {
+            "name": " Backcover",
+            "price": 34.0
+          },
+          {
+            "name": "USB-Abdeckung",
+            "price": 15.0
+          },
+          {
+            "name": "Homebutton",
+            "price": 89.0
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 79.0
+          },
+          {
+            "name": "Standby (Ein Ausschalter)",
+            "price": 79.0
+          },
+          {
+            "name": "Stummschalter",
+            "price": 79.0
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 89.0
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 89.0
+          },
+          {
+            "name": "Mikrofon",
+            "price": 89.0
+          },
+          {
+            "name": "Mikrofon (Umgebung)",
+            "price": 89.0
+          },
+          {
+            "name": "Vibration",
+            "price": 89.0
+          },
+          {
+            "name": "Dual-LED Blitz",
+            "price": 99.0
+          },
+          {
+            "name": "Kamera R\u00fcckseite",
+            "price": 99.0
+          },
+          {
+            "name": "Kamera Vorderseite",
+            "price": 79.0
+          },
+          {
+            "name": "Ann\u00e4herungssensor",
+            "price": 69.0
+          },
+          {
+            "name": "Bewegungssensor (Gyroskop)",
+            "price": 69.0
+          },
+          {
+            "name": "Lichtsensor",
+            "price": 69.0
+          },
+          {
+            "name": "Kopfh\u00f6rer Anschluss",
+            "price": 79.0
+          },
+          {
+            "name": "USB - Anschluss",
+            "price": 79.0
+          },
+          {
+            "name": "SIM und SD Card Reader",
+            "price": 79.0
+          },
+          {
+            "name": "Akkutausch",
+            "price": 45.0
+          },
+          {
+            "name": "Zur\u00fccksetzen auf Werkseinstellungen",
+            "price": 30.0
+          },
+          {
+            "name": "Blockierte SIM Entfernen",
+            "price": 25.0
+          }
+        ],
+        "url": "https://www.handy24.repair/samsung-galaxy-s5-reparatur-hannover"
+      },
+      {
+        "supplier": "Samsung",
+        "name": "Blockierte SIM Entfernen",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD schwarz",
+            "price": 199.0
+          },
+          {
+            "name": "Touchscreen + LCD wei\u00df",
+            "price": 199.0
+          },
+          {
+            "name": "Touchscreen + LCD gold",
+            "price": 199.0
+          },
+          {
+            "name": "Mittelrahmen",
+            "price": 109.0
+          },
+          {
+            "name": "Backcover",
+            "price": 69.0
+          },
+          {
+            "name": "Standby (Ein- / Ausschalter)",
+            "price": 74.0
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 74.0
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 74.0
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 74.0
+          },
+          {
+            "name": "Mikrofon",
+            "price": 74.0
+          },
+          {
+            "name": "Vibration",
+            "price": 74.0
+          },
+          {
+            "name": "Kamera Vorderseite",
+            "price": 89.0
+          },
+          {
+            "name": "Kamera R\u00fcckseite",
+            "price": 109.0
+          },
+          {
+            "name": "Backkameralinse",
+            "price": 25.0
+          },
+          {
+            "name": "Sensortasten Licht",
+            "price": 89.0
+          },
+          {
+            "name": "Homebutton schwarz",
+            "price": 89.0
+          },
+          {
+            "name": "Homebutton wei\u00df",
+            "price": 89.0
+          },
+          {
+            "name": "Homebutton gold",
+            "price": 89.0
+          },
+          {
+            "name": "USB - Anschluss",
+            "price": 99.0
+          },
+          {
+            "name": "Kopfh\u00f6rer-Anschluss",
+            "price": 99.0
+          },
+          {
+            "name": "Akkutausch",
+            "price": 79.0
+          },
+          {
+            "name": "Zur\u00fccksetzen auf Werkseinstellungen",
+            "price": 35.0
+          },
+          {
+            "name": "Blockierte SIM Entfernen",
+            "price": 30.0
+          }
+        ],
+        "url": "https://www.handy24.repair/samsung-galaxy-s6-reparatur-hannover"
+      },
+      {
+        "supplier": "Samsung",
+        "name": "Blockierte SIM Entfernen",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD schwarz",
+            "price": 259.0
+          },
+          {
+            "name": "Touchscreen + LCD wei\u00df ",
+            "price": 259.0
+          },
+          {
+            "name": "Touchscreen + LCD gold",
+            "price": 259.0
+          },
+          {
+            "name": "Mittelrahmen",
+            "price": 139.0
+          },
+          {
+            "name": "Backcover",
+            "price": 79.0
+          },
+          {
+            "name": "Standby (Ein-/ Ausschalter )",
+            "price": 89.0
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 89.0
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 89.0
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 89.0
+          },
+          {
+            "name": "Mikrofon",
+            "price": 89.0
+          },
+          {
+            "name": "Vibration",
+            "price": 89.0
+          },
+          {
+            "name": "Frontkamera",
+            "price": 89.0
+          },
+          {
+            "name": " Backkamera",
+            "price": 109.0
+          },
+          {
+            "name": "Backkameralinse",
+            "price": 25.0
+          },
+          {
+            "name": "USB-Anschluss",
+            "price": 119.0
+          },
+          {
+            "name": "Kopfh\u00f6rer-Anschluss",
+            "price": 119.0
+          },
+          {
+            "name": "Akku",
+            "price": 79.0
+          },
+          {
+            "name": "Blockierte SIM Entfernen",
+            "price": 30.0
+          }
+        ],
+        "url": "https://www.handy24.repair/samsung-galaxy-s6-edge-reparatur-hannover"
+      },
+      {
+        "supplier": "Samsung",
+        "name": "Blockierte SIM Entfernen",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherung",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD schwarz",
+            "price": 169.0
+          },
+          {
+            "name": "Touchscreen + LCD wei\u00df",
+            "price": 169.0
+          },
+          {
+            "name": " Backcover",
+            "price": 69.0
+          },
+          {
+            "name": "Mikrofon",
+            "price": 69.0
+          },
+          {
+            "name": " Lautsprecher",
+            "price": 69.0
+          },
+          {
+            "name": "USB-Anschluss",
+            "price": 69.0
+          },
+          {
+            "name": "Akku",
+            "price": 59.0
+          },
+          {
+            "name": "Zur\u00fccksetzen auf Werkseinstellungen",
+            "price": 30.0
+          },
+          {
+            "name": "Blockierte SIM Entfernen",
+            "price": 25.0
+          }
+        ],
+        "url": "https://www.handy24.repair/samsung-galaxy-a7-reparatur-hannover"
+      },
+      {
+        "supplier": "Samsung",
+        "name": "Blockierte SIM Entfernen",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherung",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD",
+            "price": 139.0
+          },
+          {
+            "name": " Mittelrahmen bei dem A3 ( 16 )",
+            "price": 79.0
+          },
+          {
+            "name": " Backcover",
+            "price": 69.0
+          },
+          {
+            "name": "Homebutton",
+            "price": 59.0
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 59.0
+          },
+          {
+            "name": "Standby (Ein Ausschalter)",
+            "price": 59.0
+          },
+          {
+            "name": "Stummschalter",
+            "price": 59.0
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 49.0
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 49.0
+          },
+          {
+            "name": "Mikrofon",
+            "price": 49.0
+          },
+          {
+            "name": "Mikrofon (Umgebung)",
+            "price": 49.0
+          },
+          {
+            "name": "Vibration",
+            "price": 49.0
+          },
+          {
+            "name": "Dual-LED Blitz",
+            "price": 53.0
+          },
+          {
+            "name": "Kamera Vorderseite",
+            "price": 49.0
+          },
+          {
+            "name": "Kamera R\u00fcckseite",
+            "price": 59.0
+          },
+          {
+            "name": "Ann\u00e4herungssensor",
+            "price": 49.0
+          },
+          {
+            "name": "Bewegungssensor (Gyroskop)",
+            "price": 49.0
+          },
+          {
+            "name": "Lichtsensor",
+            "price": 49.0
+          },
+          {
+            "name": "Kopfh\u00f6rer Anschluss",
+            "price": 59.0
+          },
+          {
+            "name": "USB - Anschluss",
+            "price": 59.0
+          },
+          {
+            "name": "Akkutausch",
+            "price": 49.0
+          },
+          {
+            "name": "Zur\u00fccksetzen auf Werkseinstellungen",
+            "price": 30.0
+          },
+          {
+            "name": "Blockierte SIM Entfernen",
+            "price": 25.0
+          }
+        ],
+        "url": "https://www.handy24.repair/samsung-galaxy-a3-/-galaxy-a3-16-reparatur-hannover"
+      },
+      {
+        "supplier": "Samsung",
+        "name": "Blockierte SIM Entfernen",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherung",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD",
+            "price": 149.0
+          },
+          {
+            "name": " Mittelrahmen bei dem A5 ( 16 )",
+            "price": 79.0
+          },
+          {
+            "name": " Backcover",
+            "price": 69.0
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 59.0
+          },
+          {
+            "name": "Standby (Ein Ausschalter)",
+            "price": 59.0
+          },
+          {
+            "name": "Stummschalter",
+            "price": 59.0
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 49.0
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 49.0
+          },
+          {
+            "name": "Mikrofon",
+            "price": 49.0
+          },
+          {
+            "name": "Mikrofon (Umgebung)",
+            "price": 49.0
+          },
+          {
+            "name": "Dual-LED Blitz",
+            "price": 53.0
+          },
+          {
+            "name": "Kamera R\u00fcckseite",
+            "price": 79.0
+          },
+          {
+            "name": "Kamera Vorderseite",
+            "price": 59.0
+          },
+          {
+            "name": "Ann\u00e4herungssensor",
+            "price": 50.0
+          },
+          {
+            "name": "Bewegungssensor (Gyroskop)",
+            "price": 50.0
+          },
+          {
+            "name": "Lichtsensor",
+            "price": 50.0
+          },
+          {
+            "name": "Kopfh\u00f6rer Anschluss",
+            "price": 69.0
+          },
+          {
+            "name": "USB - Anschluss",
+            "price": 69.0
+          },
+          {
+            "name": "SIM und SD Card Reader",
+            "price": 59.0
+          },
+          {
+            "name": "Akkutausch",
+            "price": 49.0
+          },
+          {
+            "name": "Zur\u00fccksetzen auf Werkseinstellungen",
+            "price": 30.0
+          },
+          {
+            "name": "Blockierte SIM Entfernen",
+            "price": 25.0
+          }
+        ],
+        "url": "https://www.handy24.repair/samsung-galaxy-a5-/-galaxy-a5-16-reparatur-hannover"
+      },
+      {
+        "supplier": "Samsung",
+        "name": "Blockierte SIM Entfernen",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherung",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD + Rahmen",
+            "price": 209.0
+          },
+          {
+            "name": "Backcover",
+            "price": 49.0
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 52.0
+          },
+          {
+            "name": "Standby (Ein Ausschalter)",
+            "price": 52.0
+          },
+          {
+            "name": "Stummschalter",
+            "price": 52.0
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 44.0
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 44.0
+          },
+          {
+            "name": "Mikrofon",
+            "price": 44.0
+          },
+          {
+            "name": "Mikrofon (Umgebung)",
+            "price": 44.0
+          },
+          {
+            "name": "Vibration",
+            "price": 44.0
+          },
+          {
+            "name": "Dual-LED Blitz",
+            "price": 53.0
+          },
+          {
+            "name": "Kamera R\u00fcckseite",
+            "price": 43.0
+          },
+          {
+            "name": "Kamera Vorderseite",
+            "price": 43.0
+          },
+          {
+            "name": "Ann\u00e4herungssensor",
+            "price": 50.0
+          },
+          {
+            "name": "Bewegungssensor (Gyroskop)",
+            "price": 50.0
+          },
+          {
+            "name": "Lichtsensor",
+            "price": 50.0
+          },
+          {
+            "name": "Kopfh\u00f6rer Anschluss",
+            "price": 59.0
+          },
+          {
+            "name": "USB - Anschluss",
+            "price": 59.0
+          },
+          {
+            "name": "SIM und SD Card Reader",
+            "price": 59.0
+          },
+          {
+            "name": "Akkutausch",
+            "price": 43.0
+          },
+          {
+            "name": "Zur\u00fccksetzen auf Werkseinstellungen",
+            "price": 30.0
+          },
+          {
+            "name": "Blockierte SIM Entfernen",
+            "price": 25.0
+          }
+        ],
+        "url": "https://www.handy24.repair/samsung-galaxy-note-3-reparatur-hannover"
+      },
+      {
+        "supplier": "Apple",
+        "name": "Akkutausch",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD schwarz",
+            "price": 79.0
+          },
+          {
+            "name": "Touchscreen + LCD wei\u00df",
+            "price": 79.0
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 59.0
+          },
+          {
+            "name": "Standby (Ein Ausschalter)",
+            "price": 59.0
+          },
+          {
+            "name": "Stummschalter",
+            "price": 59.0
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 49.0
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 49.0
+          },
+          {
+            "name": "Mikrofon",
+            "price": 49.0
+          },
+          {
+            "name": "Mikrofon (Umgebung)",
+            "price": 49.0
+          },
+          {
+            "name": "Vibration",
+            "price": 44.0
+          },
+          {
+            "name": "Dual-LED Blitz",
+            "price": 53.0
+          },
+          {
+            "name": "Kamera R\u00fcckseite",
+            "price": 59.0
+          },
+          {
+            "name": "Kamera Vorderseite",
+            "price": 53.0
+          },
+          {
+            "name": "Ann\u00e4herungssensor",
+            "price": 55.0
+          },
+          {
+            "name": "Bewegungssensor (Gyroskop)",
+            "price": 55.0
+          },
+          {
+            "name": "Lichtsensor",
+            "price": 55.0
+          },
+          {
+            "name": "Kopfh\u00f6rer Anschluss",
+            "price": 52.0
+          },
+          {
+            "name": "Ladeanschluss",
+            "price": 52.0
+          },
+          {
+            "name": "Akkutausch",
+            "price": 29.0
+          }
+        ],
+        "url": "https://www.handy24.repair/apple-iphone-5s-reparatur-hannover"
+      },
+      {
+        "supplier": "Apple",
+        "name": "Zur\u00fccksetzen auf Werkseinstellungen",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD schwarz",
+            "price": 79.0
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 59.0
+          },
+          {
+            "name": "Standby (Ein Ausschalter)",
+            "price": 59.0
+          },
+          {
+            "name": "Stummschalter",
+            "price": 59.0
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 49.0
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 49.0
+          },
+          {
+            "name": "Mikrofon",
+            "price": 49.0
+          },
+          {
+            "name": "Mikrofon (Umgebung)",
+            "price": 49.0
+          },
+          {
+            "name": "Vibration",
+            "price": 44.0
+          },
+          {
+            "name": "Dual-LED Blitz",
+            "price": 59.0
+          },
+          {
+            "name": "Kamera R\u00fcckseite",
+            "price": 59.0
+          },
+          {
+            "name": "Kamera Vorderseite",
+            "price": 59.0
+          },
+          {
+            "name": "Ann\u00e4herungssensor",
+            "price": 59.0
+          },
+          {
+            "name": "Bewegungssensor (Gyroskop)",
+            "price": 59.0
+          },
+          {
+            "name": "Lichtsensor",
+            "price": 59.0
+          },
+          {
+            "name": "Kopfh\u00f6rer Anschluss",
+            "price": 52.0
+          },
+          {
+            "name": "Ladeanschluss",
+            "price": 52.0
+          },
+          {
+            "name": "Akkutausch",
+            "price": 29.0
+          },
+          {
+            "name": "Zur\u00fccksetzen auf Werkseinstellungen",
+            "price": 30.0
+          }
+        ],
+        "url": "https://www.handy24.repair/apple-iphone-5c-reparatur-hannover"
+      },
+      {
+        "supplier": "Samsung",
+        "name": "Blockierte SIM Entfernen",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD",
+            "price": 144.0
+          },
+          {
+            "name": "Mittelrahmen",
+            "price": 54.0
+          },
+          {
+            "name": "Backcover",
+            "price": 29.0
+          },
+          {
+            "name": "Homebutton",
+            "price": 39.0
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 54.0
+          },
+          {
+            "name": "Standby (Ein Ausschalter)",
+            "price": 54.0
+          },
+          {
+            "name": "Stummschalter",
+            "price": 54.0
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 49.0
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 49.0
+          },
+          {
+            "name": "Mikrofon",
+            "price": 49.0
+          },
+          {
+            "name": "Mikrofon (Umgebung)",
+            "price": 49.0
+          },
+          {
+            "name": "Vibration",
+            "price": 49.0
+          },
+          {
+            "name": "Dual-LED Blitz",
+            "price": 59.0
+          },
+          {
+            "name": "Kamera R\u00fcckseite",
+            "price": 79.0
+          },
+          {
+            "name": "Kamera Vorderseite",
+            "price": 59.0
+          },
+          {
+            "name": "Ann\u00e4herungssensor",
+            "price": 50.0
+          },
+          {
+            "name": "Bewegungssensor (Gyroskop)",
+            "price": 50.0
+          },
+          {
+            "name": "Lichtsensor",
+            "price": 50.0
+          },
+          {
+            "name": "Kopfh\u00f6rer Anschluss",
+            "price": 69.0
+          },
+          {
+            "name": "USB - Anschluss",
+            "price": 69.0
+          },
+          {
+            "name": "SIM und SD Card Reader",
+            "price": 69.0
+          },
+          {
+            "name": "Akkutausch",
+            "price": 43.0
+          },
+          {
+            "name": "Zur\u00fccksetzen auf Werkseinstellungen",
+            "price": 30.0
+          },
+          {
+            "name": "Blockierte SIM Entfernen",
+            "price": 25.0
+          }
+        ],
+        "url": "https://www.handy24.repair/samsung-galaxy-s5-mini-reparatur-hannover"
+      },
+      {
+        "supplier": "Sony",
+        "name": "Blockierte SIM Entfernen",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherung",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD + Mittelrahmen schwarz",
+            "price": 209.0
+          },
+          {
+            "name": " Touchscreen + LCD + Mittelrahmen Kupfer",
+            "price": 209.0
+          },
+          {
+            "name": " Touchscreen + LCD + Mittelrahmen wei\u00df",
+            "price": 209.0
+          },
+          {
+            "name": "Backcover",
+            "price": 69.0
+          },
+          {
+            "name": " Display + Backcover Kombipreis",
+            "price": 259.0
+          },
+          {
+            "name": "Kamera-Button",
+            "price": 49.0
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 52.0
+          },
+          {
+            "name": "Standby (Ein Ausschalter)",
+            "price": 52.0
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 44.0
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 44.0
+          },
+          {
+            "name": "Mikrofon",
+            "price": 43.0
+          },
+          {
+            "name": "Mikrofon (Umgebung)",
+            "price": 43.0
+          },
+          {
+            "name": "Vibration",
+            "price": 44.0
+          },
+          {
+            "name": "Dual-LED Blitz",
+            "price": 79.0
+          },
+          {
+            "name": "Kamera R\u00fcckseite",
+            "price": 99.0
+          },
+          {
+            "name": "Kamera Vorderseite",
+            "price": 79.0
+          },
+          {
+            "name": "Ann\u00e4herungssensor",
+            "price": 50.0
+          },
+          {
+            "name": "Bewegungssensor (Gyroskop)",
+            "price": 50.0
+          },
+          {
+            "name": "Lichtsensor",
+            "price": 50.0
+          },
+          {
+            "name": "Kopfh\u00f6rer Anschluss",
+            "price": 69.0
+          },
+          {
+            "name": "USB - Anschluss",
+            "price": 52.0
+          },
+          {
+            "name": "Akkutausch",
+            "price": 69.0
+          },
+          {
+            "name": "Zur\u00fccksetzen auf Werkseinstellungen",
+            "price": 25.0
+          },
+          {
+            "name": "Blockierte SIM Entfernen",
+            "price": 25.0
+          }
+        ],
+        "url": "https://www.handy24.repair/detail/index/sArticle/76"
+      },
+      {
+        "supplier": "Sony",
+        "name": "Fl\u00fcssigkeitsschaden",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherung",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD mit Mittelrahmen wei\u00df",
+            "price": 199.0
+          },
+          {
+            "name": "Touchscreen + LCD mit Mittelrahmen schwarz ",
+            "price": 199.0
+          },
+          {
+            "name": "Backcover",
+            "price": 55.0
+          },
+          {
+            "name": " Display + Backcover Kombipreis",
+            "price": 239.0
+          },
+          {
+            "name": "Kamera-Button",
+            "price": 49.0
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 52.0
+          },
+          {
+            "name": "Standby (Ein Ausschalter)",
+            "price": 52.0
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 44.0
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 44.0
+          },
+          {
+            "name": "Mikrofon",
+            "price": 43.0
+          },
+          {
+            "name": "Mikrofon (Umgebung)",
+            "price": 43.0
+          },
+          {
+            "name": "Vibration",
+            "price": 44.0
+          },
+          {
+            "name": "Kamera R\u00fcckseite",
+            "price": 79.0
+          },
+          {
+            "name": "Kamera Vorderseite",
+            "price": 79.0
+          },
+          {
+            "name": "Ann\u00e4herungssensor",
+            "price": 50.0
+          },
+          {
+            "name": "Bewegungssensor (Gyroskop)",
+            "price": 50.0
+          },
+          {
+            "name": "Lichtsensor",
+            "price": 50.0
+          },
+          {
+            "name": "Kopfh\u00f6rer Anschluss",
+            "price": 52.0
+          },
+          {
+            "name": "USB - Anschluss",
+            "price": 52.0
+          },
+          {
+            "name": "Akkutausch",
+            "price": 69.0
+          },
+          {
+            "name": "Datenrettung",
+            "price": 175.0
+          },
+          {
+            "name": "Datensicherung",
+            "price": 34.0
+          },
+          {
+            "name": "Datensicherung + USB 16GB",
+            "price": 54.0
+          },
+          {
+            "name": "Zur\u00fccksetzen auf Werkseinstellungen",
+            "price": 25.0
+          },
+          {
+            "name": "Blockierte SIM Entfernen",
+            "price": 20.0
+          },
+          {
+            "name": "Fl\u00fcssigkeitsschaden",
+            "price": 44.0
+          }
+        ],
+        "url": "https://www.handy24.repair/sony-xperia-z3-compact-reparatur-hannover"
+      },
+      {
+        "supplier": "Sony",
+        "name": "Fl\u00fcssigkeitsschaden",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherung",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD",
+            "price": 299.0
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 52.0
+          },
+          {
+            "name": "Standby (Ein Ausschalter)",
+            "price": 52.0
+          },
+          {
+            "name": "Stummschalter",
+            "price": 52.0
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 44.0
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 44.0
+          },
+          {
+            "name": "Mikrofon",
+            "price": 43.0
+          },
+          {
+            "name": "Mikrofon (Umgebung)",
+            "price": 43.0
+          },
+          {
+            "name": "Vibration",
+            "price": 44.0
+          },
+          {
+            "name": "Kamera R\u00fcckseite",
+            "price": 43.0
+          },
+          {
+            "name": "Kamera Vorderseite",
+            "price": 43.0
+          },
+          {
+            "name": "Ann\u00e4herungssensor",
+            "price": 50.0
+          },
+          {
+            "name": "Bewegungssensor (Gyroskop)",
+            "price": 50.0
+          },
+          {
+            "name": "Lichtsensor",
+            "price": 50.0
+          },
+          {
+            "name": "Kopfh\u00f6rer Anschluss",
+            "price": 52.0
+          },
+          {
+            "name": "USB - Anschluss",
+            "price": 53.0
+          },
+          {
+            "name": "Akkutausch",
+            "price": 43.0
+          },
+          {
+            "name": "Datenrettung",
+            "price": 175.0
+          },
+          {
+            "name": "Datensicherung",
+            "price": 34.0
+          },
+          {
+            "name": "Datensicherung + USB 16GB",
+            "price": 54.0
+          },
+          {
+            "name": "Zur\u00fccksetzen auf Werkseinstellungen",
+            "price": 25.0
+          },
+          {
+            "name": "Blockierte SIM Entfernen",
+            "price": 20.0
+          },
+          {
+            "name": "Fl\u00fcssigkeitsschaden",
+            "price": 44.0
+          }
+        ],
+        "url": "https://www.handy24.repair/sony-xperia-z-ultra-reparatur-hannover"
+      },
+      {
+        "supplier": "Huawei",
+        "name": "Akkutausch",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+            "price": 25.0
+          },
+          {
+            "name": "Front + LCD + Touchscreen",
+            "price": 119.0
+          },
+          {
+            "name": " Backcover",
+            "price": 59.0
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 64.0
+          },
+          {
+            "name": "Ein-/Ausschalter",
+            "price": 64.0
+          },
+          {
+            "name": "Mikrofon",
+            "price": 55.0
+          },
+          {
+            "name": "H\u00f6rmuschel \u00f6rmuschel",
+            "price": 55.0
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 55.0
+          },
+          {
+            "name": "Vibration",
+            "price": 55.0
+          },
+          {
+            "name": "Frontkamera",
+            "price": 59.0
+          },
+          {
+            "name": " Backkamera",
+            "price": 69.0
+          },
+          {
+            "name": "USB-Anschluss",
+            "price": 55.0
+          },
+          {
+            "name": "Akkutausch",
+            "price": 49.0
+          }
+        ],
+        "url": "https://www.handy24.repair/huawei-p8-lite-reparatur-hannover"
+      },
+      {
+        "supplier": "Sony",
+        "name": "Fl\u00fcssigkeitsschaden",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherung",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD + Mittelrahmen",
+            "price": 279.0
+          },
+          {
+            "name": "Backcover",
+            "price": 69.0
+          },
+          {
+            "name": "Display + Backcover Kombipreis",
+            "price": 329.0
+          },
+          {
+            "name": "Kamera-Button",
+            "price": 49.0
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 52.0
+          },
+          {
+            "name": "Standby (Ein Ausschalter)",
+            "price": 52.0
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 69.0
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 69.0
+          },
+          {
+            "name": "Mikrofon",
+            "price": 59.0
+          },
+          {
+            "name": "Mikrofon (Umgebung)",
+            "price": 59.0
+          },
+          {
+            "name": "Vibration",
+            "price": 69.0
+          },
+          {
+            "name": "Dual-LED Blitz",
+            "price": 79.0
+          },
+          {
+            "name": "Kamera R\u00fcckseite",
+            "price": 99.0
+          },
+          {
+            "name": "Kamera Vorderseite",
+            "price": 79.0
+          },
+          {
+            "name": "Ann\u00e4herungssensor",
+            "price": 60.0
+          },
+          {
+            "name": "Bewegungssensor (Gyroskop)",
+            "price": 50.0
+          },
+          {
+            "name": "Lichtsensor",
+            "price": 50.0
+          },
+          {
+            "name": "Kopfh\u00f6rer Anschluss",
+            "price": 69.0
+          },
+          {
+            "name": "USB - Anschluss",
+            "price": 69.0
+          },
+          {
+            "name": "Akkutausch",
+            "price": 69.0
+          },
+          {
+            "name": "Datenrettung",
+            "price": 175.0
+          },
+          {
+            "name": "Datensicherung",
+            "price": 34.0
+          },
+          {
+            "name": "Datensicherung + USB 16GB",
+            "price": 54.0
+          },
+          {
+            "name": "Zur\u00fccksetzen auf Werkseinstellungen",
+            "price": 25.0
+          },
+          {
+            "name": "Blockierte SIM Entfernen",
+            "price": 20.0
+          },
+          {
+            "name": "Fl\u00fcssigkeitsschaden",
+            "price": 44.0
+          }
+        ],
+        "url": "https://www.handy24.repair/sony-xperia-z3-reparatur-hannover"
+      },
+      {
+        "supplier": "Sony",
+        "name": "Blockierte SIM Entfernen",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherung",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD + Mittelrahmen black",
+            "price": 219.0
+          },
+          {
+            "name": "Touchscreen + LCD + Mittelrahmen wei\u00df",
+            "price": 219.0
+          },
+          {
+            "name": "Backcover",
+            "price": 69.0
+          },
+          {
+            "name": "Display + Backcover Kombipreis",
+            "price": 269.0
+          },
+          {
+            "name": "Kamera-Button",
+            "price": 49.0
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 52.0
+          },
+          {
+            "name": "Standby (Ein Ausschalter)",
+            "price": 52.0
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 69.0
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 69.0
+          },
+          {
+            "name": "Mikrofon",
+            "price": 59.0
+          },
+          {
+            "name": "Mikrofon (Umgebung)",
+            "price": 43.0
+          },
+          {
+            "name": "Vibration",
+            "price": 69.0
+          },
+          {
+            "name": "Dual-LED Blitz",
+            "price": 79.0
+          },
+          {
+            "name": "Kamera R\u00fcckseite",
+            "price": 99.0
+          },
+          {
+            "name": "Kamera Vorderseite",
+            "price": 79.0
+          },
+          {
+            "name": "Ann\u00e4herungssensor",
+            "price": 50.0
+          },
+          {
+            "name": "Bewegungssensor (Gyroskop)",
+            "price": 50.0
+          },
+          {
+            "name": "Lichtsensor",
+            "price": 50.0
+          },
+          {
+            "name": "Kopfh\u00f6rer Anschluss",
+            "price": 55.0
+          },
+          {
+            "name": "USB - Anschluss",
+            "price": 69.0
+          },
+          {
+            "name": "Akkutausch",
+            "price": 69.0
+          },
+          {
+            "name": "Zur\u00fccksetzen auf Werkseinstellungen",
+            "price": 25.0
+          },
+          {
+            "name": "Blockierte SIM Entfernen",
+            "price": 20.0
+          }
+        ],
+        "url": "https://www.handy24.repair/sony-xperia-z5-reparatur-hannover"
+      },
+      {
+        "supplier": "Sony",
+        "name": "Fl\u00fcssigkeitsschaden",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherung",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD + Mittelrahmen",
+            "price": 259.0
+          },
+          {
+            "name": "Backcover",
+            "price": 69.0
+          },
+          {
+            "name": "Display + Backcover Kombipreis",
+            "price": 309.0
+          },
+          {
+            "name": "Kamera-Button",
+            "price": 49.0
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 52.0
+          },
+          {
+            "name": "Standby (Ein Ausschalter)",
+            "price": 52.0
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 69.0
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 69.0
+          },
+          {
+            "name": "Mikrofon",
+            "price": 59.0
+          },
+          {
+            "name": "Mikrofon (Umgebung)",
+            "price": 43.0
+          },
+          {
+            "name": "Vibration",
+            "price": 69.0
+          },
+          {
+            "name": "Dual-LED Blitz",
+            "price": 79.0
+          },
+          {
+            "name": "Kamera R\u00fcckseite",
+            "price": 99.0
+          },
+          {
+            "name": "Kamera Vorderseite",
+            "price": 79.0
+          },
+          {
+            "name": "Ann\u00e4herungssensor",
+            "price": 50.0
+          },
+          {
+            "name": "Bewegungssensor (Gyroskop)",
+            "price": 50.0
+          },
+          {
+            "name": "Lichtsensor",
+            "price": 50.0
+          },
+          {
+            "name": "Kopfh\u00f6rer Anschluss",
+            "price": 69.0
+          },
+          {
+            "name": "USB - Anschluss",
+            "price": 69.0
+          },
+          {
+            "name": "Akkutausch",
+            "price": 69.0
+          },
+          {
+            "name": "Datenrettung",
+            "price": 175.0
+          },
+          {
+            "name": "Datensicherung",
+            "price": 34.0
+          },
+          {
+            "name": "Datensicherung + USB 16GB",
+            "price": 54.0
+          },
+          {
+            "name": "Zur\u00fccksetzen auf Werkseinstellungen",
+            "price": 25.0
+          },
+          {
+            "name": "Blockierte SIM Entfernen",
+            "price": 20.0
+          },
+          {
+            "name": "Fl\u00fcssigkeitsschaden",
+            "price": 44.0
+          }
+        ],
+        "url": "https://www.handy24.repair/sony-xperia-z5-premium-reparatur-hannover"
+      },
+      {
+        "supplier": "Sony",
+        "name": "Blockierte SIM Entfernen",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherung",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD + Mittelrahmen black",
+            "price": 199.0
+          },
+          {
+            "name": "Touchscreen + LCD + Mittelrahmen white",
+            "price": 199.0
+          },
+          {
+            "name": "Touchscreen + LCD + Mittelrahmen korall",
+            "price": 199.0
+          },
+          {
+            "name": "Backcover",
+            "price": 59.0
+          },
+          {
+            "name": " Display + Backcover Kombipreis",
+            "price": 239.0
+          },
+          {
+            "name": "Kamera-Button",
+            "price": 49.0
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 52.0
+          },
+          {
+            "name": "Standby (Ein Ausschalter)",
+            "price": 52.0
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 59.0
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 59.0
+          },
+          {
+            "name": "Mikrofon",
+            "price": 59.0
+          },
+          {
+            "name": "Mikrofon (Umgebung)",
+            "price": 59.0
+          },
+          {
+            "name": "Vibration",
+            "price": 59.0
+          },
+          {
+            "name": "Dual-LED Blitz",
+            "price": 79.0
+          },
+          {
+            "name": "Kamera R\u00fcckseite",
+            "price": 99.0
+          },
+          {
+            "name": "Kamera Vorderseite",
+            "price": 79.0
+          },
+          {
+            "name": "Ann\u00e4herungssensor",
+            "price": 50.0
+          },
+          {
+            "name": "Bewegungssensor (Gyroskop)",
+            "price": 50.0
+          },
+          {
+            "name": "Lichtsensor",
+            "price": 50.0
+          },
+          {
+            "name": "Kopfh\u00f6rer-Anschluss",
+            "price": 69.0
+          },
+          {
+            "name": "Ladeanschluss",
+            "price": 69.0
+          },
+          {
+            "name": "Akkutausch",
+            "price": 69.0
+          },
+          {
+            "name": "Zur\u00fccksetzen auf Werkseinstellungen",
+            "price": 25.0
+          },
+          {
+            "name": "Blockierte SIM Entfernen",
+            "price": 25.0
+          }
+        ],
+        "url": "https://www.handy24.repair/sony-xperia-z5-compact-reparatur-hannover"
+      },
+      {
+        "supplier": "Samsung",
+        "name": "Blockierte SIM Entfernen",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+            "price": 30.0
+          },
+          {
+            "name": "Touchscreen + LCD schwarz",
+            "price": 189.0
+          },
+          {
+            "name": "Touchscreen + LCD wei\u00df",
+            "price": 189.0
+          },
+          {
+            "name": "Touchscreen + LCD gold",
+            "price": 189.0
+          },
+          {
+            "name": "Touchscreen + LCD silver",
+            "price": 189.0
+          },
+          {
+            "name": "Touchscreen + LCD rosegold",
+            "price": 189.0
+          },
+          {
+            "name": "Backcover",
+            "price": 99.0
+          },
+          {
+            "name": " Mittelrahmen",
+            "price": 119.0
+          },
+          {
+            "name": "Standby (Ein-/ Ausschalter)",
+            "price": 79.0
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 79.0
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 79.0
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 79.0
+          },
+          {
+            "name": "Mikrofon",
+            "price": 79.0
+          },
+          {
+            "name": "Vibration",
+            "price": 79.0
+          },
+          {
+            "name": "Frontkamera",
+            "price": 89.0
+          },
+          {
+            "name": " Backkamera",
+            "price": 119.0
+          },
+          {
+            "name": "Backkameralinse",
+            "price": 25.0
+          },
+          {
+            "name": "Homebutton schwarz",
+            "price": 89.0
+          },
+          {
+            "name": "Homebutton wei\u00df",
+            "price": 89.0
+          },
+          {
+            "name": "Homebutton gold",
+            "price": 89.0
+          },
+          {
+            "name": "Homebutton silver",
+            "price": 89.0
+          },
+          {
+            "name": "Homebutton pink",
+            "price": 89.0
+          },
+          {
+            "name": "Kopfh\u00f6rer Anschluss",
+            "price": 109.0
+          },
+          {
+            "name": "USB - Anschluss",
+            "price": 109.0
+          },
+          {
+            "name": "Akkutausch",
+            "price": 89.0
+          },
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+            "price": 25.0
+          },
+          {
+            "name": "Blockierte SIM Entfernen",
+            "price": 30.0
+          }
+        ],
+        "url": "https://www.handy24.repair/samsung-galaxy-s7-reparatur-hannover"
+      },
+      {
+        "supplier": "Samsung",
+        "name": "Blockierte SIM Entfernen",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD schwarz",
+            "price": 279.0
+          },
+          {
+            "name": "Touchscreen + LCD wei\u00df",
+            "price": 279.0
+          },
+          {
+            "name": "Touchscreen + LCD gold",
+            "price": 279.0
+          },
+          {
+            "name": "Touchscreen + LCD silver",
+            "price": 279.0
+          },
+          {
+            "name": "Touchscreen + LCD rosegold",
+            "price": 279.0
+          },
+          {
+            "name": "Backcover",
+            "price": 89.0
+          },
+          {
+            "name": "Standby (Ein-/ Ausschalter)",
+            "price": 95.0
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 95.0
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 95.0
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 95.0
+          },
+          {
+            "name": "Mikrofon",
+            "price": 95.0
+          },
+          {
+            "name": "Vibration",
+            "price": 95.0
+          },
+          {
+            "name": "Frontkamera",
+            "price": 99.0
+          },
+          {
+            "name": " Backkamera",
+            "price": 139.0
+          },
+          {
+            "name": "Backkameralinse",
+            "price": 25.0
+          },
+          {
+            "name": "Kopfh\u00f6rer Anschluss",
+            "price": 119.0
+          },
+          {
+            "name": "SIM und SD Card Reader",
+            "price": 109.0
+          },
+          {
+            "name": "Akku",
+            "price": 89.0
+          },
+          {
+            "name": "Zur\u00fccksetzen auf Werkseinstellungen",
+            "price": 40.0
+          },
+          {
+            "name": "Blockierte SIM Entfernen",
+            "price": 35.0
+          }
+        ],
+        "url": "https://www.handy24.repair/samsung-galaxy-s7-edge-reparatur-hannover"
+      },
+      {
+        "supplier": "Samsung",
+        "name": "Blockierte SIM Entfernen",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherung",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD",
+            "price": 109.0
+          },
+          {
+            "name": " Backcover",
+            "price": 39.0
+          },
+          {
+            "name": "Fronkamera",
+            "price": 49.0
+          },
+          {
+            "name": " Backkamera",
+            "price": 49.0
+          },
+          {
+            "name": "Kopfh\u00f6rer Anschluss",
+            "price": 69.0
+          },
+          {
+            "name": "USB - Anschluss",
+            "price": 69.0
+          },
+          {
+            "name": "Akkutausch",
+            "price": 34.0
+          },
+          {
+            "name": "Zur\u00fccksetzen auf Werkseinstellungen",
+            "price": 25.0
+          },
+          {
+            "name": "Blockierte SIM Entfernen",
+            "price": 25.0
+          }
+        ],
+        "url": "https://www.handy24.repair/samsung-galaxy-j3-/-j3-16-reparatur-hannover"
+      },
+      {
+        "supplier": "Samsung",
+        "name": "Akkutausch",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr die Versicherung",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD",
+            "price": 119.0
+          },
+          {
+            "name": " Backcover",
+            "price": 49.0
+          },
+          {
+            "name": "Kopfh\u00f6rer-Anschluss",
+            "price": 69.0
+          },
+          {
+            "name": " USB-Anschluss",
+            "price": 69.0
+          },
+          {
+            "name": "Akkutausch",
+            "price": 39.0
+          }
+        ],
+        "url": "https://www.handy24.repair/samsung-samsung-j5-/-j5-16-reparatur-hannover"
+      },
+      {
+        "supplier": "Huawei",
+        "name": "Akku",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+            "price": 25.0
+          },
+          {
+            "name": "Front + Touchscreen + LCD",
+            "price": 179.0
+          },
+          {
+            "name": " Backcover",
+            "price": 99.0
+          },
+          {
+            "name": "Ein-/Ausschalter",
+            "price": 69.0
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 69.0
+          },
+          {
+            "name": "Mikrofon",
+            "price": 69.0
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 69.0
+          },
+          {
+            "name": "Vibration",
+            "price": 69.0
+          },
+          {
+            "name": "Frontkamera",
+            "price": 69.0
+          },
+          {
+            "name": " Backkamera",
+            "price": 79.0
+          },
+          {
+            "name": "Ladeanschluss",
+            "price": 79.0
+          },
+          {
+            "name": "Kopfh\u00f6rer-Anschluss",
+            "price": 79.0
+          },
+          {
+            "name": "Akku",
+            "price": 69.0
+          }
+        ],
+        "url": "https://www.handy24.repair/huawei-p9-reparatur-hannover"
+      },
+      {
+        "supplier": "Huawei",
+        "name": "Akku",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD + Frontcover schwarz",
+            "price": 139.0
+          },
+          {
+            "name": " Touchscreen + LCD + Frontcover wei\u00df",
+            "price": 139.0
+          },
+          {
+            "name": " Backcover",
+            "price": 65.0
+          },
+          {
+            "name": "Ein- / Ausschalter",
+            "price": 59.0
+          },
+          {
+            "name": " Lautst\u00e4rkeregler",
+            "price": 59.0
+          },
+          {
+            "name": "Mikrofon",
+            "price": 64.0
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 64.0
+          },
+          {
+            "name": "Vibration",
+            "price": 64.0
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 64.0
+          },
+          {
+            "name": "Frontkamera",
+            "price": 55.0
+          },
+          {
+            "name": "Backkamera",
+            "price": 55.0
+          },
+          {
+            "name": "Ladeanschluss",
+            "price": 69.0
+          },
+          {
+            "name": "Kopfh\u00f6rer-Anschluss",
+            "price": 69.0
+          },
+          {
+            "name": "Akku",
+            "price": 59.0
+          }
+        ],
+        "url": "https://www.handy24.repair/huawei-g7-reparatur-hannover"
+      },
+      {
+        "supplier": "Huawei",
+        "name": "Akku",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+            "price": 25.0
+          },
+          {
+            "name": "Front + Touchscreen + LCD",
+            "price": 169.0
+          },
+          {
+            "name": "Backcover",
+            "price": 69.0
+          },
+          {
+            "name": "Ein-/Ausschalter",
+            "price": 59.0
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 59.0
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 59.0
+          },
+          {
+            "name": "Mikrofon",
+            "price": 59.0
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 59.0
+          },
+          {
+            "name": "Vibration",
+            "price": 59.0
+          },
+          {
+            "name": "Frontkamera",
+            "price": 59.0
+          },
+          {
+            "name": "Backkamera",
+            "price": 79.0
+          },
+          {
+            "name": "Ladeanschluss",
+            "price": 69.0
+          },
+          {
+            "name": "Kopfh\u00f6rer-Anschluss",
+            "price": 69.0
+          },
+          {
+            "name": "Akku",
+            "price": 59.0
+          }
+        ],
+        "url": "https://www.handy24.repair/huawei-p9-lite-reparatur-hannover"
+      },
+      {
+        "supplier": "Samsung",
+        "name": "Blockierte SIM Entfernen",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD",
+            "price": 169.0
+          },
+          {
+            "name": "Mittelrahmen",
+            "price": 69.0
+          },
+          {
+            "name": "Backcover",
+            "price": 39.0
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 69.0
+          },
+          {
+            "name": "Ein-/Ausschalter",
+            "price": 69.0
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 79.0
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 79.0
+          },
+          {
+            "name": "Mikrofon",
+            "price": 79.0
+          },
+          {
+            "name": "Vibration",
+            "price": 79.0
+          },
+          {
+            "name": "Frontkamera",
+            "price": 69.0
+          },
+          {
+            "name": "Backkamera",
+            "price": 89.0
+          },
+          {
+            "name": "Ladeanschluss",
+            "price": 69.0
+          },
+          {
+            "name": "Kopfh\u00f6rer-Anschluss",
+            "price": 69.0
+          },
+          {
+            "name": " SIM und SD Card Reader",
+            "price": 69.0
+          },
+          {
+            "name": "Akku",
+            "price": 39.0
+          },
+          {
+            "name": "Zur\u00fccksetzen auf Werkseinstellungen",
+            "price": 30.0
+          },
+          {
+            "name": "Blockierte SIM Entfernen",
+            "price": 25.0
+          }
+        ],
+        "url": "https://www.handy24.repair/samsung-galaxy-s5-neo-reparatur-hannover"
+      },
+      {
+        "supplier": "Samsung",
+        "name": "Blockierte SIM Entfernen",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD",
+            "price": 299.0
+          },
+          {
+            "name": "Mittelrahmen",
+            "price": 139.0
+          },
+          {
+            "name": "Backcover",
+            "price": 89.0
+          },
+          {
+            "name": "Ein-/Ausschalter",
+            "price": 99.0
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 99.0
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 99.0
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 99.0
+          },
+          {
+            "name": "Mikrofon",
+            "price": 99.0
+          },
+          {
+            "name": "Vibration",
+            "price": 99.0
+          },
+          {
+            "name": "Frontkamera",
+            "price": 94.0
+          },
+          {
+            "name": "Backkamera",
+            "price": 124.0
+          },
+          {
+            "name": "Backkameralinse",
+            "price": 25.0
+          },
+          {
+            "name": "Ladeanschluss",
+            "price": 139.0
+          },
+          {
+            "name": "Kopfh\u00f6rer-Anschluss",
+            "price": 139.0
+          },
+          {
+            "name": "Akku",
+            "price": 89.0
+          },
+          {
+            "name": "Zur\u00fccksetzen auf Werkseinstellungen",
+            "price": 35.0
+          },
+          {
+            "name": "Blockierte SIM Entfernen",
+            "price": 30.0
+          }
+        ],
+        "url": "https://www.handy24.repair/detail/index/sArticle/150"
+      },
+      {
+        "supplier": "Samsung",
+        "name": "Blockierte SIM Entfernen",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD",
+            "price": 169.0
+          },
+          {
+            "name": "Mittelrahmen",
+            "price": 99.0
+          },
+          {
+            "name": "Backcover",
+            "price": 79.0
+          },
+          {
+            "name": "Ein-/Ausschalter",
+            "price": 79.0
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 79.0
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 79.0
+          },
+          {
+            "name": "Mikrofon",
+            "price": 79.0
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 79.0
+          },
+          {
+            "name": "Vibration",
+            "price": 79.0
+          },
+          {
+            "name": "Frontkamera",
+            "price": 79.0
+          },
+          {
+            "name": "Backkamera",
+            "price": 89.0
+          },
+          {
+            "name": "Ann\u00e4herungssensor",
+            "price": 69.0
+          },
+          {
+            "name": "Ladeanschluss",
+            "price": 89.0
+          },
+          {
+            "name": "Kopfh\u00f6rer-Anschluss",
+            "price": 89.0
+          },
+          {
+            "name": "Akku",
+            "price": 69.0
+          },
+          {
+            "name": "Zur\u00fccksetzen auf Werkseinstellungen",
+            "price": 30.0
+          },
+          {
+            "name": "Blockierte SIM Entfernen",
+            "price": 25.0
+          }
+        ],
+        "url": "https://www.handy24.repair/samsung-galaxy-a5-2017-sm-a520-reparatur-hannover"
+      },
+      {
+        "supplier": "Huawei",
+        "name": "Akku",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+            "price": 25.0
+          },
+          {
+            "name": "LCD + Touchscreen + Frontcover",
+            "price": 179.0
+          },
+          {
+            "name": "Backcover",
+            "price": 109.0
+          },
+          {
+            "name": "Ein-/Ausschalter",
+            "price": 69.0
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 69.0
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 69.0
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 69.0
+          },
+          {
+            "name": "Vibration",
+            "price": 69.0
+          },
+          {
+            "name": "Frontkamera",
+            "price": 69.0
+          },
+          {
+            "name": "Backkamera",
+            "price": 89.0
+          },
+          {
+            "name": "Kopfh\u00f6rer-Anschluss",
+            "price": 79.0
+          },
+          {
+            "name": "Ladeanschluss",
+            "price": 79.0
+          },
+          {
+            "name": "Akku",
+            "price": 69.0
+          }
+        ],
+        "url": "https://www.handy24.repair/huawei-nova-reparatur-hannover"
+      },
+      {
+        "supplier": "Huawei",
+        "name": "Akku",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+            "price": 25.0
+          },
+          {
+            "name": "LCD + Touchscreen",
+            "price": 209.0
+          },
+          {
+            "name": " Geh\u00e4use",
+            "price": 99.0
+          },
+          {
+            "name": "Mikrofon",
+            "price": 69.0
+          },
+          {
+            "name": "Frontkamera",
+            "price": 79.0
+          },
+          {
+            "name": " Backkamera",
+            "price": 89.0
+          },
+          {
+            "name": "Ladeanschluss",
+            "price": 79.0
+          },
+          {
+            "name": " Kopfh\u00f6rer-Anschluss",
+            "price": 79.0
+          },
+          {
+            "name": "Akku",
+            "price": 79.0
+          }
+        ],
+        "url": "https://www.handy24.repair/huawei-mate-9-reparatur-hannover"
+      },
+      {
+        "supplier": "Samsung",
+        "name": "Blockierte SIM Entfernen",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD schwarz",
+            "price": 269.0
+          },
+          {
+            "name": "Touchscreen + LCD silber",
+            "price": 269.0
+          },
+          {
+            "name": "Touchscreen + LCD violett",
+            "price": 269.0
+          },
+          {
+            "name": " Backcover",
+            "price": 89.0
+          },
+          {
+            "name": "Standby (Ein- / Ausschalter)",
+            "price": 89.0
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 89.0
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 89.0
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 89.0
+          },
+          {
+            "name": "Mikrofon",
+            "price": 89.0
+          },
+          {
+            "name": "Vibration",
+            "price": 89.0
+          },
+          {
+            "name": "Frontkamera",
+            "price": 99.0
+          },
+          {
+            "name": " Backkamera",
+            "price": 139.0
+          },
+          {
+            "name": " Backkameralinse",
+            "price": 25.0
+          },
+          {
+            "name": "Homebutton schwarz",
+            "price": 89.0
+          },
+          {
+            "name": "Homebutton silver",
+            "price": 89.0
+          },
+          {
+            "name": "Homebutton violett",
+            "price": 89.0
+          },
+          {
+            "name": "Ann\u00e4herungssensor",
+            "price": 89.0
+          },
+          {
+            "name": "Kopfh\u00f6rer Anschluss",
+            "price": 109.0
+          },
+          {
+            "name": "USB - Anschluss",
+            "price": 109.0
+          },
+          {
+            "name": "Akku",
+            "price": 89.0
+          },
+          {
+            "name": "Zur\u00fccksetzen auf Werkseinstellungen",
+            "price": 40.0
+          },
+          {
+            "name": "Blockierte SIM Entfernen",
+            "price": 35.0
+          }
+        ],
+        "url": "https://www.handy24.repair/samsung-s8-sm-g-950-reparatur-hannover"
+      },
+      {
+        "supplier": "Samsung",
+        "name": "Blockierte SIM Entfernen",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD schwarz",
+            "price": 279.0
+          },
+          {
+            "name": " Touchscreen + LCD silver",
+            "price": 279.0
+          },
+          {
+            "name": "Touchscreen + LCD violett",
+            "price": 279.0
+          },
+          {
+            "name": "Backcover",
+            "price": 89.0
+          },
+          {
+            "name": "Standby (Ein-/ Ausschalter)",
+            "price": 99.0
+          },
+          {
+            "name": "Lautst\u00e4rkeregler",
+            "price": 99.0
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 99.0
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 99.0
+          },
+          {
+            "name": "Mikrofon",
+            "price": 99.0
+          },
+          {
+            "name": "Vibration",
+            "price": 99.0
+          },
+          {
+            "name": "Frontkamera",
+            "price": 99.0
+          },
+          {
+            "name": " Backkamera",
+            "price": 139.0
+          },
+          {
+            "name": "Backkameralinse",
+            "price": 25.0
+          },
+          {
+            "name": "Homebutton schwarz",
+            "price": 89.0
+          },
+          {
+            "name": "Homebutton silver",
+            "price": 89.0
+          },
+          {
+            "name": "Homebutton violett",
+            "price": 89.0
+          },
+          {
+            "name": " Ann\u00e4herungssensor",
+            "price": 99.0
+          },
+          {
+            "name": "Kopfh\u00f6rer Anschluss",
+            "price": 119.0
+          },
+          {
+            "name": "USB - Anschluss",
+            "price": 119.0
+          },
+          {
+            "name": "Akku",
+            "price": 89.0
+          },
+          {
+            "name": "Zur\u00fccksetzen auf Werkseinstellungen",
+            "price": 40.0
+          },
+          {
+            "name": "Blockierte SIM Entfernen",
+            "price": 35.0
+          }
+        ],
+        "url": "https://www.handy24.repair/samsung-s8-sm-g-955-reparatur-hannover"
+      },
+      {
+        "supplier": "Samsung",
+        "name": "Zur\u00fccksetzen auf Werkseinstellungen",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr die Versicherung",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD",
+            "price": 139.0
+          },
+          {
+            "name": " Geh\u00e4use",
+            "price": 89.0
+          },
+          {
+            "name": "Akku",
+            "price": 59.0
+          },
+          {
+            "name": "Zur\u00fccksetzen auf Werkseinstellungen",
+            "price": 30.0
+          }
+        ],
+        "url": "https://www.handy24.repair/samsung-j5-2017-sm-j530-reparatur-hannover"
+      },
+      {
+        "supplier": "Huawei",
+        "name": "Akku",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD + Frontcover",
+            "price": 185.0
+          },
+          {
+            "name": " Geh\u00e4use",
+            "price": 109.0
+          },
+          {
+            "name": "Frontkamera",
+            "price": 59.0
+          },
+          {
+            "name": "Backkamera",
+            "price": 89.0
+          },
+          {
+            "name": "Ladeanschluss",
+            "price": 79.0
+          },
+          {
+            "name": "Akku",
+            "price": 49.0
+          }
+        ],
+        "url": "https://www.handy24.repair/huawei-p10-reparatur-hannover"
+      },
+      {
+        "supplier": "Huawei",
+        "name": "Akku",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD + Frontrahmen",
+            "price": 169.0
+          },
+          {
+            "name": " Backcover",
+            "price": 59.0
+          },
+          {
+            "name": "Frontkamera",
+            "price": 49.0
+          },
+          {
+            "name": "Backkamera",
+            "price": 79.0
+          },
+          {
+            "name": "Ladeanschluss",
+            "price": 69.0
+          },
+          {
+            "name": "Akku",
+            "price": 39.0
+          }
+        ],
+        "url": "https://www.handy24.repair/huawei-p10-lite-reparatur-hannover"
+      },
+      {
+        "supplier": "Samsung",
+        "name": "Blockierte SIM Entfernen",
+        "services": [
+          {
+            "name": " Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD",
+            "price": 149.0
+          },
+          {
+            "name": "Mittelrahmen",
+            "price": 89.0
+          },
+          {
+            "name": "Backcover",
+            "price": 69.0
+          },
+          {
+            "name": "H\u00f6rmuschel",
+            "price": 69.0
+          },
+          {
+            "name": "Mikrofon",
+            "price": 69.0
+          },
+          {
+            "name": "Lautsprecher",
+            "price": 69.0
+          },
+          {
+            "name": "Vibration",
+            "price": 69.0
+          },
+          {
+            "name": "Frontkamera",
+            "price": 79.0
+          },
+          {
+            "name": "Backkamera",
+            "price": 89.0
+          },
+          {
+            "name": "Ladeanschluss",
+            "price": 79.0
+          },
+          {
+            "name": "Kopfh\u00f6rer-Anschluss",
+            "price": 79.0
+          },
+          {
+            "name": "Akku",
+            "price": 69.0
+          },
+          {
+            "name": "Zur\u00fccksetzen auf Werkseinstellungen",
+            "price": 30.0
+          },
+          {
+            "name": "Blockierte SIM Entfernen",
+            "price": 25.0
+          }
+        ],
+        "url": "https://www.handy24.repair/samsung-galaxy-a3-2017-sm-a320-reparatur-hannover"
+      },
+      {
+        "supplier": "Huawei",
+        "name": "Zur\u00fccksetzen auf Werkseinstellung",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+            "price": 25.0
+          },
+          {
+            "name": "LCD + Touch + Frame",
+            "price": 139.0
+          },
+          {
+            "name": "Backcover",
+            "price": 59.0
+          },
+          {
+            "name": "Ladeanschluss",
+            "price": 59.0
+          },
+          {
+            "name": "Akku",
+            "price": 49.0
+          },
+          {
+            "name": "Zur\u00fccksetzen auf Werkseinstellung",
+            "price": 30.0
+          }
+        ],
+        "url": "https://www.handy24.repair/huawei-p8-lite-2017-reparatur-hannover"
+      },
+      {
+        "supplier": "Samsung",
+        "name": "Blockierte SIM Entfernen",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD",
+            "price": 139.0
+          },
+          {
+            "name": " Geh\u00e4userahmen",
+            "price": 79.0
+          },
+          {
+            "name": "Akkudeckel",
+            "price": 29.0
+          },
+          {
+            "name": "Akku",
+            "price": 34.0
+          },
+          {
+            "name": "Zur\u00fccksetzen auf Werkseinstellungen",
+            "price": 30.0
+          },
+          {
+            "name": "Blockierte SIM Entfernen",
+            "price": 25.0
+          }
+        ],
+        "url": "https://www.handy24.repair/samsung-xcover-4-reparatur-hannover"
+      },
+      {
+        "supplier": "Samsung",
+        "name": "Zur\u00fccksetzen auf Werkseinstellungen",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr die Versicherung",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD",
+            "price": 129.0
+          },
+          {
+            "name": " Geh\u00e4use",
+            "price": 79.0
+          },
+          {
+            "name": "Akku",
+            "price": 49.0
+          },
+          {
+            "name": "Zur\u00fccksetzen auf Werkseinstellungen",
+            "price": 30.0
+          }
+        ],
+        "url": "https://www.handy24.repair/samsung-j3-2017-sm-j330-reparatur-hannover"
+      },
+      {
+        "supplier": "Samsung",
+        "name": "Akku",
+        "services": [
+          {
+            "name": "Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD schwarz",
+            "price": 299.0
+          },
+          {
+            "name": " Touchscreen + LCD gold",
+            "price": 299.0
+          },
+          {
+            "name": " Backcover",
+            "price": 99.0
+          },
+          {
+            "name": "SIM-Tray",
+            "price": 25.0
+          },
+          {
+            "name": "Frontkamera",
+            "price": 79.0
+          },
+          {
+            "name": " Dual-Backkamera",
+            "price": 149.0
+          },
+          {
+            "name": "Backkameralinse",
+            "price": 25.0
+          },
+          {
+            "name": "Ann\u00e4herungssensor",
+            "price": 89.0
+          },
+          {
+            "name": "Homebutton",
+            "price": 99.0
+          },
+          {
+            "name": "Kopfh\u00f6rer-Anschluss",
+            "price": 89.0
+          },
+          {
+            "name": "Ladeanschluss",
+            "price": 99.0
+          },
+          {
+            "name": "Akku",
+            "price": 89.0
+          }
+        ],
+        "url": "https://www.handy24.repair/samsung-note-8-sm-n950-reparatur-hannover"
+      },
+      {
+        "supplier": "Huawei",
+        "name": "Akku",
+        "services": [
+          {
+            "name": " Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+            "price": 25.0
+          },
+          {
+            "name": "Touchscreen + LCD + Frontrahmen",
+            "price": 159.0
+          },
+          {
+            "name": " Backcover",
+            "price": 109.0
+          },
+          {
+            "name": "Akku",
+            "price": 69.0
+          }
+        ],
+        "url": "https://www.handy24.repair/huawei-mate-10-lite-reparatur-hannover"
+      },
+      {
+        "supplier": "Huawei",
+        "name": "Akku",
+        "services": [
+          {
+            "name": " Diagnose / Kostenvoranschlag f\u00fcr Versicherungen",
+            "price": 25.0
+          },
+          {
+            "name": "LCD + Touch + Frame",
+            "price": 209.0
+          },
+          {
+            "name": "Backcover",
+            "price": 109.0
+          },
+          {
+            "name": "Akku",
+            "price": 69.0
+          }
+        ],
+        "url": "https://www.handy24.repair/huawei-p20-reparatur-hannover"
+      }
+    ]
+  },
+  {
     "name": "My Phone Repair GmbH",
     "address": "Voltmerstr. 73, 30165 Hannover",
     "mapsUrl": "https://www.google.com/maps/place/My+Phone+Repair+GmbH/@52.406989,9.713507,16z/data=!4m5!3m4!1s0x0:0x53837d74a2d9f2b6!8m2!3d52.406989!4d9.713507?hl=en-US",
-    "logo": "/img/logos/logo-myphonerepair-hannover.jpg",
+    "logo": "https://rcstatic.github.io/img/logos/logo-myphonerepair-hannover.jpg",
     "entries": [
       {
         "supplier": "Apple",
